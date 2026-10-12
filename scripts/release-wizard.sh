@@ -81,7 +81,7 @@ ask_bundle() {
 confirm() {
   local a
   read -r -p "$1 [y/N] " a || a=""
-  [[ "$a" =~ ^[Yy]$ ]]
+  a="${a//[[:space:]]/}"; [[ "$a" == [Yy] || "$a" == "у" || "$a" == "У" || "$a" == "д" || "$a" == "Д" ]]
 }
 
 pause() {
