@@ -8,7 +8,7 @@ cd "$ROOT"
 LOCAL_XCCONFIG="$ROOT/Local.xcconfig"
 SCHEME=job-to-offer
 WORKSPACE=job-to-offer.xcworkspace
-SIM_NAME="iPhone 18 Pro"
+SIM_NAME="iPhone 18 Pro Max"
 SIM_DEST="platform=iOS Simulator,name=$SIM_NAME,OS=27.0"
 TEAM_RE='^[A-Z0-9]{10}$'
 BUNDLE_RE='^[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+$'
