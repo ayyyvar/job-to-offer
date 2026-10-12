@@ -44,6 +44,8 @@ public final class ParseModel {
     public func run(text: String) async { await evaluate(text, fetched: nil) }
 
     private func evaluate(_ text: String, fetched: FetchedPosting?) async {
+        // The on-device model has no Russian: say so instead of surfacing its locale error.
+        guard !Self.isMostlyCyrillic(text) else { return set(.failed(Self.unsupportedLanguage)) }
         do {
             set(.extracting)
             let posting = try await client.extract(postingText: text).grounded(in: text)
@@ -54,6 +56,16 @@ public final class ParseModel {
         } catch {
             set(.failed(Self.reason(error)))
         }
+    }
+
+    static let unsupportedLanguage = "This posting is in Russian. job-to-offer reads English postings only for now."
+
+    static func isMostlyCyrillic(_ text: String) -> Bool {
+        var cyrillic = 0, latin = 0
+        for scalar in text.unicodeScalars where scalar.properties.isAlphabetic {
+            if (0x0400...0x04FF).contains(scalar.value) { cyrillic += 1 } else if scalar.isASCII { latin += 1 }
+        }
+        return cyrillic > latin
     }
 
     private func set(_ state: State) {

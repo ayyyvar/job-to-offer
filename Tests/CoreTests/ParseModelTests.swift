@@ -42,6 +42,18 @@ import Testing
         #expect(evaluation.fit.band == .strong)
     }
 
+    @Test func russianPostingFailsWithAPlainReasonBeforeTheModel() async throws {
+        let model = ParseModel(client: try Self.fake(), profile: .fixture)
+        await model.run(text: "UX-редактор\n\nИщем начинающего UX-редактора, который будет заботиться о Tone of Voice. Удалённо, от 100 000 ₽.")
+        #expect(model.state == .failed(ParseModel.unsupportedLanguage))
+    }
+
+    @Test func englishPostingWithACyrillicNameStillParses() async throws {
+        let model = ParseModel(client: try Self.fake(), profile: .fixture)
+        await model.run(text: "Senior AI Engineer at Точка. Remote. Python, LLM evaluation, five years of experience required.")
+        _ = try Self.evaluation(model)
+    }
+
     @Test func urlRunGoesIdleFetchingExtractingScoringDone() async throws {
         let recorder = StateRecorder()
         let model = ParseModel(client: try Self.fake(), profile: .fixture, fetch: { _ in Self.fetched })
