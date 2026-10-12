@@ -1,5 +1,5 @@
 # Round 4 brief: the road writes a word
-JobScout iOS app icon. The user picked concept 11 (logos/concepts/concept-11.svg, render logos/renders/concept-11.svg.png):
+job-to-offer iOS app icon. The user picked concept 11 (logos/concepts/concept-11.svg, render logos/renders/concept-11.svg.png):
 green #2F6F5E square, a paper #F3F5F4 road with round caps, a green dashed centerline on the road, violet #5B3FA8 start dot, amber #E0A23B end dot.
 The user wants the road to WRITE A WORD as ONE continuous line: "job" and "work".
 Earlier attempts failed on legibility (renders logos/renders/iteration-1.svg.png = "work" read as "wok"; iteration-2 = "job" read as "jeb"):

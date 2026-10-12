@@ -41,7 +41,7 @@ public struct SeenJobEntry: Codable, Equatable, Sendable {
         fit = job.fit
         status = ranked ? "ranked" : "new"
         portal = job.portal
-        source = "jobscout"
+        source = "job-to-offer"
         location = job.location
         rankScore = job.rankScore
         rankVerdict = job.rankVerdict

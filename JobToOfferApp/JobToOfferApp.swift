@@ -3,7 +3,7 @@ import SwiftData
 import SwiftUI
 
 @main
-struct JobScoutApp: App {
+struct JobToOfferApp: App {
     let container: ModelContainer
     let storeError: String?
     @State private var launching = true

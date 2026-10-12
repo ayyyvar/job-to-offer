@@ -64,5 +64,5 @@ Length: 99 / 100
 
 ## URLs
 
-- Support URL: https://github.com/ayyyvar/jobscout/issues
-- Privacy Policy URL: https://ayyyvar.github.io/jobscout/privacy.html
+- Support URL: https://github.com/ayyyvar/job-to-offer/issues
+- Privacy Policy URL: https://ayyyvar.github.io/job-to-offer/privacy.html

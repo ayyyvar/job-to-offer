@@ -1,5 +1,5 @@
-# JobScout icon — round 3 brief
-App: JobScout, iOS. Shares a job posting, checks in ~10 s if you can legally take it (visa, language, location), tracks applications, preps interviews. Users: CIS job seekers moving abroad.
+# job-to-offer icon — round 3 brief
+App: job-to-offer, iOS. Shares a job posting, checks in ~10 s if you can legally take it (visa, language, location), tracks applications, preps interviews. Users: CIS job seekers moving abroad.
 Themes the user wants: path/journey, interview, job search.
 App visual world: passport control (security-paper, entry stamps). Palette: paper #F3F5F4, ink #1E2622, green #2F6F5E, violet #5B3FA8, amber #E0A23B / #A86300.
 User feedback so far:

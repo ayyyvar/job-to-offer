@@ -6,8 +6,8 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 cd "$ROOT"
 LOCAL_XCCONFIG="$ROOT/Local.xcconfig"
-SCHEME=JobScout
-WORKSPACE=JobScout.xcworkspace
+SCHEME=job-to-offer
+WORKSPACE=job-to-offer.xcworkspace
 SIM_NAME="iPhone 18 Pro"
 SIM_DEST="platform=iOS Simulator,name=$SIM_NAME,OS=27.0"
 TEAM_RE='^[A-Z0-9]{10}$'
@@ -68,7 +68,7 @@ valid_bundle() {
 ask_bundle() {
   local def="${1:-}" v
   while true; do
-    v="$(ask_value "Bundle ID" "$BUNDLE_RE" "use reverse-DNS form, like com.name.jobscout" "$def")"
+    v="$(ask_value "Bundle ID" "$BUNDLE_RE" "use reverse-DNS form, like com.name.job-to-offer" "$def")"
     if valid_bundle "$v"; then
       printf '%s\n' "$v"
       return 0
@@ -135,7 +135,7 @@ step_2() {
   header 2 "Bundle ID and Local.xcconfig"
   ensure_team
   cat <<'EOF'
-  The bundle ID must be yours. com.example.jobscout is the template default and is not allowed.
+  The bundle ID must be yours. com.example.job-to-offer is the template default and is not allowed.
 EOF
   local name current suggest content
   name="$(ask_value "Short name (lowercase letters and digits, e.g. jdoe)" '^[a-z0-9]+$' "use lowercase letters and digits only")"
@@ -143,7 +143,7 @@ EOF
   if valid_bundle "$current"; then
     suggest="$current"
   else
-    suggest="com.$name.jobscout"
+    suggest="com.$name.job-to-offer"
   fi
   BUNDLE_ID="$(ask_bundle "$suggest")"
   APP_GROUP="group.$BUNDLE_ID"
@@ -197,7 +197,7 @@ EOF
 step_4() {
   header 4 "Generate the Xcode project"
   cat <<'EOF'
-  xcodegen reads Signing.xcconfig and Local.xcconfig and writes JobScout.xcodeproj (gitignored).
+  xcodegen reads Signing.xcconfig and Local.xcconfig and writes job-to-offer.xcodeproj (gitignored).
 EOF
   command -v xcodegen >/dev/null 2>&1 || die "xcodegen not found. Install it: brew install xcodegen"
   run xcodegen generate
@@ -213,7 +213,7 @@ step_5() {
     - Name: use the name in docs/appstore/listing.md
     - Primary language: English (U.S.)
     - Bundle ID: $BUNDLE_ID   (must exist from step 3)
-    - SKU: jobscout-ios
+    - SKU: job-to-offer-ios
     - User access: Full Access
 EOF
   if [[ -f "$ROOT/docs/appstore/listing.md" ]]; then
@@ -228,21 +228,21 @@ step_6() {
   header 6 "Privacy policy URL and privacy label"
   cat <<'EOF'
   A. Publish the privacy policy (GitHub Pages):
-     1. Open https://github.com/ayyyvar/jobscout/settings/pages
+     1. Open https://github.com/ayyyvar/job-to-offer/settings/pages
      2. Source: Deploy from a branch > main > /docs > Save
      3. The repo must be public for Pages on a free account.
-     4. Check: https://ayyyvar.github.io/jobscout/privacy.html opens.
+     4. Check: https://ayyyvar.github.io/job-to-offer/privacy.html opens.
 
   B. Set the URL in App Store Connect:
      App Information > Privacy Policy URL:
-     https://ayyyvar.github.io/jobscout/privacy.html
+     https://ayyyvar.github.io/job-to-offer/privacy.html
 
   C. Privacy label: App Privacy in App Store Connect. Follow docs/appstore/privacy-label.md.
 EOF
   [[ -f "$ROOT/docs/privacy.html" ]] || echo "  WARNING: docs/privacy.html not found. Pages will return 404."
   [[ -f "$ROOT/docs/appstore/privacy-label.md" ]] || echo "  WARNING: docs/appstore/privacy-label.md not found."
   if command -v gh >/dev/null 2>&1; then
-    echo "  Repo visibility: $(gh repo view ayyyvar/jobscout --json visibility --jq .visibility 2>/dev/null || echo 'unknown')"
+    echo "  Repo visibility: $(gh repo view ayyyvar/job-to-offer --json visibility --jq .visibility 2>/dev/null || echo 'unknown')"
   fi
   pause
 }
@@ -261,7 +261,7 @@ EOF
   open -a Simulator || true
   run xcodebuild -workspace "$WORKSPACE" -scheme "$SCHEME" -configuration Debug \
     -destination "$SIM_DEST" -derivedDataPath build/DerivedData build
-  run xcrun simctl install booted "$ROOT/build/DerivedData/Build/Products/Debug-iphonesimulator/JobScout.app"
+  run xcrun simctl install booted "$ROOT/build/DerivedData/Build/Products/Debug-iphonesimulator/job-to-offer.app"
   run xcrun simctl launch booted "$BUNDLE_ID" -mockData YES
 
   mkdir -p "$ROOT/docs/appstore/screenshots"
@@ -312,9 +312,9 @@ EOF
     2. Export and upload to App Store Connect
 EOF
   run xcodebuild -workspace "$WORKSPACE" -scheme "$SCHEME" -configuration Release \
-    -destination 'generic/platform=iOS' -archivePath build/JobScout.xcarchive \
+    -destination 'generic/platform=iOS' -archivePath build/job-to-offer.xcarchive \
     -allowProvisioningUpdates archive
-  run xcodebuild -exportArchive -archivePath build/JobScout.xcarchive \
+  run xcodebuild -exportArchive -archivePath build/job-to-offer.xcarchive \
     -exportOptionsPlist build/ExportOptions.plist -exportPath build/export \
     -allowProvisioningUpdates
   echo "  Check the build: App Store Connect > TestFlight. Processing takes a few minutes."

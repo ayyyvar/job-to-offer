@@ -1,6 +1,6 @@
 import Core
 import FoundationModels
-@testable import JobScout
+@testable import job_to_offer
 import Testing
 
 @Suite struct ExtractionTests {

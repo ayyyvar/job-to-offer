@@ -1,6 +1,6 @@
-# JobScout — iOS companion for a job-search workflow
+# job-to-offer — iOS companion for a job-search workflow
 
-You are Claude Code working in a fresh Xcode project. Build **JobScout**, an iOS 27 app that
+You are Claude Code working in a fresh Xcode project. Build **job-to-offer**, an iOS 27 app that
 uses Apple's on-device Foundation Models to parse a job posting, run the fit rubric from the
 candidate's existing job-search repo, and keep a tracker. Work **test-first** on every step.
 
@@ -32,7 +32,7 @@ use **English** for development.
 
 Source: the author's private job-search repo (Claude Code skills and Python tools; not part of this repository). Paths in this table are relative to its root.
 
-| File | What to take | Where it goes in JobScout |
+| File | What to take | Where it goes in job-to-offer |
 |---|---|---|
 | `CLAUDE.md` (sections "Candidate Profile", "Technical Skills", "Deal-breakers") | Facts about the candidate. Compress to **≤ 900 tokens** (measure with `tokenCount(for:)`). Keep numbers, drop prose. | `Core/Resources/profile_compact.md` and `profile_full.md` |
 | `.claude/skills/job-application-assistant/04-job-evaluation.md` | Eligibility Gate table, Language Gate table, 5 dimensions with the strong/moderate/weak lists, Location rules | `Core/Rubric/*.swift` + `Core/Resources/rubric_compact.md` (≤ 700 tokens) |
@@ -72,7 +72,7 @@ Candidate constraints that the gates must encode (from `04-job-evaluation.md` an
 ## 4. Architecture
 
 ```
-JobScout.xcworkspace
+job-to-offer.xcworkspace
 ├── Core/                     Swift package, platform-agnostic, 100 % unit-testable
 │   ├── Models/               JobPosting (@Generable), FitEvaluation, TrackedJob (SwiftData)
 │   ├── Rubric/               Gates.swift, Scoring.swift, Bands.swift
@@ -81,7 +81,7 @@ JobScout.xcworkspace
 │   ├── LLM/                  LLMClient protocol, PromptBudget, PromptRenderer, FakeLLMClient
 │   ├── Export/               CSVExporter, SeenJobsExporter
 │   └── Resources/            profile_*.md, rubric_compact.md, prompts/*.md
-├── JobScoutApp/              SwiftUI app: Inbox, JobDetail, Tracker, Settings
+├── JobToOfferApp/              SwiftUI app: Inbox, JobDetail, Tracker, Settings
 │   └── LLM/FoundationModelsClient.swift   (imports FoundationModels; the only file that does)
 ├── ShareExtension/           receives URL / text → writes to the App Group store → opens app
 └── Tests/
@@ -162,7 +162,7 @@ macro signature in Xcode (`FoundationModels` → `Guide`) and keep the descripti
 ### Step 0 — Project bootstrap (no product code)
 - Create the workspace, `Core` Swift package (platforms: iOS 27, macOS 26), app target, share extension target, App Group `group.<bundle-id>`.
 - Add Swift Testing targets. Confirm one trivial `@Test` runs from the CLI:
-  `xcodebuild test -scheme JobScout -destination 'platform=iOS Simulator,name=<pick from xcrun simctl list devices available>'`
+  `xcodebuild test -scheme job-to-offer -destination 'platform=iOS Simulator,name=<pick from xcrun simctl list devices available>'`
 - Install XcodeBuildMCP for headless build / test / simulator control: `npm install -g xcodebuildmcp@latest`, then `claude mcp add xcodebuildmcp -- xcodebuildmcp mcp`.
 - Add `Tests/Fixtures/` and a `Fixture.load(_:)` helper.
 - Add a launch-time capability probe in the app: `SystemLanguageModel.default.availability`, `.contextSize`, `.supportedLanguages`. Show it on the Settings screen. On `.unavailable(reason)` show the reason text.
@@ -244,7 +244,7 @@ Tests first:
 Implement:
 - `Info.plist` → `NSExtension` → `NSExtensionAttributes` → `NSExtensionActivationRule` as a dictionary: `NSExtensionActivationSupportsWebURLWithMaxCount = 1`, `NSExtensionActivationSupportsText = true`.
 - Share both targets' SwiftData store via the App Group container (`ModelConfiguration(groupContainer: .identifier("group.<bundle-id>"))`).
-- Extension UI: one screen, "Add to JobScout", then `extensionContext.completeRequest`. Do the fetch and the model call in the **app**, not in the extension (memory limits).
+- Extension UI: one screen, "Add to job-to-offer", then `extensionContext.completeRequest`. Do the fetch and the model call in the **app**, not in the extension (memory limits).
 Done when: sharing a Greenhouse URL from Safari on the simulator creates an Inbox row.
 
 ### Step 9 — App UI (SwiftUI)
@@ -359,22 +359,22 @@ Next: Step N+1 — <name>
 - 2026-09-28, real-posting fixes: (1) a sentence supports the permissive `.sponsors` only when it also names visa / work permit / immigration / relocation / international applicants — "We sponsor multiple events" (swatchwell) gave a false hybrid+sponsors location PASS and even became the eligibilityQuote; now grounds to `.silent`. (2) The guardrail retry text is `droppingShortParagraphs(droppingVisaLines(text))` (Holdout2 staffora-solutions: stripping Breezy `%…%` tokens made it worse; dropping 1–3-word paragraphs cleared it). Holdout2 (`Tests/Fixtures/Eval/Holdout2/`, 18 postings, bar 13) added to EvalTests. 172 tests green (incl. a GatesReal swatchwell regression test).
 - 2026-09-28, host rerun after the fixes (eval session, docs/MODEL_BEHAVIOR.md §7.3a): dev 10/10 MAE 6.1, Holdout 24/25 MAE 8.3 (threadly fails on the host only — the language retry is iOS 27-only), Holdout2 18/18 MAE 6.0 bias +0.2, GatesReal 16/16 not-PASS (swatchwell now FLAG). Apple's guardrail is not deterministic: staffora-solutions threw guardrailViolation on one greedy host run and parsed on the next — treat single guardrail failures as noise until they repeat.
 - 2026-09-28, Low set + sponsors verb guard: `Tests/Fixtures/Eval/Low/` (17 fit:low postings, bar 12) added to EvalTests; host baseline 13/17, MAE 18.1, bias +14.6 (docs/MODEL_BEHAVIOR.md §7.3b) — Low postings are over-scored, calibration open. The permissive `.sponsors` sentence must also contain an offer verb (offer / provide / support / available / we-can-will sponsor): job-board menu chrome "- Jobs with Visa Sponsorship" (anchorline) grounded to a triple PASS. The same guard is deliberately NOT applied to restrictive stances: it would turn bare "- U.S. citizenship" bullets into silent PASSes; a false FAIL at least shows its quote. Known extraction miss: datavane "Polish (Fluent)" not extracted. 175 tests green. Host rerun after the verb guard: scores identical on all five sets; two gate verdicts moved toward /rank (anchorline and hireloom location PASS → FLAG); wraithwork keeps its false citizenship FAIL by design (docs/MODEL_BEHAVIOR.md §7.3b).
-- 2026-10-11, public-repo scrub (issue #3): every employer in tests, fixtures and docs maps to a stable fictional name; the map and a leak-check list live in the gitignored `.private/`. Names that are also technologies (Databricks, Mistral, Grafana) are replaced only in the employer's own posting. Founder / recruiter names and the LinkedIn sidebar companies are fictional too. seen_jobs and tracker fixtures are synthetic (one entry per shape). Retired scoring files deleted. Signing moved to `Signing.xcconfig` (example IDs, empty team) + gitignored `Local.xcconfig`; `SharedStore.appGroupID` reads `JobScoutAppGroupID` from Info.plist. LiveATSTests read boards from env vars. Simulator rerun (docs/MODEL_BEHAVIOR.md §7.3c): dev 9/10 exact 6 MAE 6.0 bias +2.4 (variantly guardrail, as before on the simulator), Holdout 25/25 exact 13 MAE 7.9 bias +4.4 (threadly now parses: the real name was a Polish word), Holdout2 18/18 exact 10 MAE 6.2 bias +0.1, Low 13/17 exact 7 MAE 17.9 bias +14.8, GatesReal 16/16 not PASS (new test, bar 15), gate injection 17/17. 199 CoreTests green.
+- 2026-10-11, public-repo scrub (issue #3): every employer in tests, fixtures and docs maps to a stable fictional name; the map and a leak-check list live in the gitignored `.private/`. Names that are also technologies (Databricks, Mistral, Grafana) are replaced only in the employer's own posting. Founder / recruiter names and the LinkedIn sidebar companies are fictional too. seen_jobs and tracker fixtures are synthetic (one entry per shape). Retired scoring files deleted. Signing moved to `Signing.xcconfig` (example IDs, empty team) + gitignored `Local.xcconfig`; `SharedStore.appGroupID` reads `JobToOfferAppGroupID` from Info.plist. LiveATSTests read boards from env vars. Simulator rerun (docs/MODEL_BEHAVIOR.md §7.3c): dev 9/10 exact 6 MAE 6.0 bias +2.4 (variantly guardrail, as before on the simulator), Holdout 25/25 exact 13 MAE 7.9 bias +4.4 (threadly now parses: the real name was a Polish word), Holdout2 18/18 exact 10 MAE 6.2 bias +0.1, Low 13/17 exact 7 MAE 17.9 bias +14.8, GatesReal 16/16 not PASS (new test, bar 15), gate injection 17/17. 199 CoreTests green.
 
 - 2026-09-27, Step 0: `Package.swift` sits at the repo root (package `Core`: target `Core` → `Core/`, test target `CoreTests` → `Tests/CoreTests`, resources `Tests/Fixtures`). SwiftPM forbids target paths outside the package root; this keeps the §4 layout.
-- `JobScout.xcodeproj` is generated by xcodegen from `project.yml` and is gitignored. Sources are synced folders: new files join their target without regeneration. Run `xcodegen generate` only after you change `project.yml` (targets, settings).
-- Signing: `Signing.xcconfig` sets `APP_BUNDLE_ID = com.example.jobscout`, `APP_GROUP_ID = group.com.example.jobscout` and an empty `DEVELOPMENT_TEAM`; a gitignored `Local.xcconfig` next to it overrides all three (see the comment in `Signing.xcconfig`). Do not change signing in the Xcode UI: regeneration resets it.
-- Open `JobScout.xcworkspace`, never the repo folder: the folder has `Package.swift` at its root, so Xcode opens it as the `Core` package (library only, scheme `Core`) and Run builds `Core.o` with no app to launch (2026-09-27). Device build + launch verified from the CLI the same day: `xcodebuild -workspace JobScout.xcworkspace -scheme JobScout -destination 'platform=iOS,id=<device UDID>' -allowProvisioningUpdates build`, then `xcrun devicectl device install app` / `process launch`. Free (Personal Team) signing accepts the App Group.
+- `job-to-offer.xcodeproj` is generated by xcodegen from `project.yml` and is gitignored. Sources are synced folders: new files join their target without regeneration. Run `xcodegen generate` only after you change `project.yml` (targets, settings).
+- Signing: `Signing.xcconfig` sets `APP_BUNDLE_ID = com.example.job-to-offer`, `APP_GROUP_ID = group.com.example.job-to-offer` and an empty `DEVELOPMENT_TEAM`; a gitignored `Local.xcconfig` next to it overrides all three (see the comment in `Signing.xcconfig`). Do not change signing in the Xcode UI: regeneration resets it.
+- Open `job-to-offer.xcworkspace`, never the repo folder: the folder has `Package.swift` at its root, so Xcode opens it as the `Core` package (library only, scheme `Core`) and Run builds `Core.o` with no app to launch (2026-09-27). Device build + launch verified from the CLI the same day: `xcodebuild -workspace job-to-offer.xcworkspace -scheme job-to-offer -destination 'platform=iOS,id=<device UDID>' -allowProvisioningUpdates build`, then `xcrun devicectl device install app` / `process launch`. Free (Personal Team) signing accepts the App Group.
 - §6 device demo on the author's device (iPhone 16e, iOS 27.0, user-reported, 2026-09-27): LinkedIn (HTML path), Greenhouse, Lever and Ashby links shared into the app were parsed. Settings screenshot: model Available, contextSize **4096** (not the 8192 from WWDC26), device language supported, profile_compact, last prompt 2409 tokens, not truncated, App Group store "shared" (Personal Team). `profile_full.md` is unused on this hardware.
 - The user builds and runs on the device from Xcode. The device UDID lives in `.xcodebuildmcp/config.yaml` (gitignored); do not use other paired devices.
-- Test commands: `swift test` (CoreTests on macOS) and `xcodebuild test -workspace JobScout.xcworkspace -scheme JobScout -destination 'platform=iOS Simulator,name=iPhone 18 Pro,OS=27.0'`.
+- Test commands: `swift test` (CoreTests on macOS) and `xcodebuild test -workspace job-to-offer.xcworkspace -scheme job-to-offer -destination 'platform=iOS Simulator,name=iPhone 18 Pro,OS=27.0'`.
 - The iOS 27.0 simulator uses the host model (macOS 26.6.2): `available`, contextSize 4096. Right after the first boot it reported `modelNotReady` (16:18, 16:20); at 17:02 it reported `available`. If DeviceTests print `skip: … modelNotReady`, wait and rerun.
 - XcodeBuildMCP 2.7.0 is registered in Claude Code (local scope, `XCODEBUILDMCP_SENTRY_DISABLED=true`). Defaults are in `.xcodebuildmcp/config.yaml` (gitignored).
-- 2026-09-27, Step 2: tracker CSV maps `role` = title, `fit_rating` = `rankScore` (bare number), `source` = posting URL; RFC 4180 quoting, LF, no BOM. `seen_jobs.json` export writes `source: "jobscout"`, `status: "ranked"` when scored else `"new"`, `null` for unknown `posted_date` / `deadline` / `location`, rank fields only when scored. Verified: `csv.DictReader`, `job_key.py --audit` (exit 0) and `rank_state.py candidates` read the output.
+- 2026-09-27, Step 2: tracker CSV maps `role` = title, `fit_rating` = `rankScore` (bare number), `source` = posting URL; RFC 4180 quoting, LF, no BOM. `seen_jobs.json` export writes `source: "job-to-offer"`, `status: "ranked"` when scored else `"new"`, `null` for unknown `posted_date` / `deadline` / `location`, rank fields only when scored. Verified: `csv.DictReader`, `job_key.py --audit` (exit 0) and `rank_state.py candidates` read the output.
 - Decide in Step 7: how the app sets `fit` (high / medium / low), and whether `rank_verdict` on a gate FAIL is `band(score)` (repo `rank_state.py`) or `Poor Fit` (§5 Step 7).
 - 2026-09-27, Step 3: all four Greenhouse hosts (`boards.`, `job-boards.`, `boards.eu.`, `job-boards.eu.greenhouse.io`) use `boards-api.greenhouse.io`; `boards-api.eu.greenhouse.io` does not resolve. Lever single-posting endpoint is documented in the README. EU Lever (`jobs.eu.lever.co`) is not detected yet and falls back to `.html`.
 - `FetchedPosting.company` = the ATS board token: `/scrape` stored these jobs as `stratum3`, `Sandboxly`, `Variantly`, so `JobKey` matches. `postedAt`: Greenhouse `first_published` (never `updated_at`), Lever `createdAt`, Ashby `publishedAt`. `plainText` starts with the title and ATS facts (Location, Workplace, Commitment / Employment, Compensation).
-- Network tests: `JOBSCOUT_GREENHOUSE_BOARD=<token> JOBSCOUT_LEVER_SITE=<site> JOBSCOUT_ASHBY_BOARD=<board> swift test --filter LiveATSTests`. Each test is skipped without its variable (2026-10-11; before: `JOBSCOUT_NETWORK_TESTS=1` with hard-coded boards).
+- Network tests: `JOB_TO_OFFER_GREENHOUSE_BOARD=<token> JOB_TO_OFFER_LEVER_SITE=<site> JOB_TO_OFFER_ASHBY_BOARD=<board> swift test --filter LiveATSTests`. Each test is skipped without its variable (2026-10-11; before: `JOB_TO_OFFER_NETWORK_TESTS=1` with hard-coded boards).
 - 2026-09-27, Step 4: no SwiftSoup. `NSAttributedString` HTML import lives in UIKit / AppKit, so rule 3 forbids it in Core. The standard-library `HTMLText` passes all three page fixtures (LinkedIn, Northvale careers, hh.ru) in 0.41 s together (debug). It drops `script`, `style`, `head`, `template` (hh.ru keeps 500 KB of JSON there), `nav`, `footer`.
 - LinkedIn guest pages: body = `div.show-more-less-html__markup` + `ul.description__job-criteria-list` (1 654 → about 510 words; keeps "Employment type"). Pages that render the job with JavaScript give almost no text (one company careers page: 314 chars; its JSON-LD holds only a 328-char summary): share the posting text instead.
 - `Truncator` keeps paragraph 1 (title + ATS facts) and the requirements section, then fills the budget in document order up to the first paragraph that does not fit.
@@ -389,7 +389,7 @@ Next: Step N+1 — <name>
 - Step 9/10: `ParseModel` (Core, `@Observable`) is the view model: idle → fetching → extracting → scoring → done | failed(reason). If a link fails to fetch and the share carried text, the text is parsed. Dedup goes through `SharedStore.add` (`@Attribute(.unique)` alone would upsert over the existing row). Without the App Group the app falls back to a local store and says so in Settings. Tracker notes stay on one line (/outcome edits rows line by line). Export: CSV with header + seen_jobs JSON via ShareLink; append with `tail -n +2 job_search_tracker_export.csv >> job_search_tracker.csv`.
 - §6 "`git grep -i "sk-ant"` returns nothing" will match its own line in this file once committed; a tree grep finds no other hit.
 - XcodeBuildMCP checked after the session restart: `session_show_defaults` reads `.xcodebuildmcp/config.yaml`, `test_sim` runs the suite. `list_devices` shows the CoreDevice id for the device; `xcodebuild` uses the UDID in the config.
-- 2026-09-27, product: the user wants JobScout as a product. After an LLM Council session (`docs/council-transcript-2026-09-27.md`) the accepted positioning is: hook = instant verdict with quoted proof, body = tracker, pricing note = free/private, one Siri intent; CV/cover letters out of V1. Plan v2: `docs/PRODUCT_PLAN.md`. Next build: remove the hard-coded profile — `CandidateProfile` + multiple CVs (Phase 1). §1 scope and §9 stay in force until Phase 1 starts.
+- 2026-09-27, product: the user wants job-to-offer as a product. After an LLM Council session (`docs/council-transcript-2026-09-27.md`) the accepted positioning is: hook = instant verdict with quoted proof, body = tracker, pricing note = free/private, one Siri intent; CV/cover letters out of V1. Plan v2: `docs/PRODUCT_PLAN.md`. Next build: remove the hard-coded profile — `CandidateProfile` + multiple CVs (Phase 1). §1 scope and §9 stay in force until Phase 1 starts.
 - 2026-09-27, eval research (docs/MODEL_BEHAVIOR.md §7, docs/EVALS.md): the model no longer scores. `LLMClient.score` is replaced by `digest(postingText:) -> PostingDigest` (posting only, no profile; `prompts/digest.md`), and `FitRubric` computes T/E/B/C, strengths and gaps in Swift. Reason: 4 model-scoring variants (0-100, anchored levels, digest + levels, few-shot) scored 6–7/10 with bias +8 to +17; digest + FitRubric scored 10/10 on dev and 23/24 on the holdout. Same 2 calls per posting.
 - `PromptBudget.profile`, `PromptRenderer.score` and the Settings "Profile" row are gone. `score.md`, `rubric_compact.md`, `profile_*.md`, `Golden/score_prompt.txt` and `LLM/tbd_scores.json` were unused; deleted on 2026-10-11 (issue #3).
 - Holdout set: `Tests/Fixtures/Eval/Holdout/` (25 English postings with a `/rank` score). Tune FitRubric tables and prompts on dev only; score the holdout once per frozen change.
@@ -402,7 +402,7 @@ Next: Step N+1 — <name>
 
 ### Issue tracker
 
-Issues live in GitHub Issues on `ayyyvar/jobscout` (use the `gh` CLI). See `docs/agents/issue-tracker.md`.
+Issues live in GitHub Issues on `ayyyvar/job-to-offer` (use the `gh` CLI). See `docs/agents/issue-tracker.md`.
 
 ### Triage labels
 

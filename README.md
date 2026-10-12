@@ -1,8 +1,8 @@
-# JobScout
+# job-to-offer
 
-[![CI](https://github.com/ayyyvar/jobscout/actions/workflows/ci.yml/badge.svg)](https://github.com/ayyyvar/jobscout/actions/workflows/ci.yml)
+[![CI](https://github.com/ayyyvar/job-to-offer/actions/workflows/ci.yml/badge.svg)](https://github.com/ayyyvar/job-to-offer/actions/workflows/ci.yml)
 
-JobScout is an iOS 27 app: share a job posting into it, and Apple's on-device Foundation Models extract the fields.
+job-to-offer is an iOS 27 app: share a job posting into it, and Apple's on-device Foundation Models extract the fields.
 Deterministic Swift gates then decide eligibility, language and location, and every FAIL or FLAG quotes the posting; a fit estimate and strengths / gaps follow.
 A tracker keeps the jobs and exports CSV and JSON. Free and private: no account, no server, nothing leaves the phone except the fetch of the posting you share.
 
@@ -86,7 +86,7 @@ swift test
 Device tests (real model, eval sets, gate injection) need the iOS 27 simulator on a Mac with Apple Intelligence on:
 
 ```sh
-xcodebuild test -workspace JobScout.xcworkspace -scheme JobScout \
+xcodebuild test -workspace job-to-offer.xcworkspace -scheme job-to-offer \
   -destination 'platform=iOS Simulator,name=iPhone 18 Pro,OS=27.0'
 ```
 
@@ -95,7 +95,7 @@ Device tests skip with a printed reason when the model is unavailable. Add `-onl
 Live ATS calls are off by default. Each test reads its board from the environment:
 
 ```sh
-JOBSCOUT_GREENHOUSE_BOARD=<token> JOBSCOUT_LEVER_SITE=<site> JOBSCOUT_ASHBY_BOARD=<board> \
+JOB_TO_OFFER_GREENHOUSE_BOARD=<token> JOB_TO_OFFER_LEVER_SITE=<site> JOB_TO_OFFER_ASHBY_BOARD=<board> \
   swift test --filter LiveATSTests
 ```
 
@@ -105,11 +105,11 @@ Requirements: Xcode with the iOS 27 SDK, [XcodeGen](https://github.com/yonaskolb
 
 ```sh
 xcodegen generate
-open JobScout.xcworkspace
+open job-to-offer.xcworkspace
 ```
 
 - **Open the workspace, not the folder.** The folder has `Package.swift` at its root, so Xcode opens it as the `Core` package with no app target.
-- **Signing.** `Signing.xcconfig` holds defaults (`com.example.jobscout`, no team) that build for the simulator. For a device, create a gitignored `Local.xcconfig` next to it with `APP_BUNDLE_ID`, `APP_GROUP_ID` and `DEVELOPMENT_TEAM`, then run `xcodegen generate` again. Do not set signing in the Xcode UI: regeneration resets it.
+- **Signing.** `Signing.xcconfig` holds defaults (`com.example.job-to-offer`, no team) that build for the simulator. For a device, create a gitignored `Local.xcconfig` next to it with `APP_BUNDLE_ID`, `APP_GROUP_ID` and `DEVELOPMENT_TEAM`, then run `xcodegen generate` again. Do not set signing in the Xcode UI: regeneration resets it.
 
 ## Project status
 

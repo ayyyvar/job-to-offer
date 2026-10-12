@@ -9,7 +9,7 @@ Results and history: `docs/MODEL_BEHAVIOR.md` §7. External sources and experime
 ## 1. How to run
 
 - **Eval sets (dev 10 + holdout 25):**
-  `xcodebuild test -workspace JobScout.xcworkspace -scheme JobScout -destination 'platform=iOS Simulator,name=iPhone 18 Pro,OS=27.0' -only-testing:DeviceTests/EvalTests`
+  `xcodebuild test -workspace job-to-offer.xcworkspace -scheme job-to-offer -destination 'platform=iOS Simulator,name=iPhone 18 Pro,OS=27.0' -only-testing:DeviceTests/EvalTests`
   It prints one table per set: band, overall, T/E/B/C, gates, then within-1, exact band, MAE, bias and Spearman. About 35 s per posting on the simulator.
 - **Gate injection (20 cases):** the same command with `-only-testing:DeviceTests/GateInjectionTests`.
 - **Rule for changes:** tune prompts and FitRubric tables on dev only. Score the holdout once per frozen change and record the number. Never edit fixtures or goldens to pass.

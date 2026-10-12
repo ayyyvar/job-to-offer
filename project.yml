@@ -1,5 +1,5 @@
-# Source of truth for JobScout.xcodeproj. Regenerate with: xcodegen generate
-name: JobScout
+# Source of truth for job-to-offer.xcodeproj. Regenerate with: xcodegen generate
+name: job-to-offer
 options:
   deploymentTarget:
     iOS: "27.0"
@@ -22,20 +22,20 @@ packages:
   Core:
     path: .
 targets:
-  JobScout:
+  job-to-offer:
     type: application
     platform: iOS
     sources:
-      - path: JobScoutApp
+      - path: JobToOfferApp
     dependencies:
       - package: Core
       - target: ShareExtension
     settings:
       base:
-        PRODUCT_NAME: JobScout
+        PRODUCT_NAME: job-to-offer
         PRODUCT_BUNDLE_IDENTIFIER: $(APP_BUNDLE_ID)
-        CODE_SIGN_ENTITLEMENTS: JobScoutApp/JobScout.entitlements
-        INFOPLIST_FILE: JobScoutApp/Info.plist
+        CODE_SIGN_ENTITLEMENTS: JobToOfferApp/JobToOffer.entitlements
+        INFOPLIST_FILE: JobToOfferApp/Info.plist
         GENERATE_INFOPLIST_FILE: YES
         INFOPLIST_KEY_CFBundleDisplayName: job-to-offer
         ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
@@ -65,17 +65,17 @@ targets:
       - path: Tests/Fixtures
         type: folder
     dependencies:
-      - target: JobScout
+      - target: job-to-offer
       - package: Core
     settings:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: $(APP_BUNDLE_ID).DeviceTests
         GENERATE_INFOPLIST_FILE: YES
 schemes:
-  JobScout:
+  job-to-offer:
     build:
       targets:
-        JobScout: all
+        job-to-offer: all
     test:
       config: Debug
       targets:

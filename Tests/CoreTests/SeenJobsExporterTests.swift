@@ -49,7 +49,7 @@ import Testing
         #expect(entry["status"] as? String == "ranked")
         #expect(entry["rank_score"] as? Int == 80)
         #expect(entry["rank_verdict"] as? String == "Strong Fit")
-        #expect(entry["source"] as? String == "jobscout")
+        #expect(entry["source"] as? String == "job-to-offer")
         #expect(entry["strengths"] as? [String] == ["Production RAG in Python"])
     }
 

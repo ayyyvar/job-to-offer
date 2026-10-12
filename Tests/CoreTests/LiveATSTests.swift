@@ -5,22 +5,22 @@ import Testing
 /// Live calls to the public ATS APIs. Each test reads its board from the environment and is skipped
 /// without it, so the repo names no real board:
 ///
-///     JOBSCOUT_GREENHOUSE_BOARD=<token> JOBSCOUT_LEVER_SITE=<site> JOBSCOUT_ASHBY_BOARD=<board> \
+///     JOB_TO_OFFER_GREENHOUSE_BOARD=<token> JOB_TO_OFFER_LEVER_SITE=<site> JOB_TO_OFFER_ASHBY_BOARD=<board> \
 ///     swift test --filter LiveATSTests
 ///
 /// Each test picks a current job from the board list, so an expired posting cannot break it.
 @Suite(.tags(.network))
 struct LiveATSTests {
     static let env = ProcessInfo.processInfo.environment
-    static let greenhouse = env["JOBSCOUT_GREENHOUSE_BOARD"] ?? ""
-    static let lever = env["JOBSCOUT_LEVER_SITE"] ?? ""
-    static let ashby = env["JOBSCOUT_ASHBY_BOARD"] ?? ""
+    static let greenhouse = env["JOB_TO_OFFER_GREENHOUSE_BOARD"] ?? ""
+    static let lever = env["JOB_TO_OFFER_LEVER_SITE"] ?? ""
+    static let ashby = env["JOB_TO_OFFER_ASHBY_BOARD"] ?? ""
 
     static func get(_ string: String) async throws -> Data {
         try await URLSession.shared.data(from: try #require(URL(string: string))).0
     }
 
-    @Test(.enabled(if: !greenhouse.isEmpty, "set JOBSCOUT_GREENHOUSE_BOARD"))
+    @Test(.enabled(if: !greenhouse.isEmpty, "set JOB_TO_OFFER_GREENHOUSE_BOARD"))
     func greenhouseLiveCallGivesAPosting() async throws {
         struct List: Decodable { struct Job: Decodable { let id: Int }; let jobs: [Job] }
         let list = try JSONDecoder().decode(List.self, from: try await Self.get("https://boards-api.greenhouse.io/v1/boards/\(Self.greenhouse)/jobs"))
@@ -30,7 +30,7 @@ struct LiveATSTests {
         #expect(posting.plainText.count > 200)
     }
 
-    @Test(.enabled(if: !lever.isEmpty, "set JOBSCOUT_LEVER_SITE"))
+    @Test(.enabled(if: !lever.isEmpty, "set JOB_TO_OFFER_LEVER_SITE"))
     func leverLiveCallGivesAPosting() async throws {
         struct Item: Decodable { let id: String; let descriptionPlain: String }
         let list = try JSONDecoder().decode([Item].self, from: try await Self.get("https://api.lever.co/v0/postings/\(Self.lever)?mode=json"))
@@ -41,7 +41,7 @@ struct LiveATSTests {
         #expect(posting.plainText.count > 200)
     }
 
-    @Test(.enabled(if: !ashby.isEmpty, "set JOBSCOUT_ASHBY_BOARD"))
+    @Test(.enabled(if: !ashby.isEmpty, "set JOB_TO_OFFER_ASHBY_BOARD"))
     func ashbyLiveCallGivesAPosting() async throws {
         let board = try AshbyClient.decode(try await Self.get(AshbyClient.endpoint(board: Self.ashby).absoluteString))
         let id = try #require(board.jobs.first).id
@@ -50,7 +50,7 @@ struct LiveATSTests {
         #expect(posting.plainText.count > 200)
     }
 
-    @Test(.enabled(if: !greenhouse.isEmpty, "set JOBSCOUT_GREENHOUSE_BOARD"))
+    @Test(.enabled(if: !greenhouse.isEmpty, "set JOB_TO_OFFER_GREENHOUSE_BOARD"))
     func postingFetcherRoutesAGreenhouseURLToTheJSONAPI() async throws {
         struct List: Decodable { struct Job: Decodable { let absolute_url: String }; let jobs: [Job] }
         let list = try JSONDecoder().decode(List.self, from: try await Self.get("https://boards-api.greenhouse.io/v1/boards/\(Self.greenhouse)/jobs"))

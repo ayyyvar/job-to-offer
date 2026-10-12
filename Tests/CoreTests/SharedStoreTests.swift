@@ -6,12 +6,12 @@ import Testing
 @MainActor
 @Suite struct SharedStoreTests {
     @Test func appGroupIDComesFromTheInfoPlistKey() {
-        #expect(SharedStore.appGroupID(info: ["JobScoutAppGroupID": "group.org.fork.jobscout"]) == "group.org.fork.jobscout")
+        #expect(SharedStore.appGroupID(info: ["JobToOfferAppGroupID": "group.org.fork.job-to-offer"]) == "group.org.fork.job-to-offer")
     }
 
-    @Test(arguments: [[:], ["JobScoutAppGroupID": ""]] as [[String: String]])
+    @Test(arguments: [[:], ["JobToOfferAppGroupID": ""]] as [[String: String]])
     func appGroupIDFallsBackToTheExampleIDWithoutTheKey(info: [String: String]) {
-        #expect(SharedStore.appGroupID(info: info) == "group.com.example.jobscout")
+        #expect(SharedStore.appGroupID(info: info) == "group.com.example.job-to-offer")
     }
 
     static func evaluation(eligibility: VisaStance = .sponsors, band scores: [Int] = [90, 80, 70, 80]) throws -> Evaluation {

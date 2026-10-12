@@ -1,4 +1,4 @@
-# JobScout as a product — plan (v2, 2026-09-27)
+# job-to-offer as a product — plan (v2, 2026-09-27)
 
 **TL;DR:** The product is the instant verdict with proof: "know in 10 seconds if you waste this application — including whether you can legally take the job." The tracker retains users. Free / on-device is the pricing note. Siri is one intent. CV / cover-letter generation is out of V1.
 
@@ -80,7 +80,7 @@ If after Phase 2 the testers do not return in week 2 and do not agree with the v
 | Wrong verdict destroys trust | Quote as proof; "not sure" state; gates never upgrade a claim (`Core/Rubric/Grounding.swift`) |
 | Job search is episodic (churn in 8–12 weeks) | Tracker + follow-ups as retention; price accordingly (one-time / cheap annual); measure before pricing |
 | Market too small (iPhone 15 Pro+, English postings, cross-border) | Phase 2 measures demand before further build; kill rule above |
-| Apple ships eligibility checks in Siri | The moat is profile + gates + tracker; the Siri intent makes JobScout the tool Siri calls |
+| Apple ships eligibility checks in Siri | The moat is profile + gates + tracker; the Siri intent makes job-to-offer the tool Siri calls |
 | PCC entitlement denied / delayed | V1 does not depend on PCC; apply early, treat as upside |
 | LinkedIn fetch breaks / ToS | Share text fallback exists; ToS review before public launch |
 | Day-job IP clauses | Check the employment contract before a public launch |

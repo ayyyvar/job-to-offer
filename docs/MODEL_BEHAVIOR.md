@@ -19,7 +19,7 @@ All data below comes from runs in this repo. Nothing is from Apple documentation
 
 The code under test:
 - Prompts: `Core/Resources/prompts/extract.md`, `score.md`, `rubric_compact.md`, `profile_compact.md` (4096 context).
-- Client: `JobScoutApp/LLM/FoundationModelsClient.swift`.
+- Client: `JobToOfferApp/LLM/FoundationModelsClient.swift`.
 - Eval set: `Tests/Fixtures/Eval/manifest_2026-09-27.json`, 10 postings with the band from `/rank`.
 
 ---
@@ -149,7 +149,7 @@ The 8/10 does not mean that sampling is better. Sampling moved the same posting 
 | Flattering fit ratings | The model never sees the profile. It describes the posting; Swift computes T/E/B/C, strengths and gaps (§7). | `Core/Rubric/FitRubric.swift` |
 | Tool names as languages ("Azure DevOps") | Names in the FitRubric skill areas are removed from `requiredLanguages`. | `Grounding.swift` |
 | Overall score and band | Computed by Swift, never by the model. | `Core/Rubric/Scoring.swift` |
-| Everything else | The screen marks all fields as AI-generated and lets the user edit them. Gates run again after each edit. | `JobScoutApp/JobDetailView.swift` |
+| Everything else | The screen marks all fields as AI-generated and lets the user edit them. Gates run again after each edit. | `JobToOfferApp/JobDetailView.swift` |
 
 **Limit (until 2026-09-27):** grounding never added a restriction, so a missed "citizens only" passed. `Grounding.statedRestriction` now adds one from a sentence in the text (§7.4). A restriction worded outside its patterns still passes silently.
 

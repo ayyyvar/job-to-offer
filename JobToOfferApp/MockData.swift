@@ -62,7 +62,7 @@ enum MockData {
         store.saveLibrary([
             ExperienceItem(kind: .experience, text: "Built a RAG pipeline over 1.2M support tickets; cut median handle time by 31%"),
             ExperienceItem(kind: .experience, text: "Led an LLM eval harness used by 4 product teams; 600+ regression cases"),
-            ExperienceItem(kind: .project, text: "JobScout: on-device posting parser and fit scorer for iOS"),
+            ExperienceItem(kind: .project, text: "job-to-offer: on-device posting parser and fit scorer for iOS"),
             ExperienceItem(kind: .skill, text: "python"),
             ExperienceItem(kind: .skill, text: "pytorch"),
             ExperienceItem(kind: .language, text: "English (fluent), Russian (native), Tatar (native)"),

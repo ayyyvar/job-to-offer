@@ -1,7 +1,7 @@
 import Core
 import Foundation
 import FoundationModels
-@testable import JobScout
+@testable import job_to_offer
 import Testing
 
 /// Step 7 eval: the app's band vs the band `/rank` stored for the same posting. Tolerance is one band;

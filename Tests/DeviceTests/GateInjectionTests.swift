@@ -1,6 +1,6 @@
 import Core
 import FoundationModels
-@testable import JobScout
+@testable import job_to_offer
 import Testing
 
 /// Metamorphic eval (docs/EVALS.md #10): insert one sentence after the first paragraph of a real posting

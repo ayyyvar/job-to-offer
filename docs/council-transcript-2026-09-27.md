@@ -1,6 +1,6 @@
-# LLM Council transcript — JobScout positioning (2026-09-27)
+# LLM Council transcript — job-to-offer positioning (2026-09-27)
 
-Question: which positioning for JobScout as a product? The user proposed 4 pillars: (1) tailored CV / cover letters with zero token costs (on-device + PCC), (2) application tracker with export, (3) all data on the phone, (4) Siri App Intents verdicts. The alternative (draft plan): lead with eligibility checks for cross-border candidates. Context: iOS 27 Siri answers "do I qualify" natively but misses visa/location; Teal/Huntr ~$29/mo; Jobright has a US-only H-1B filter; the on-device model over-scores weak jobs by +21–24 points; cover-letter quality on a 3B model is unproven; PCC needs a managed entitlement.
+Question: which positioning for job-to-offer as a product? The user proposed 4 pillars: (1) tailored CV / cover letters with zero token costs (on-device + PCC), (2) application tracker with export, (3) all data on the phone, (4) Siri App Intents verdicts. The alternative (draft plan): lead with eligibility checks for cross-border candidates. Context: iOS 27 Siri answers "do I qualify" natively but misses visa/location; Teal/Huntr ~$29/mo; Jobright has a US-only H-1B filter; the on-device model over-scores weak jobs by +21–24 points; cover-letter quality on a 3B model is unproven; PCC needs a managed entitlement.
 
 ---
 

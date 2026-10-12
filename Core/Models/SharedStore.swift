@@ -4,11 +4,11 @@ import SwiftData
 /// The SwiftData store both targets open through the App Group container.
 public enum SharedStore {
     /// `APP_GROUP_ID` from Signing.xcconfig, which the entitlements read too. The app and the
-    /// extension carry it in Info.plist as `JobScoutAppGroupID`.
+    /// extension carry it in Info.plist as `JobToOfferAppGroupID`.
     public static let appGroupID = appGroupID(info: Bundle.main.infoDictionary ?? [:])
 
     static func appGroupID(info: [String: Any]) -> String {
-        (info["JobScoutAppGroupID"] as? String).flatMap { $0.isEmpty ? nil : $0 } ?? "group.com.example.jobscout"
+        (info["JobToOfferAppGroupID"] as? String).flatMap { $0.isEmpty ? nil : $0 } ?? "group.com.example.job-to-offer"
     }
 
     public enum AddResult: Equatable {

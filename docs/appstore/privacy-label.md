@@ -12,4 +12,4 @@
 | Do you or your third-party partners collect data from this app? | No | The app has no server, no analytics, and no crash reporting service. |
 | Data types collected | None | Nothing leaves the device except the fetch of the URL the user shares. |
 | Used to track you? | No | No tracking, no advertising identifier. |
-| Privacy policy URL | https://ayyyvar.github.io/jobscout/privacy.html | Policy states the same facts. |
+| Privacy policy URL | https://ayyyvar.github.io/job-to-offer/privacy.html | Policy states the same facts. |

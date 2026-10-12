@@ -34,14 +34,14 @@ The gates are deterministic Swift, not model opinion. Every FAIL or FLAG quotes 
 
 ## Brand Commitments
 
-- Name: JobScout.
+- Name: job-to-offer.
 - User-facing words: free, private, works offline, export. Never: token, PCC, on-device model, CSV.
 - Not a dark "hacker" terminal look; not a corporate HR SaaS look (user, 2026-10-12).
 
 ## Evidence on Hand
 
 - Eval results in docs/MODEL_BEHAVIOR.md and docs/EVALS.md (dev set 10/10 within one band, holdout 24/25).
-- Mock screenshot data in JobScoutApp/MockData.swift (fictional companies).
+- Mock screenshot data in JobToOfferApp/MockData.swift (fictional companies).
 - No testimonials, users, press or pricing yet. Do not invent them.
 
 ## Product Principles
