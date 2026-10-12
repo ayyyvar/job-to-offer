@@ -1,6 +1,6 @@
-# App Store Connect privacy answers: JobScout
+# App Store Connect privacy answers: job-to-offer
 
-**Data Not Collected** — JobScout collects no data from the app, so no data type is declared.
+**Data Not Collected** — job-to-offer collects no data from the app, so no data type is declared.
 
 - Tracking: No. The app does not track users across other apps or websites.
 - Reason: all data (profile, resume text, tracker) stays on the user's iPhone, and the developer receives nothing.

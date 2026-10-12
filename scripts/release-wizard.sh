@@ -174,7 +174,7 @@ step_3() {
 
   App ID 1, the app:
     - Identifiers > + > App IDs > App
-    - Description: JobScout
+    - Description: job-to-offer
     - Bundle ID (Explicit): $BUNDLE_ID
     - Capabilities: enable App Groups
 
@@ -324,7 +324,7 @@ EOF
 step_9() {
   header 9 "TestFlight test on iPhone 16e"
   cat <<'EOF'
-  1. Open the TestFlight app on the iPhone 16e and install JobScout (build from step 8).
+  1. Open the TestFlight app on the iPhone 16e and install job-to-offer (build from step 8).
   2. Test one posting per source. Use a real URL for each:
        - Greenhouse   (boards.greenhouse.io/...)
        - Lever        (jobs.lever.co/...)
@@ -341,7 +341,7 @@ EOF
 step_10() {
   header 10 "Submit for review"
   cat <<'EOF'
-  1. Open https://appstoreconnect.apple.com/apps > JobScout > version 1.0.0.
+  1. Open https://appstoreconnect.apple.com/apps > job-to-offer > version 1.0.0.
   2. Select the processed build from step 8.
   3. App Review > Notes: paste the text from docs/appstore/review-notes.md.
   4. Answer the export-compliance and content questions on the form.

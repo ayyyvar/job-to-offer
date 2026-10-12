@@ -1,4 +1,4 @@
-# App Review notes: JobScout
+# App Review notes: job-to-offer
 
 ## Sample posting
 
@@ -29,9 +29,9 @@ The app does not crawl sites, does not scrape job boards, and does not fetch oth
 
 ## Steps to test
 
-1. Open JobScout.
+1. Open job-to-offer.
 2. Optional: go to Settings → Profile and add regions, languages, and a resume (paste text or import a file). The app works without a profile; gates then show "unverified" where a profile is needed.
-3. In Safari, open the sample URL above and tap Share → JobScout ("Add to JobScout"). Or copy the URL and paste it in the Inbox.
+3. In Safari, open the sample URL above and tap Share → job-to-offer ("Add to job-to-offer"). Or copy the URL and paste it in the Inbox.
 4. In the Inbox, tap Parse.
 5. Open the job. Read the verdict, the eligibility, language, and location checks, and the quoted sentence behind any FAIL or FLAG.
 6. Tap Add to tracker.

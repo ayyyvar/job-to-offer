@@ -12,7 +12,7 @@ struct InboxView: View {
             PaperScreen {
                 if items.isEmpty && roles.isEmpty {
                     ContentUnavailableView("No jobs yet", systemImage: "tray",
-                                           description: Text("Share a job link to JobScout from Safari or LinkedIn, or tap paste."))
+                                           description: Text("Share a job link to job-to-offer from Safari or LinkedIn, or tap paste."))
                         .padding(.top, 60)
                 }
                 if !items.isEmpty {
@@ -32,7 +32,7 @@ struct InboxView: View {
                     }
                 }
                 if !roles.isEmpty {
-                    Block(label: "Find on LinkedIn", footer: "Share a posting back to JobScout.") {
+                    Block(label: "Find on LinkedIn", footer: "Share a posting back to job-to-offer.") {
                         FlowLayout(spacing: 8) {
                             ForEach(roles, id: \.self) { role in
                                 Link(destination: JobSearch.linkedIn(role: role)) {

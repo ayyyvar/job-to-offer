@@ -1,4 +1,4 @@
-# App Store listing: JobScout
+# App Store listing: job-to-offer
 
 Character counts are measured with `wc -m` (UTF-8). Limits are App Store Connect limits.
 
@@ -6,9 +6,9 @@ Character counts are measured with `wc -m` (UTF-8). Limits are App Store Connect
 
 | Field | Text | Chars |
 |---|---|---|
-| Name (primary) | JobScout | 8 / 30 |
-| Fallback 1 | JobScout: Job Fit Check | 23 / 30 |
-| Fallback 2 | JobScout – Posting Check | 24 / 30 |
+| Name (primary) | job-to-offer | 12 / 30 |
+| Fallback 1 | job-to-offer: Job Fit Check | 27 / 30 |
+| Fallback 2 | job-to-offer – Posting Check | 28 / 30 |
 
 ## Subtitle (30 max)
 
@@ -20,7 +20,7 @@ Share a job posting and get a verdict in seconds: can you legally take the job, 
 
 ## Description (4000 max)
 
-JobScout tells you in seconds whether a job posting fits you. Share a posting from Safari, LinkedIn, or Telegram, or paste its link. JobScout reads the posting and checks the rules that matter most for a cross-border job search.
+job-to-offer tells you in seconds whether a job posting fits you. Share a posting from Safari, LinkedIn, or Telegram, or paste its link. job-to-offer reads the posting and checks the rules that matter most for a cross-border job search.
 
 WHAT YOU GET
 - Eligibility check: visa sponsorship, citizenship or residency requirements, and security clearance.
@@ -43,9 +43,9 @@ REQUIREMENTS
 - English job postings only.
 
 HOW IT WORKS
-JobScout fetches the one posting you share. It reads the posting with Apple Intelligence and runs the checks in plain Swift code. The AI model never decides a PASS, FAIL, or FLAG. The score is an estimate. Treat a verdict as a starting point and read the posting yourself.
+job-to-offer fetches the one posting you share. It reads the posting with Apple Intelligence and runs the checks in plain Swift code. The AI model never decides a PASS, FAIL, or FLAG. The score is an estimate. Treat a verdict as a starting point and read the posting yourself.
 
-Description length: 1628 / 4000
+Description length: ~1643 / 4000
 
 ## Keywords (100 max, comma-separated, no spaces)
 

@@ -3,7 +3,7 @@ import SwiftData
 import SwiftUI
 import UIKit
 
-/// "Add to JobScout": stores the shared link or text in the App Group store and closes.
+/// "Add to job-to-offer": stores the shared link or text in the App Group store and closes.
 /// The fetch and the model run in the app, not here (extension memory limits).
 final class ShareViewController: UIViewController {
     override func viewDidLoad() {
@@ -40,7 +40,7 @@ struct ShareView: View {
                 }
                 if let error { Text(error).foregroundStyle(.red) }
             }
-            .navigationTitle("Add to JobScout")
+            .navigationTitle("Add to job-to-offer")
             .navigationBarTitleDisplayMode(.inline)
             .toolbar {
                 ToolbarItem(placement: .cancellationAction) { Button("Cancel", action: done) }
