@@ -8,7 +8,7 @@ cd "$ROOT"
 LOCAL_XCCONFIG="$ROOT/Local.xcconfig"
 SCHEME=job-to-offer
 WORKSPACE=job-to-offer.xcworkspace
-SIM_NAME="iPhone 18 Pro Max"
+SIM_NAME="iPhone 18 Pro"
 SIM_DEST="platform=iOS Simulator,name=$SIM_NAME,OS=27.0"
 TEAM_RE='^[A-Z0-9]{10}$'
 BUNDLE_RE='^[A-Za-z0-9-]+(\.[A-Za-z0-9-]+)+$'
@@ -275,7 +275,7 @@ EOF
     h="$(sips -g pixelHeight "$f" | awk '/pixelHeight/{print $2}')"
     echo "  Saved: $f (${w} x ${h})"
     if [[ "$w" != 1320 || "$h" != 2868 ]]; then
-      echo "  WARNING: 6.9-inch App Store size is 1320 x 2868. Check the simulator model or resize."
+      echo "  WARNING: 6.9-inch App Store size is 1206 x 2622. Check the simulator model or resize."
     fi
     i=$((i + 1))
   done
