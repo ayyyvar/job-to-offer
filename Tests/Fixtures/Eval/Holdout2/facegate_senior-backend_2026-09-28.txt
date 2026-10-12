@@ -1,0 +1,100 @@
+Senior Backend Biometric at Facegate | DSML Kazakhstan
+
+DSMLKZ
+
+Select language
+
+15 Sep 2026, 18:16 UTC+5
+
+Facegate
+
+Almaty / Office
+
+Full-time
+
+IT
+
+Senior Backend Biometric at Facegate
+
+0SaveShare
+Applications: 5171
+
+Preparing DSML Apply...
+
+Senior Backend Biometric
+Facegate
+850,000 to 1,200,000 KZT NET per month
+Almaty / Office
+
+The company develops enterprise KYC platforms and ML service ecosystems. The role involves enterprise KYC platforms and ML service ecosystems, including international biometrics and FinTech projects.
+
+Responsibilities:
+• Develop enterprise KYC platforms and ML service ecosystems.
+• Create microservices for biometric authentication, including OCR, liveness detection, and face recognition.
+• Integrate solutions with state systems and FinTech platforms.
+• Develop on-premise solutions for corporate clients.
+• Design and optimize high-load APIs.
+• Participate in DevOps infrastructure, monitoring, and CI/CD setup.
+
+Requirements:
+• 3+ years of commercial Python experience.
+• Excellent knowledge of Django, Django REST Framework (DRF), Django-Ninja, and FastAPI.
+• Experience with AsyncIO, Aiohttp, and SQLAlchemy.
+• Proficiency in PostgreSQL, Redis, and MongoDB.
+• Experience with Celery and RabbitMQ.
+• Containerization and orchestration skills using Docker, Kubernetes, and GitHub Actions.
+• Experience with Prometheus, Grafana, and Loki monitoring systems.
+• Experience writing tests with Pytest.
+• Mentoring and code review skills.
+
+Optional:
+• Understanding and application of TensorFlow, PyTorch, OpenCV, ONNX, and scikit-learn.
+• Experience in KYC/AML, FinTech, or government integrations.
+• Knowledge of biometric systems.
+• Experience with performance optimization and high-load solution architecture.
+
+Comments
+
+Member discussion for this news item or vacancy.
+
+Checking sign-in status...
+
+← Back to Jobs
+
+Search
+
+Related open jobs
+
+More active roles with a matching professional focus.
+
+Middle Python Developer (Credit Risk, Scoring)
+
+Freedom BankAlmaty / Office650,000 to 1,100,000 KZT NET per month
+
+Freedom Bank is one of the largest banks in Kazakhstan.
+
+Open job
+
+Senior Backend Engineer (Python / AI Platform)
+
+SteppecomAstana / Office1,300,000 to 2,000,000 KZT NET per month
+
+Steppecom is building a multi-tenant AI platform powered by Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and enterprise integrations. The platform uses a unified codebase with tenant-specific customization, enabling rapid customer onboarding, secure scaling, and efficient product maintenance.
+
+Open job
+
+Full-Stack Developer
+
+D Partners Co.Almaty / Remote900,000 to 1,500,000 KZT NET per month
+
+Building automation tools for finance and accounting teams, involving integrations, data processing, and AI-assisted workflows.
+
+Open job
+
+Mobile KMP Developer
+
+AdGuardOffice / Support Relocation4,500 to 7,200 USD Gross per month
+
+AdGuard has 17 years of product development experience and over 100 million users worldwide across 20+ languages. Develop products protecting against advertising, tracking, phishing, and other web threats across browser extensions, desktop, and mobile applications.
+
+Open job

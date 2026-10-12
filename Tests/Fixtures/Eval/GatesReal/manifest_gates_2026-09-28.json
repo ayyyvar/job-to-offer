@@ -1,0 +1,178 @@
+[
+ {
+  "file": "01_ravenlark-senior-ai-engineer-product-neuro-forge-team_2026-09-28.txt",
+  "url": "https://jobs.example.com/01_ravenlark-senior-ai-engineer-product-neuro-forge-team",
+  "title": "Senior AI Engineer, Product Neuro Forge Team",
+  "company": "Ravenlark",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location: FR/DE/IE/NL/ES applicants.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "02_tessaro-staff-agentic-ai-engineer-marketing_2026-09-28.txt",
+  "url": "https://jobs.example.com/02_tessaro-staff-agentic-ai-engineer-marketing",
+  "title": "Staff Agentic AI Engineer (Marketing)",
+  "company": "Tessaro",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "09_billowmark-senior-python-backend-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/09_billowmark-senior-python-backend-engineer",
+  "title": "Senior Python Backend Engineer",
+  "company": "Billowmark",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "10_swatchwell-applied-ai-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/10_swatchwell-applied-ai-engineer",
+  "title": "Applied AI Engineer",
+  "company": "Swatchwell",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "13_gridlume-senior-software-engineer-ai-agents-search_2026-09-28.txt",
+  "url": "https://jobs.example.com/13_gridlume-senior-software-engineer-ai-agents-search",
+  "title": "Senior Software Engineer — AI Agents / Search",
+  "company": "Gridlume",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location; published 2026-08-28.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "14_corvantis-senior-software-engineer-ai-evaluation-engineering-qu_2026-09-28.txt",
+  "url": "https://jobs.example.com/14_corvantis-senior-software-engineer-ai-evaluation-engineering-qu",
+  "title": "Senior Software Engineer - AI Evaluation/Engineering Quality",
+  "company": "Corvantis",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "15_kernova-labs-senior-ai-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/15_kernova-labs-senior-ai-engineer",
+  "title": "Senior AI Engineer",
+  "company": "Kernova Labs",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "16_ambrelle-senior-ai-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/16_ambrelle-senior-ai-engineer",
+  "title": "Senior AI Engineer",
+  "company": "Ambrelle",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "17_talkyield-ai-senior-ai-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/17_talkyield-ai-senior-ai-engineer",
+  "title": "Senior AI Engineer",
+  "company": "TalkYield.ai",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location; published 2026-04-22.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "18_varnek-middle-senior-ai-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/18_varnek-middle-senior-ai-engineer",
+  "title": "Middle\\Senior AI Engineer",
+  "company": "Varnek",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location; published 2026-05-19.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "19_liftworks-senior-ai-ml-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/19_liftworks-senior-ai-ml-engineer",
+  "title": "Senior AI / ML Engineer",
+  "company": "Liftworks",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "20_juniperra-senior-ai-integrated-full-stack-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/20_juniperra-senior-ai-integrated-full-stack-engineer",
+  "title": "Senior AI-Integrated Full Stack Engineer",
+  "company": "Juniperra",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location; published 2026-08-20.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "22_northvale-systems-senior-ai-engineer-with-rag-and-agentic-archite_2026-09-28.txt",
+  "url": "https://jobs.example.com/22_northvale-systems-senior-ai-engineer-with-rag-and-agentic-archite",
+  "title": "Senior AI Engineer with RAG and Agentic architectures",
+  "company": "Northvale Systems",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location (hiring countries exclude KZ per freehire).",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "23_northvale-systems-senior-generative-ai-python-engineer_2026-09-28.txt",
+  "url": "https://jobs.example.com/23_northvale-systems-senior-generative-ai-python-engineer",
+  "title": "Senior Generative AI Python Engineer",
+  "company": "Northvale Systems",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "27_brewline-senior-ai-engineer-remote-contract_2026-09-28.txt",
+  "url": "https://jobs.example.com/27_brewline-senior-ai-engineer-remote-contract",
+  "title": "Senior AI Engineer (Remote, Contract)",
+  "company": "Brewline",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ },
+ {
+  "file": "28_halvern-human-expert-senior-ai-solutions-engineer-llm-agents_2026-09-28.txt",
+  "url": "https://jobs.example.com/28_halvern-human-expert-senior-ai-solutions-engineer-llm-agents",
+  "title": "Senior AI Solutions Engineer (LLM & Agents)",
+  "company": "Halvern Human Expert",
+  "location_verdict": "FLAG",
+  "language_gate": null,
+  "scrape_reason": "Location.",
+  "fetched": "2026-09-28",
+  "expected": "not PASS: /scrape skipped it for location; combined location + eligibility must be FLAG or FAIL"
+ }
+]

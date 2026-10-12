@@ -1,0 +1,154 @@
+Senior Software Engineer - AI Evaluation/Engineering Quality at Corvantis – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+Senior Software Engineer - AI Evaluation/Engineering Quality
+
+Corvantis
+
+Copy link Copied
+
+$$$$
+
+We are looking for a senior engineer to own the quality of our AI features and help define engineering standards across the team.
+
+Approximately 70% of this role focuses on quality and evaluation for agentic workflows: building evaluation harnesses, maintaining datasets, implementing regression gates, and turning production failures into repeatable checks.
+
+The remaining 30% focuses on improving product engineering through code reviews, resilient design, mentoring, and early involvement in feature development. You will also contribute production code to stay close to the systems you review.
+
+This role combines software engineering, AI evaluation, and technical leadership. It requires broader ownership than a traditional test automation position.
+
+Our Stack
+
+- Languages: TypeScript and JavaScript
+- Backend: Node.js with Express
+- Frontend: React and React Native
+- Databases: PostgreSQL and MongoDB
+- Infrastructure: AWS
+- Testing: Playwright for web and Maestro for mobile
+- CI/CD: GitHub Actions
+
+Responsibilities
+
+AI Evaluation & Quality Engineering - approximately 70%
+
+- Build and maintain evaluation harnesses, golden datasets, and scoring methods for production agentic workflows.
+- Define measurable quality standards for AI features, including task success, failure handling, latency, and cost.
+- Implement regression gates in CI so changes receive an evaluation verdict before merging.
+- Own the Playwright web and Maestro mobile end-to-end suites, keeping them fast, reliable, and transparent about failures.
+- Establish engineering standards for code reviews, architectural patterns, and targeted refactoring.
+- Instrument AI features in production and turn observed failures into new evaluation cases.
+- Investigate evaluation regressions and help the team determine whether changes are ready to ship.
+
+Product Engineering & Resilience - approximately 30%
+
+- Review code across Node.js, React, and React Native applications, providing specific, actionable feedback.
+- Coach engineers on error handling, retries, idempotency, failure isolation, and tests that demonstrate resilient behavior.
+- Participate in feature design early to address quality, testability, and operational risks before implementation.
+- Make targeted contributions to production code to maintain hands-on knowledge of the systems.
+- Help troubleshoot production incidents by reading traces, reproducing failures, and driving issues to resolution, including occasional incidents outside regular working hours.
+
+Required Experience
+
+- 5+ years of experience building and operating production web applications.
+- Strong JavaScript and TypeScript skills, with a deep understanding of runtime behavior.
+- Hands-on production experience with Node.js (Express) and React.
+- Practical PostgreSQL expertise, including schema design for read patterns, indexing, query plan analysis, and migrations under load.
+- Production experience with AWS, including ECS or Lambda, Secrets Manager, CloudWatch, and IAM, with an understanding of infrastructure costs.
+- Experience owning and maintaining a Playwright or equivalent automated test suite.
+- Experience building and optimizing CI/CD pipelines in GitHub Actions.
+- A demonstrated track record of improving code quality through reviews, architectural practices, and successfully delivered refactors.
+- Experience mentoring engineers, with concrete examples of practices you helped a team adopt.
+- Strong debugging skills and the ability to investigate issues across application code, databases, and infrastructure.
+- Clear, effective asynchronous written communication.
+
+AI Engineering & Evaluation - Required
+
+Hands-on AI engineering and evaluation experience is essential. Candidates should be prepared to discuss specific systems, decisions, and outcomes.
+
+- Daily experience working with frontier models and agentic coding tools such as Claude Code, Codex, or Cursor.
+- Experience personally building evaluations for an LLM or agent system, including defining what to score, choosing scoring methods, and responding to changes in results.
+- Experience constructing and maintaining evaluation datasets: sourcing cases, managing labeling, and keeping coverage relevant as the product evolves.
+- Understanding of agentic failure modes that conventional unit tests do not capture.
+- A repeatable approach to providing agents with context through instruction files, tool definitions, MCP servers, and subagent roles.
+- A practical approach to tracking token spend and wall-clock time per unit of delivered work.
+
+Required languages
+
+English C1 - Advanced
+
+Ukrainian B2 - Upper Intermediate
+
+Published 16 September
+
+93 views
+
+·
+
+19 applications
+
+Response activity: Low
+
+Last responded 2 weeks ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 5 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English C1 - Advanced
+
+- Ukrainian B2 - Upper Intermediate
+
+- ML / AI
+
+- Employment: Fulltime
+
+- Domain: Sports and Fitness
+
+- Outstaff
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 2 weeks ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

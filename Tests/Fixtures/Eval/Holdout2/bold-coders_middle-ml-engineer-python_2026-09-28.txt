@@ -1,0 +1,160 @@
+Вакансия Middle ML Engineer (Python) в Алматы, работа в компании Bold Coders
+
+Чтобы сайт был удобнее, используем cookies
+
+Понятно
+
+Для работы с нашим сайтом необходимо, чтобы Вы включили JavaScript в вашем браузере.
+
+Ищу работу
+
+Ищу работуИщу работуИщу сотрудника
+
+Ищу работу
+
+Ищу сотрудника
+
+Сервисы
+
+Помощь
+
+Ещё
+
+Поиск
+
+Москва
+
+Войти
+
+Войти
+
+Создать резюме
+
+Middle ML Engineer (Python)
+
+от 2 300 до 2 800 $ за месяц до вычета налогов
+
+Выплаты: раз в месяц
+
+Опыт работы: 3–6 лет
+
+Полная занятость
+
+График: 5/2
+
+Рабочие часы: 8
+
+Формат работы: удалённо
+
+Сейчас эту вакансию смотрят 5 человек
+
+Откликнуться
+
+ООО Bold Coders
+
+Напишите телефон, чтобы работодатель мог связаться с вами
+
+Номер телефона
+
+Продолжить
+
+Продолжая, вы принимаете соглашение и политику конфиденциальности
+
+We're looking for an AI Engineer to own the AI layer of our products - from research and experimentation to production deployment. You'll have end-to-end ownership of AI initiatives, work on real-world GenAI challenges, and help shape the future of AI-powered products.
+
+What will need to do:
+
+- Design and build LLM pipelines, AI agents, and RAG-based systems: function/tool calling, structured output (JSON schema)
+- Develop production-grade Python services (Django, Celery, Redis)
+- Validate product hypotheses using real-world data and analytics
+- Measure and optimize LLM quality, performance, and cost
+- Collaborate closely with product managers and engineers to turn ideas into scalable solutions
+
+Who and where are we looking for:
+
+- Experience with NLP projects in production, starting from 2+ year
+- Strong experience building production LLM applications
+- Hands-on expertise with RAG, embeddings, vector search, prompt engineering, and LLM evaluation
+- Experience with LangGraph, LangChain, or similar frameworks
+- Solid Python backend background 3+ years (Django, PostgreSQL, async programming)
+- Strong SQL/Pandas skills and a data-driven mindset
+- Language Proficiency: English at B2-C1 level, Russian at C1 level
+- Location: any, except Russia and Belarus
+
+It will be a plus:
+
+- Experience with vector databases (Qdrant, pgvector, etc.)
+- Fine-tuning, text classification, or embedding models
+- Kubernetes, gRPC, or Go experience
+
+Why Join Us:
+
+At Bold Coders, you'll join a passionate team dedicated to solving complex challenges and delivering innovative solutions. Our projects span Europe, the USA and South East Asia, giving you the opportunity to make a global impact. We value flexibility, remote working and professional development, ensuring you thrive in an inspiring environment. Join us in revolutionizing the legal industry with AI!
+
+Ключевые навыки
+
+- Python
+
+- RAG
+
+- LLM
+
+- Django Framework
+
+- PostgreSQL
+
+- LangChain
+
+- NLP
+
+- Русский — C1 — Продвинутый
+
+- Английский — B2 — Средне-продвинутый
+
+Задайте вопрос работодателю
+
+Он получит его с откликом на вакансию
+
+Где располагается место работы?
+
+Какой график работы?
+
+Вакансия открыта?
+
+Какая оплата труда?
+
+Как с вами связаться?
+
+Другой вопрос
+
+Где предстоит работать
+
+Алматы
+
+Вакансия опубликована 22 сентября 2026 в Алматы
+
+Откликнуться
+
+Вакансии из других подборок в Москве
+
+- Разработчик
+
+- Разработчик программного обеспечения
+
+- Главный программист
+
+- Главный разработчик
+
+- Старший разработчик
+
+- Старший программист
+
+- Специалист по интеграции
+
+- SQL developer
+
+- Программист
+
+- Python developer
+
+ООО Bold Coders

@@ -1,0 +1,70 @@
+EnergyTech Client #1 | AI Developer at Staffora Solutions
+
+- %HEADER_COMPANY_WEBSITE%
+- %HEADER_EMPLOYEES%
+- - - - Staffora Solutions
+
+EnergyTech Client #1 | AI Developer
+
+- Georgia - %LABEL_POSITION_TYPE_REMOTE_WITHIN_ONE%
+- %LABEL_POSITION_TYPE_FULL_TIME%
+- Development
+
+- %BREADCRUMB_JOB_OPENINGS%
+- EnergyTech Client #1 | AI Developer
+
+- %BUTTON_APPLY_TO_POSITION%
+- %BUTTON_APPLY_USING_INDEED%
+- %BUTTON_APPLY_USING_LINKED_IN%
+
+- - - - - - - - - - On behalf of EnergyTech Client #1, Staffora Solutions is looking for a talented AI Developer to build high-performance, low-latency web applications.
+
+Staffora Solutions is a staffing company operating globally. Contact us to get more details about the benefits we offer.
+
+You will design, build, and ship end-to-end AI features: from LangChain/LangGraph orchestration logic on the backend to the interfaces that expose those capabilities to our users.
+
+Responsibilities:
+
+Backend / AI-based features - must have:
+
+- Design, implement, and own multi-step agentic flows using LangChain, LangGraph, and similar.
+- Build tools, agents, and chains that connect to live data sources (APIs, databases, time-series feeds)
+- Integrate LLMs (Claude, GPT, Gemini, etc') into reliable, observable pipelines
+- Own prompt engineering, context management, and output validation
+- Experience working in large-scale and big data environments
+- Deploy and monitor AI services on AWS or Azure
+- Instrument flows with logging and tracing so we can debug and improve them
+
+Frontend - big advantage:
+
+- Build React interfaces that surface AI outputs: summaries, alerts, recommendations, and interactive co-pilot features
+- Connect frontend components to streaming AI responses
+- Write clean, maintainable TypeScript code
+
+Requirements:
+
+- 6+ years of full-stack development experience
+- Hands-on, production-grade experience with LangChain and LangGraph or similar agentic orchestration in production, not just tutorials
+- Strong Python for AI/backend work and TypeScript/React for frontend
+- Experience integrating LLMs via API (Bedrock, GCP Agent Platform, or similar)
+- Familiarity with vector stores, RAG pipelines, and structured output parsing
+- Comfort working in a fast-moving startup environment where you own your features end-to-end
+
+Nice to Have
+
+- Experience in energy, IoT, or industrial data domains
+- Experience with data pipelines such as Lambda/Medallion with data integrity validations
+- Familiarity with LangFuse or other LLM observability tools
+- Experience with MongoDB Atlas, ClickHouse, and time-series data
+
+About the company:
+
+A centralized platform for managing and monitoring renewable energy infrastructure. The solution consolidates digital asset data in a single environment, leveraging real-time monitoring and machine learning algorithms to optimize operational performance and reduce energy consumption at scale.
+
+By applying for this position, you agree to the terms outlined in our Privacy Policy. Please take a moment to review our Privacy Policy https://staffora-solutions.breezy.hr/privacy-notice, and make sure you understand its contents. If you have any questions or concerns regarding our Privacy Policy, please feel free to contact us.
+
+- %BUTTON_APPLY_TO_POSITION%
+- %BUTTON_APPLY_USING_INDEED%
+- %BUTTON_APPLY_USING_LINKED_IN%
+
+%FOOTER_POWERED_BY%breezy

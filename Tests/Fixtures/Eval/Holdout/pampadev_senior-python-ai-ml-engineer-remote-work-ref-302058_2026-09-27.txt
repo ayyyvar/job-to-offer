@@ -1,0 +1,53 @@
+Pampadev hiring Senior Python AI/ML Engineer - Remote Work | REF#302058 in Minas Gerais, Brazil | LinkedIn
+
+At Pampadev®, we've been leading the way in technology projects for over 15 years. We deliver cutting-edge solutions to giants like Google and the most innovative startups in Silicon Valley.
+
+Our diverse 4,000+ team, composed of the world's Top 1% of tech talent, works remotely on roles that drive significant impact worldwide.
+
+When you apply for this position, you're taking the first step in a process that goes beyond the ordinary. We aim to align your passions and skills with our vacancies, setting you on a path to exceptional career development and success.
+
+Senior Python AI/ML Engineer at Pampadev
+
+We are seeking a Senior Python AI/ML Engineer with extensive backend development experience and strong cloud-based AI/ML expertise. This role combines deep Python programming skills with cutting-edge artificial intelligence and machine learning technologies on leading cloud platforms. You'll architect and develop scalable AI solutions while leveraging your backend development foundation to build robust, production-ready systems.
+
+What You'll Do
+
+- Design and develop AI/ML solutions using Python with Django or Flask frameworks.
+- Build and deploy machine learning models on AWS and Google Cloud Platform.
+- Implement and optimize AI workflows using Google Cloud AI Platform and related services.
+- Develop scalable backend systems that integrate with LLM and AI services.
+- Collaborate with cross-functional teams to deliver production-ready AI applications.
+
+What We Are Looking For
+
+- 8-9 years of overall IT experience.
+- 6-7 years of strong Python backend development experience with Django or Flask.
+- 2-3 years of hands-on AWS experience.
+- 1-2 years of experience with Google Cloud Platform or BigQuery.
+- 1-2 years of experience with Google Cloud AI Platform (Vertex AI, AutoML, or similar Google AI tools).
+- SQL experience, particularly with PostgreSQL.
+- 1+ year of recent LLM/AI experience.
+- Advanced level of English.
+
+How we do make your work (and your life) easier:
+
+- 100% remote work (from anywhere).
+- Excellent compensation in USD or your local currency if preferred
+- Hardware and software setup for you to work from home.
+- Flexible hours: create your own schedule.
+- Paid parental leaves, vacations, and national holidays.
+- Innovative and multicultural work environment: collaborate and learn from the global Top 1% of talent.
+- Supportive environment with mentorship, promotions, skill development, and diverse growth opportunities.
+
+Join a global team where your unique talents can truly thrive!
+
+#BD-PRIO-2026
+
+- Seniority level
+Mid-Senior level
+- Employment type
+Full-time
+- Job function
+Information Technology
+- Industries
+IT Services and IT Consulting

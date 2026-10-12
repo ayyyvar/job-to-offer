@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="icon">
+    <rect x="0" y="0" width="512" height="512" fill="#F3F5F4"/>
+    <!-- path widening toward the bottom edge -->
+    <path d="M166 400 L346 400 L472 512 L40 512 Z" fill="#2F6F5E"/>
+    <!-- paper-colored dashes down the middle of the path -->
+    <rect x="249" y="422" width="14" height="18" fill="#F3F5F4"/>
+    <rect x="249" y="452" width="14" height="18" fill="#F3F5F4"/>
+    <rect x="249" y="482" width="14" height="18" fill="#F3F5F4"/>
+    <!-- open doorway: amber light inside a thick green arch frame -->
+    <path d="M181 400 L181 210 A75 75 0 0 1 331 210 L331 400 Z" fill="#E0A23B" stroke="#2F6F5E" stroke-width="30" stroke-linejoin="miter"/>
+  </g>
+</svg>

@@ -1,0 +1,179 @@
+Senior AI Engineer
+
+- Jobs
+
+- Jobs
+- >
+- Senior AI Engineer
+
+Senior AI Engineer
+
+- Vendor / Contractor
+- Full time
+- Remote
+
+Senior AI Engineer
+
+The K-VANTA Company | Remote, Worldwide
+
+About K-VANTA
+
+The K-VANTA Company builds data products for enterprise risk, compliance, and decision-making. Our platform collects and processes non-public data. It supports multi-stakeholder scoring and non-financial risk analysis. Our clients include SGS, Meta, Cummins, and the World Bank.
+
+We are expanding from Europe into the United States and Latin America. We need a Senior AI Engineer who can help us create a clear, consistent, and reliable product experience across these markets.
+
+The role
+
+This role combines artificial intelligence (AI), data engineering, and software engineering. You are responsible for the technical implementation of K-VANTA’s AI and data systems, working across the AI agent, data warehouse, analytics, and related services.
+
+You work closely with senior engineering leadership and the wider engineering team to turn product and technical requirements into reliable production systems.
+
+Responsibilities
+
+- You design, build, test, and maintain AI and data services used across the K-VANTA platform.
+
+- You are a primary code contributor to the AI agent, data warehouse, and supporting services.
+
+- You implement systems that make data reliable, consistent, and accessible to people, analytics, and AI systems.
+
+- You build and maintain data pipelines, APIs, integrations, and supporting infrastructure.
+
+- You implement analytics and data-processing functionality in coordination with the teams that consume it.
+
+- You contribute to system architecture and technical design, particularly within the AI and data platform.
+
+- You investigate technical problems, identify practical solutions, and carry them through to production.
+
+- You write technical design documents and implementation proposals that explain how systems should work and document important engineering decisions.
+
+- You review code and technical designs and help maintain a high engineering standard across the systems you work on.
+
+- You work with the main application team to integrate AI and data capabilities into the broader K-VANTA platform.
+
+- You occasionally join client or product discussions when technical input is required.
+
+How the role works
+
+This role suits someone who takes initiative and follows through. You are expected to work independently on complex technical problems, make sensible implementation decisions, and take ownership of the systems you build.
+
+The role is strongly hands-on. Most of your time goes to code development, system design, debugging, testing, and technical implementation.
+
+You work within the technical direction and priorities established by the Head of AI and engineering leadership. Within that context, you have significant freedom to decide how individual systems and technical problems should be implemented.
+
+This is an individual-contributor role. It does not include people management, hiring responsibility, or ownership of company-level AI or product strategy.
+
+Experience and skills
+
+We are looking for a strong software engineer with practical experience building production systems involving AI and data.
+
+Python experience is strongly preferred. PHP experience is a strong advantage.
+
+You should be comfortable with areas such as:
+
+- Production Python development.
+
+- APIs and backend services.
+
+- AI and LLM-based applications.
+
+- Data pipelines and data processing.
+
+- Relational databases and data modelling.
+
+- Data warehouses and analytical systems.
+
+- Cloud infrastructure and production deployments.
+
+- Testing, debugging, monitoring, and maintaining production software.
+
+You need to be comfortable working with existing systems as well as building new ones. You should be able to understand a technical problem, break it into manageable parts, and implement a reliable solution.
+
+You communicate technical decisions clearly, work effectively with other engineers, and adapt as requirements change.
+
+You can make implementation decisions with incomplete information, take ownership of the result, and learn our business domain as you go.
+
+Your first three months
+
+Your first priority is to help complete any remaining technical work required to put the data warehouse and dynamic dashboard into production. If these systems are already in production, you contribute to their continued development, reliability, and improvement.
+
+You become a core technical contributor to version 2.0 alongside the main application team, with particular responsibility for implementing the AI and data components of the platform.
+
+You also begin implementing the AI capabilities planned for version 2.0, taking features from technical design through development, integration, testing, and production deployment.
+
+How We Work
+
+We are a small, senior team.
+
+You must be able to work independently and take responsibility for technical outcomes. You will not receive complete specifications and then execute against them. You will help investigate the problem, propose a solution, and carry it through to production.
+
+You must be able to explain your reasoning, accept criticism, and revise your decisions when the evidence changes.
+
+We work fully remote and asynchronously by default, with regular synchronous moments for alignment. We expect people to own their outcomes without daily supervision.
+
+Logistics
+
+• Location: Fully remote, worldwide
+
+• Reports to: Head of Engineering
+
+• Team: Engineering
+
+• Employment type: To be confirmed
+
+• Seniority: Senior individual contributor
+
+• Language: English (mandatory, full professional proficiency)
+
+- Vendor / Contractor
+- Full time
+- Remote
+
+Apply now
+
+Apply now
+
+Privacy policy
+
+|
+
+Cookie settings
+
+|
+
+Powered by Factorial
+
+Build my own jobs page
+
+FACTORIAL uses cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.
+
+Read more about our Cookies' Policy →
+
+Privacy policy
+
+Manage cookies Reject cookies Accept cookies
+
+This website uses cookies
+
+FACTORIAL uses cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you've provided to them or that they've collected from your use of their services.
+
+Read more about our Cookies' Policy →
+
+Manage cookies
+
+Necessary
+
+Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.
+
+Statistics
+
+Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously.
+
+Marketing
+
+Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.
+
+Preferences
+
+Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.
+
+Reject cookies Allow selection

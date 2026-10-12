@@ -1,0 +1,106 @@
+Lead AI / RAG Engineer: Self-Hosted Knowl… | DSML Kazakhstan
+
+DSMLKZ
+
+Select language
+
+11 Sep 2026, 10:11 UTC+5
+
+Corvel AI
+
+Remote
+
+Full-time
+
+ML
+
+Remote
+
+Lead AI / RAG Engineer: Self-Hosted Knowledge Platform at Corvel AI
+
+0SaveShare
+Applications: 43269
+
+Preparing DSML Apply...
+
+Lead AI / RAG Engineer: Self-Hosted Knowledge Platform
+Corvel AI
+65 to 90 USD Gross per hour
+Remote
+
+Corvel AI is an AI engineering consultancy building production-grade LLM, RAG, agent, and document-intelligence systems.
+
+Responsibilities:
+• Lead architecture and hands-on implementation of a production RAG / knowledge platform
+• Build document ingestion for Google Workspace, PDFs, scans, tables, and images
+• Implement permission-aware retrieval with ACL enforcement at query time
+• Build hybrid search, embeddings, reranking, and citation-backed generation
+• Deploy and benchmark open-weight models using vLLM or similar infrastructure
+• Build evaluation/regression systems for retrieval, answer quality, security, and model upgrades
+• Own production deployment, observability, CI/CD, documentation, and handoff
+• Work directly with Corvel’s senior team and client technical leadership
+
+Requirements:
+• 6+ years of professional software/ML engineering experience
+• Strong experience building production LLM/RAG systems
+• Excellent Python/backend engineering skills
+• Hands-on experience with embeddings, vector search, reranking, and document pipelines
+• Experience serving open-weight LLMs with vLLM, SGLang, Triton, TGI, or similar
+• Strong cloud/infrastructure skills; Azure, Docker, Terraform/Kubernetes, and CI/CD are especially relevant
+• Experience with LLM evaluation and production reliability
+• Comfortable owning ML, backend, data, and infrastructure rather than working in a narrow specialty
+
+Optional:
+• Google Workspace APIs and permissions
+• pgvector/Qdrant
+• BM25 + dense retrieval
+• OCR/document AI
+• multimodal models
+• Prometheus/Grafana
+• no-egress or security-sensitive environments
+
+Comments
+
+Member discussion for this news item or vacancy.
+
+Checking sign-in status...
+
+← Back to Jobs
+
+Search
+
+Related open jobs
+
+More active roles with a matching professional focus.
+
+AI Engineer Instructor
+
+NOVURemote1,200,000 to 1,600,000 KZT NET per project
+
+NOVU is an IT academy that has been training specialists in technology and digitalization since 2013, with over 5,000 graduates. The course covers topics such as RAG and vector storage, MCP and AI agents, LLM and model fine-tuning, data and document handling, Evals, and CI/CD.
+
+Open job
+
+AI Developer / ML Engineer
+
+PivotraRemote1,600 to 3,200 USD NET per month
+
+Pivotra focuses on innovative AI/ML solutions. Developing an internal AI platform for intelligent agents.
+
+Open job
+
+Computer Vision Engineer
+
+AMAN Ltd.Remote600,000 to 700,000 KZT NET per month
+
+AMAN Ltd. is a startup focused on security solutions, currently growing in UAE and EU markets. The company is developing computer vision-powered video analytics for CCTV and surveillance systems, expanding into the academic sector.
+
+Open job
+
+Senior AI Engineer
+
+Qatar Insurance CompanyRemote5,000 to 6,000 USD Gross per month
+
+Qatar Insurance Company has been the leading insurance provider in the GCC since 1964. Qatar Insurance Company aims to create the first Digital Ecosystem in the region by integrating insurance and non-insurance services into a single platform.
+
+Open job

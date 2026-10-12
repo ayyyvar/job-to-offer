@@ -1,0 +1,149 @@
+Full-Stack Engineer - Go + React | HR.ge
+
+Back to search results
+
+Previous
+
+Next
+
+17 Sep - 16 Oct
+
+Standard
+
+Full-Stack Engineer - Go + React
+
+Tbilisi
+
+Keepsafe
+
+Apply (On another website)
+
+Information about vacant position:
+
+- Specialization/Specialty: Information technologies Programming/Engineering, Full Stack Development
+
+- Industry / Field: Software & IT Services Information Technology & Services Consumer Products and Services Consumer Services
+
+- Seniority level: Senior-Level
+- Schedule: Full-time
+- Employment form: Fixed-term contract
+- Work Location: Work from home
+
+Employer requirement:
+
+- Experience is mandatory: Experience from 7 years
+- Specialization/Specialty(Mandatory):
+Information technologies Programming/Engineering, Full Stack Development
+
+- Industry / Field(Mandatory):
+Software & IT Services Information Technology & Services
+
+Consumer Products and Services Consumer Services
+
+- Seniority level: Senior-Level
+- Education level(s): Bachelor, Master, Doctor, College, Other, High School
+- Languages: English
+
+Keepsafe is pleased to announce a vacancy for the position of Full-Stack Engineer - Go + React (Crypto Custody)
+
+Description
+Keepsafe by Ardent Finance is a Swiss and EU-regulated fintech group delivering institutional-grade digital asset infrastructure and services.
+
+Bringing together a software vendor and a licensed Crypto Asset Service Provider (CASP), Keepsafe combines deep domain expertise with a strong foundation of transparency, security, and regulatory compliance.
+
+We develop and operate a comprehensive suite of crypto-native solutions, powered by proprietary technology, enabling institutions to execute digital asset strategies across both custodial and non-custodial models.
+
+We're building a security-first platform for digital asset operations. Our product is API-driven, highly auditable, and engineered for reliability. We're looking for a Senior Full-Stack Engineer who can own features end-to-end — from clean domain modeling in Go or Node.js to a polished, crisp React UI.
+
+Responsibilities:
+
+- Build end-to-end product features across Go and Node.js/Express backends and React frontend
+- AI-assisted development: use Cursor/Copilot/ClaudeCode (or similar) daily to accelerate delivery, refactoring, and test generation—while verifying outputs and keeping code clean
+- Design backend services using DDD patterns (bounded contexts, aggregates, domain events), clean layering, and pragmatic architecture
+- Implement data models and migrations across PostgreSQL and MongoDB, using GORM, Mongoose, or raw queries where appropriate
+- Build and maintain REST APIs (and webhooks/event-driven workflows where needed) in both Go and Node.js/Express
+- Implement frontend flows in React (TypeScript): dashboards, admin workflows, status lifecycles, audit views
+- Ensure correctness and observability: structured logging, metrics, tracing, and production-ready error handling
+- Contribute to security fundamentals: RBAC, least-privilege access, safe secrets handling, and audit trails
+- Own quality: unit/integration tests, contract tests, and CI pipelines
+
+Requirements
+Must-have
+
+- 7+ years building production systems with Go and/or the MERN stack (MongoDB, Express, React, Node.js), plus solid React experience
+- Strong backend fundamentals: concurrency, APIs, reliability, debugging
+- Hands-on with DDD (not just buzzwords): can model domains and keep boundaries clean
+- Strong database skills across PostgreSQL and MongoDB: schema/collection design, indexing, query tuning, migrations
+- Experience with GORM and/or Mongoose (or similar ORMs/ODMs) plus comfort dropping to raw SQL or aggregation pipelines when needed
+- Frontend proficiency in React (TypeScript preferred), including state management and form-heavy admin UIs
+- Good testing discipline (Go testing, Jest/Vitest, integration tests; frontend testing basics)
+- REQUIRED: confident daily use of AI coding tools (Cursor/Copilot/etc.) with disciplined verification and secure practices
+
+Nice to have
+
+- Event-driven patterns: outbox, retries, idempotency, background jobs
+- Experience with RBAC/policy engines, audit logs, fintech/compliance workflows
+- Docker/Kubernetes familiarity
+- CI/CD ownership (GitHub Actions/GitLab CI), release workflows
+- Experience with high-security systems (custody, payments, identity)
+
+Soft skills
+
+- Ownership mindset: deliver features end-to-end with high quality
+- Clear communication and ability to work across teams
+- Pragmatic: balances long-term design with shipping
+- Comfortable in ambiguity and fast iteration
+
+Benefits
+
+- Competitive salary;
+- Annual performance bonus;
+- Fully remote position — work from anywhere in the world (team operates on CET);
+- Paid time off, including vacation, sick leave, and public holidays;
+- Multiple projects within the company — the opportunity to discuss different projects during the interview and choose the one that's the best fit for you.
+
+Interested candidates, please click the "Apply (On another website)" button.
+
+Apply (On another website)
+
+Information technologies
+
+Programming/Engineering,
+
+Full Stack Development
+
+Views
+
+Unique views
+
+Similar announcements
+
+SOC Detection Engineer – Senior
+
+Tbilisi
+
+PLAYVEND
+
+Staff Backend Engineer - MPC Custody Platform
+
+Tbilisi
+
+Keepsafe
+
+Junior Configuration Engineer
+
+Tbilisi
+
+Combined Ratio Solutions
+
+Manual QA Engineer
+
+Tbilisi
+
+Scapp
+
+Product Manager - Engineering
+
+Tbilisi
+
+Tripledot Studios

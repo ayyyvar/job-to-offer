@@ -1,0 +1,223 @@
+Seabright - Backend Team Lead (ML)
+
+Skip to content
+
+SeabrightHomepageSeabrightHomepage
+
+SeabrightHomepageSeabrightHomepage
+
+SeabrightHomepage
+
+SeabrightHomepage
+
+SeabrightHomepage
+
+SeabrightHomepage
+
+Backend Team Lead (ML)
+
+Job detailsApply
+
+Job description
+
+Seabright is a technology company building highload products used by millions of people worldwide. Operating at the scale of one of the world's top-50 websites, we solve complex engineering challenges and create solutions that power real-time entertainment for a global audience.
+
+We are looking for a Backend Team Lead for our ML development team focused on building and delivering production-grade ML-powered applications.
+
+This role is not about research or experimentation. You will be responsible for turning ML models into reliable, scalable, user-facing services.
+
+You will work at the intersection of machine learning and backend engineering, owning the full lifecycle of ML-powered features — from integration to deployment and operation in production.
+
+Job Responsibilities
+
+- Design and build production ML services (APIs, microservices, real-time systems)
+
+- Lead and grow a team of backend engineers: plan work, mentor team members, conduct code reviews, provide technical guidance, and foster engineering excellence.
+
+- Drive architectural decisions and ensure the scalability, reliability, and maintainability of ML services.
+
+- Integrate ML models into user-facing applications
+
+- Ensure reliability, scalability, and performance of ML-powered systems
+
+- Define and implement best practices for serving, versioning, and monitoring models in production
+
+- Collaborate closely with:
+
+- ML engineers / data scientists (who develop models)
+
+- DevOps / MLOps team (who provide platform and infrastructure)
+
+- Own the delivery pipeline of ML features into production
+
+- Lead and mentor engineers working on ML-powered applications
+
+- Drive architectural decisions around low-latency and high-load systems
+
+- Identify bottlenecks between experimentation and production and eliminate them
+
+Job requirements
+
+You’ll thrive here if you have
+
+- 5+ years of experience in backend/software engineering in a Lead or Senior role (mentoring, ownership, decision-making).
+
+- Strong commercial Python experience.
+
+- Managerial experience leading an engineering team.
+
+- Experience designing and building production backend systems and microservice architecture.
+
+- Strong understanding of system design, scalability and high-load systems.
+
+- Experience developing APIs (FastAPI, Flask, gRPC or similar).
+
+- Hands-on experience with code reviews, mentoring and technical decision-making.
+
+- Ability to drive cross-team collaboration and own complex technical integrations.
+
+That can be a plus:
+
+- Experience with real-time ML systems (recommendations, ranking, personalization)
+
+- Experience in video streaming or high-throughput platforms
+
+- Familiarity with Kubernetes and cloud/on-prem environments
+
+- Experience with feature stores, model monitoring, A/B testing
+
+- Experience working alongside MLOps platforms (MLflow, Airflow, etc.)
+
+Conditions
+
+We know that great talent deserves great conditions, so here's what you can expect when joining us:
+
+- EU-based employment contract and a 3-year Cyprus work visa with full support for your relocation and visa processes, including assistance for your family.
+
+- EU passport. Opportunity to obtain an EU passport after 4 years of residence
+
+- Full relocation package: flights to Limassol for you and your family, a company-covered apartment for the first month, and full relocation support to make your move smooth and hassle-free.
+
+- Transparent performance reviews twice a year, with bonus opportunities and salary adjustments.
+
+- Private medical insurance for you and your family
+
+- Provident fund (Cypus): a long-term savings plan co-funded by you and the Company together (available after probation) that grows throughout your time with us in Cyprus.
+
+- Corporate mobile plan (unlimited in Cyprus with roaming included)
+
+- Mindfulness & well-being support, including psychological assistance with 50% coverage.
+
+- 50% coverage of school and kindergarten fees for your children.
+
+- Fully covered sports benefits, and also access to in-house electric scooters and bike rentals
+
+- Professional growth support: language courses, conferences, training programs, and coaching.
+
+- Peer recognition program: receive and share kudos for great work.
+
+- A fully equipped office in Limassol’s city center, with everything you need for deep work and collaboration.
+
+- Free breakfasts and lunches in the office and an in-house coffee bar with high-quality drinks and a health bar stocked with nutritious snacks.
+
+- A strong engineering culture: international teams, corporate events, team buildings, and hackathons — because great work happens in great communities.
+
+Interview steps:
+
+1. HR Interview (45 min)
+2. Technical Interview (90 min)
+3. Live code-review interview (90 min)
+4. Final interview with the team (60 min)
+
+- Temporary Remote (future relocation to Limassol)
+
+Apply
+
+or
+
+Share job
+
+My information
+Fill out the information below
+
+Full name *
+
+Email address *
+
+Phone number *
+
+Cyprus
+
+Cyprus
+
+- International
+
+- Afghanistan
+
+Afghanistan
+
+CV or resume *
+Upload your CV or resume file
+
+Upload a file or drag and drop here
+
+Upload a file or drag and drop hereAccepted files: PDF, DOC, DOCX, JPEG and PNG up to 50MB.
+
+Cover letter
+Upload your cover letter
+
+Upload a file or drag and drop here
+
+Upload a file or drag and drop hereAccepted files: PDF, DOC, DOCX, JPEG and PNG up to 50MB.
+
+Write it here instead
+
+Questions
+Please fill in additional questions
+
+Full name
+
+Personal email
+
+Telegram *
+
+Whatsapp *
+
+Country *
+
+Net Monthly Salary Expectation (in Euros) *
+EUR
+
+English level *
+
+A1
+
+A2
+
+B1
+
+B2
+
+C1
+
+C2
+
+Briefly tell us about yourself or provide links to your portfolio / code repository *
+
+All fields marked with * are required.
+
+Send
+
+All done!
+
+Your application has been successfully submitted!
+
+Other jobs
+
+You've already applied for this job
+
+Thank you for your interest - we've already received your application, so this new submission can't be accepted. Your previous application is on file.
+
+If you need assistance or believe this is an error, please email us at apply@seabright.recruitee-inbox.com
+
+© Made with love for IT. 2025 Seabright

@@ -1,0 +1,117 @@
+Вакансия Middle / Senior ML Engineer / Data Scientist, работа в Orbis, с релокацией — getmatch — getmatch
+
+В приложении удобнее
+Установить
+
+Добавить в TelegramВойти
+
+Все вакансииData Scientist & Machine LearningRelocateMiddle
+
+Middle / Senior ML Engineer / Data Scientist
+
+in Orbis
+
+from 3 000 €/‍month net
+
+📍 Sofia (Bulgaria)
+
+Relocation support
+
+Position
+
+Data Scientist & Machine Learning
+
+Seniority level
+
+Middle, Senior
+
+English
+
+B2 — Upper-Intermediate
+
+Experience
+
+3+ years
+
+Apply
+
+Share
+
+Technologies / Tools
+
+Python
+
+Spark
+
+CatBoost
+
+Langgraph
+
+PyTorch
+
+Apache Airflow
+
+MLflow
+
+3,000+ EUR NET + annual bonus.
+
+About the team:
+
+We are a startup-like, full-stack team building production ML models and LLM-based agents inside one of the leading banks in Bulgaria.
+
+Our work ships to real customers. If you use the mobile app or website, you’re likely interacting with systems we built, such as:
+
+- An AI assistant (with upcoming capabilities to analyze real-time transactions and provide personalized financial guidance).
+- Real-time product ranking that adapts instantly to your explicit feedback.
+- Optimal interest-rate pricing for cash loans.
+- AI-powered search engine for the website.
+- And other ML/AI products across the bank.
+
+We are growing and looking for a self-driven, results-oriented ML/DS professional who enjoys production-grade challenges with large-scale impact.
+
+We value strong ML foundations more than prior “AI agent” experience: we believe it’s easier to teach agent frameworks than it is to build robust, monitored, production-ready ML models.
+
+As part of our team, you will:
+
+- Develop and deploy ML models and LLM agents for business use cases.
+- Take end-to-end responsibility for models: problem framing, training/validation, deployment, monitoring, and ongoing improvements.
+- Contribute to the design — and optionally to the development — of our in-house ML and AI platforms to make them convenient and easy to use for the DS team.
+
+We’re looking for candidates with:
+
+- 3+ years of hands-on experience in ML.
+- At least a keen interest in modern LLM agentic applications (LangChain, LangGraph, etc.).
+- A solid foundation in mathematics, statistics, ML algorithms, metrics, and loss functions.
+- Advanced expertise in Python and its ML ecosystem (NumPy, pandas, scikit-learn, XGBoost, CatBoost, seaborn, etc.).
+- Strong skills in SQL and Spark, including advanced features like complex joins, subqueries, CTEs, and window functions.
+- Proficiency in writing clean, efficient, and scalable Python code.
+- Verbal and written English at Upper Intermediate level or above.
+- While not required, the following will make you stand out.
+- Experience with Azure Databricks, MLflow, and Airflow for model development and workflow orchestration.
+- Familiarity with deep learning frameworks like PyTorch, TensorFlow, etc.
+- Experience with LLM fine-tuning or parameter-efficient tuning (e.g., LoRA/PEFT). We currently use Azure OpenAI (restricted fine-tuning capabilities) and are in the process of transitioning to self-hosted LLMs, where full fine-tuning will be possible.
+
+What we offer to you:
+
+- EU Blue Card + low taxes and the lowest cost of living in the EU.
+- Cutting-edge tech stack on par with top global IT companies.
+- Dev-to-Prod in a few clicks via our in-house ML & AI platforms.
+- 2 servers with 1TB RAM and 4 NVIDIA RTX PRO 6000 GPUs each.
+- Carte blanche from top management to keep excelling at what the team does.
+- DS Team Lead from MIPT & Department Lead from MSU as a minor bonus.
+
+Apply
+
+About company Orbis
+
+Industry
+
+Banking
+
+Company size
+
+1001+
+
+Orbis is the leader in the retail banking in Bulgaria, as well as a bank with outstanding positions in the private and corporate banking segment. The bank has the largest and most innovative branch network and superior e-channels for servicing its customers. Orbis is the bank with highest awareness and consideration among Bulgarian customers (Financial Intelligence survey of GfK). It is also the most preferred employer by the students in the country (To the Top Agency survey 2019). The financial institution constantly invests in developing innovative solutions for meeting the dynamic expectations of its customers.
+
+Apply

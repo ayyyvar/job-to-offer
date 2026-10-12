@@ -1,0 +1,163 @@
+Senior Software Engineer — AI Agents / Search at Gridlume – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+Senior Software Engineer — AI Agents / Search
+
+Gridlume
+
+Copy link Copied
+
+$$$$
+
+ABOUT OUR CLIENT
+
+Our client is a leading enterprise data platform company building an open, high-performance data lakehouse for AI and analytical workloads. The platform combines an intelligent SQL query engine, an AI-ready semantic layer, and an open catalog built on Apache Iceberg — enabling Fortune 500 companies across finance, energy, manufacturing, and logistics to unify, query, and govern data at massive scale across cloud and on-premise sources.
+
+ABOUT THE ROLE
+
+We are looking for a Senior Software Engineer to build and operate production AI agent and search services on top of a large-scale data platform. This is hands-on work at the intersection of distributed backend engineering and applied AI: multi-agent workflows, tool-execution infrastructure, retrieval and relevance, and integrations with multiple LLM providers — all running as real, customer-facing production services with the reliability expectations that implies.
+
+RESPONSIBILITIES
+
+- Design and implement scalable multi-agent workflows (including conversation state), tool-execution infrastructure, and data-aware tools working with catalogs, schemas, lineage, SQL, jobs, semantic metadata, data preparation, and visualizations
+- Build search and retrieval capabilities with OpenSearch or equivalent — indexing, relevance tuning, hybrid keyword + vector search
+- Integrate multiple LLM/model providers with secure configuration and graceful degradation
+- Develop APIs and event contracts across REST, streaming/SSE, gRPC, protobuf, and SDKs, including UI integrations
+- Operate, monitor, and improve production services — service health, logs, metrics, traces, search-cluster health, latency, and error rates; participate in the team's production-support model
+- Investigate incidents, drive root-cause analysis, and ship durable fixes
+- Design for permissions, tool approvals, multi-tenancy, and customer-data governance
+- Maintain dependencies, apply security fixes, and reduce tech debt; produce designs, tests, runbooks, and documentation; lead technical discussions and review code
+
+REQUIRED QUALIFICATIONS
+
+- B.S. or M.S. in Computer Science, Computer Engineering, or a related field — or equivalent practical experience
+- 7+ years of relevant experience, or equivalent demonstrated senior-level impact
+- Strong Java software engineering skills
+- Strong grasp of concurrency, data structures, API design, testing, maintainability, and backward compatibility
+- Solid background in distributed systems, microservices, cloud services, or data-intensive backends
+- Hands-on experience with search technologies — OpenSearch, Elasticsearch, or Lucene — including vector search, embeddings, or relevance systems
+- Experience building LLM applications, agent/tool workflows, RAG systems, or model-provider integrations
+- Strong production instincts: diagnosing failures via logs, metrics, and traces; designing for fault tolerance, retries, cancellation, and recovery
+- SQL and familiarity with data platform concepts: catalogs, metadata, schemas, governance, lineage
+- Comfort leading ambiguous, cross-service work with clear stakeholder communication and strong written documentation
+- Comfortable with AI-assisted development workflows — using modern AI tools productively while critically validating their output
+- English Upper-Intermediate or higher (B2+) — daily written and verbal communication with a US-based engineering team
+- Availability to work EU business hours shifted 2–3 hours later for daily overlap with US West Coast mornings
+
+DESIRED SKILLS
+
+- LangChain4j or similar agent frameworks
+- Python for AI services, evaluation harnesses, or sandboxed execution
+- React and TypeScript
+- gRPC, protobuf, Quarkus, Kubernetes, MongoDB, KV stores, event-driven architectures
+- Apache Arrow, Apache Iceberg, OpenLineage, semantic layers, or data-governance systems
+- AI quality evaluation: LLM-as-judge, model benchmarking, production AI metrics
+- OpenSearch operations: index lifecycle management, relevance tuning, incident response
+- Open-source contributions
+
+DETAILS
+
+- Engagement: Long-term contract
+- Location: Europe (EU / EEA / UK), remote
+- Working hours: EU business hours, shifted 2–3 hours later for daily overlap with the US West Coast team
+
+Required skills experience
+
+Java 7 years
+
+Distributed Systems 7 years
+
+Microservices 7 years
+
+LLM 7 years
+
+Cloud, Artificial Intelligence (AI)
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Ukrainian A1 - Beginner
+
+Published 28 August · Updated 21 September
+
+139 views
+
+·
+
+12 applications
+
+Response activity: Low
+
+Last responded 3 weeks ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 7 years of experience
+
+- Full Remote
+- EU
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- Ukrainian A1 - Beginner
+
+- ML / AI
+
+Java 7 years
+
+Distributed Systems 7 years
+
+Microservices 7 years
+
+LLM 7 years
+
+- Employment: Fulltime
+
+- Domain: Other
+
+- Outsource
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 3 weeks ago
+
+📊 $4000-6000 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

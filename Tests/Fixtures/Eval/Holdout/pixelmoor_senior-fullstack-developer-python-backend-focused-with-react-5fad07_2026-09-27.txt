@@ -1,0 +1,51 @@
+Pixelmoor hiring Senior Fullstack Developer (Python Backend Focused with React & AWS) in Armenia | LinkedIn
+
+We are PIXELMOOR, a software delivery agency specialising in building high-performing product design and software development teams for clients across Europe and North America. We work with a wide range of organisations from ambitious startups to multinational corporations. We have a unique career opportunity for you to work on building exciting digital products for international clients. Yet, remaining flexible in a remote-only environment and getting a top-tier compensation package.
+
+WHO ARE WE LOOKING FOR:
+
+We are looking for a Senior Full-Stack Engineer with a strong backend focus on building reliable, scalable applications and contributing to technical solution discussions.
+
+WHAT YOU WILL DO:
+
+- Design, develop, and maintain scalable web applications across backend and frontend layers.
+- Build and maintain backend services and APIs using Python, Django, and FastAPI.
+- Develop modern, responsive frontend applications using React and TypeScript.
+- Work with AWS services to build, deploy, and maintain cloud-based solutions.
+- Contribute to technical architecture and solution design discussions.
+- Act as a technical point of contact, providing guidance and supporting future solution decisions.
+- Collaborate with engineers and stakeholders to understand requirements and translate them into effective technical solutions.
+- Troubleshoot technical issues and continuously improve application performance, reliability, and maintainability.
+- Take ownership of assigned tasks and contribute to the overall quality of the product.
+
+WHAT WE EXPECT FROM YOU:
+
+- 5+ years of commercial software engineering experience.
+- Strong backend development experience with Python.
+- Professional experience with Django and FastAPI.
+- Solid frontend development skills with React and TypeScript.
+- Hands-on experience with AWS and cloud-based application development.
+- Strong understanding of software engineering principles, APIs, and application architecture.
+- Ability to contribute to technical discussions and support solution design.
+- Strong problem-solving and analytical skills.
+- Ability to work independently and take ownership of technical tasks.
+- Excellent communication and collaboration skills.
+- Fluent English, both written and spoken.
+
+OUR OFFER
+
+- Remote work setup
+- Long term B2B Contract
+- Attractive compensation package
+- Opportunities for professional growth and development
+- Collaborate with top minds from around the globe
+- Build world-class digital products for European and US markets
+
+- Seniority level
+Mid-Senior level
+- Employment type
+Full-time
+- Job function
+Engineering
+- Industries
+IT Services and IT Consulting

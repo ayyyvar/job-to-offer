@@ -1,0 +1,167 @@
+AI Engineer - Robotics, Synthetic Data, AI Agents at Primordia Studio – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+AI Engineer - Robotics, Synthetic Data, AI Agents
+
+Primordia Studio
+
+Copy link Copied
+
+$$$$
+
+We are looking for an AI Engineer with practical experience in robotics, simulation, synthetic data and AI agents.
+
+The first priority for this role is to understand how our 3D, simulation and configurator expertise can be useful for robotics teams: what training data they need, how synthetic data can help, where real-world data is required, and which product hypotheses are worth testing.
+
+You will work at the intersection of AI, robotics, 3D/simulation and production software engineering. We expect you to be able to move from an unclear problem to research, technical discovery, prototype, evaluation and a clear recommendation for the next step.
+
+Responsibilities:
+
+- Analyze our current 3D/simulation projects and identify possible use cases for robotics.
+- Understand data requirements for training and evaluating robotics models.
+- Define where synthetic data, 3D scenes, procedural generation and simulation can create value.
+- Build prototypes and experiments for selected robotics or AI scenarios.
+- Design and implement AI-agent systems around LLMs, tools, APIs and internal data.
+- Integrate AI models into working services, pipelines and tools.
+- Set up evaluation, logging, monitoring and feedback loops for AI systems.
+- Work with developers, 3D artists, product stakeholders and potential users.
+
+Requirements:
+
+- 3+ years of software engineering experience.
+- Strong Python skills and experience building backend services, APIs or ML systems.
+- Practical experience with robotics, robotic simulation, autonomous systems or related domains.
+- Experience with synthetic data, simulation environments, 3D/game engines or data generation pipelines.
+- Understanding of ML data lifecycle: collection, generation, labeling, validation, versioning and evaluation.
+- Experience integrating LLMs or AI models into real products or internal tools.
+- Experience with AI agents: tool calling, API integration, RAG, context/state management, retries and fallback logic.
+- Ability to deploy and operate AI services using Docker, cloud or similar infrastructure.
+
+Nice to have:
+
+- ROS/ROS2, Isaac Sim, MuJoCo, Gazebo, Unity, Unreal Engine or Blender.
+- Camera/LiDAR/depth/segmentation datasets.
+- Domain randomization, Sim2Real, reinforcement learning or imitation learning.
+- LangGraph, LangChain, LlamaIndex, CrewAI or custom agent orchestration.
+- PyTorch/TensorFlow, fine-tuning, model evaluation or ML experiment tracking.
+- Experience in game development, VFX, 3D pipelines or digital twins.
+
+In the first 30 days, we expect you to understand our project context, analyze possible robotics use cases, describe data requirements and propose several product hypotheses.
+
+By 60 days, we expect a working prototype or technical experiment, clear evaluation criteria, documented findings and a recommendation on whether to continue, change direction or stop the selected hypothesis.
+
+Required skills experience
+
+Python 2.5 years
+
+Machine Learning 2 years
+
+AI/ML 1.5 years
+
+REST API 3 years
+
+Backend Development 3 years
+
+Gazebo, Unity, Procedural generation, RAG, Vector databases + 2 more
+LangChain, Docker
+
+Required domain experience
+
+Machine Learning / Big Data 1.5 years
+
+Hardware / IoT 1 year
+
+Gamedev 1 year
+
+Manufacturing 1 year
+
+Required languages
+
+English B1 - Intermediate
+
+Ukrainian B2 - Upper Intermediate
+
+Published 9 September · Updated 16 September
+
+326 views
+
+·
+
+30 applications
+
+Response activity: Low
+
+Last responded 2 weeks ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- from 3 years of experience
+
+Considering with 2 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B1 - Intermediate
+
+- Ukrainian B2 - Upper Intermediate
+
+- ML / AI
+
+Python 2.5 years
+
+Machine Learning 2 years
+
+AI/ML 1.5 years
+
++ 2 more
+
+- Employment: Fulltime
+
+- Domain: Machine Learning / Big Data
+
+- Agency
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 2 weeks ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

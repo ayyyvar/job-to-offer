@@ -1,0 +1,369 @@
+AI Research Engineer (Pre-training - LLM & Multi-Modal) – Anchorline Operations Limited – United Kindom | Remote | Arbeitnow
+
+Close menu
+
+Popular Locations Categories About
+
+Popular
+
+- Jobs with Visa Sponsorship
+- Jobs with Salary
+- 4 day work week jobs
+- Jobs with Relocation Package
+- Companies Hiring in the UK
+- Jobs by Locations
+
+Tools
+
+- UK Salary Calculator 2026/27
+
+Locations
+
+- Belfast
+- Birmingham
+- Brighton
+- Bristol
+- Cambridge
+- Cardiff
+- Dublin
+- Edinburgh
+- Glasgow
+- Leeds
+- Liverpool
+- London
+- Manchester
+- Newcastle upon Tyne
+- Nottingham
+- Oxford
+- Reading
+- Germany
+- France
+- Switzerland
+
+Categories
+
+- AI
+- Android
+- Backend
+- Customer Service
+- Customer Support
+- Data
+- Data Analyst
+- Data Engineer
+- Data Scientist
+- Design
+- DevOps
+- Developer
+- Engineering
+- Freelance
+- Frontend
+- Graduate
+- IT
+- Javascript
+- Junior
+- Marketing
+- PHP
+- Part Time
+- Product Manager
+- Python
+- QA
+- Recruiter
+- Remote
+- SEO
+- Social Media
+- Software
+- Startup
+- iOS
+
+About
+
+- About
+- Facebook
+- LinkedIn Page
+- Jobs API
+- Rate us on Google
+- Privacy
+- Terms
+- Imprint
+
+About
+
+Jobs in the UK
+
+Home | Anchorline Operations Limited | AI Research Engineer (Pre-trai...
+
+- AI Research Engineer (Pre-training - LLM & Multi-Modal)
+
+Anchorline Operations Limited
+
+United Kindom
+
+Data Remote Experienced fulltime permanent
+5 days
+
+Data Remote Experienced fulltime permanent
+
+United Kindom
+
+5d
+
+Join Anchorline and Shape the Future of Digital Finance
+
+At Anchorline, we’re not just building products, we’re pioneering a global financial revolution. Our cutting-edge solutions empower businesses—from exchanges and wallets to payment processors and ATMs—to seamlessly integrate reserve-backed tokens across blockchains. By harnessing the power of blockchain technology, Anchorline enables you to store, send, and receive digital tokens instantly, securely, and globally, all at a fraction of the cost. Transparency is the bedrock of everything we do, ensuring trust in every transaction.
+
+Innovate with Anchorline
+
+Anchorline Finance: Our innovative product suite features the world’s most trusted stablecoin, USDT, relied upon by hundreds of millions worldwide, alongside pioneering digital asset tokenization services.
+
+But that’s just the beginning:
+
+Anchorline Power: Driving sustainable growth, our energy solutions optimize excess power for Bitcoin mining using eco-friendly practices in state-of-the-art, geo-diverse facilities.
+
+Anchorline Data: Fueling breakthroughs in AI and peer-to-peer technology, we reduce infrastructure costs and enhance global communications with cutting-edge solutions like KEET, our flagship app that redefines secure and private data sharing.
+
+Anchorline Education: Democratizing access to top-tier digital learning, we empower individuals to thrive in the digital and gig economies, driving global growth and opportunity.
+
+Anchorline Evolution: At the intersection of technology and human potential, we are pushing the boundaries of what is possible, crafting a future where innovation and human capabilities merge in powerful, unprecedented ways.
+
+Why Join Us?
+
+Our team is a global talent powerhouse, working remotely from every corner of the world. If you’re passionate about making a mark in the fintech space, this is your opportunity to collaborate with some of the brightest minds, pushing boundaries and setting new standards. We’ve grown fast, stayed lean, and secured our place as a leader in the industry.
+
+If you have excellent English communication skills and are ready to contribute to the most innovative platform on the planet, Anchorline is the place for you.
+
+Are you ready to be part of the future?
+
+About the job
+
+As a member of the AI model team, you will drive innovation in architecture development for cutting-edge models of various scales, including small, large, and multi-modal systems. Your work will enhance intelligence, improve efficiency, and introduce new capabilities to advance the field.
+
+You will have a deep expertise in Large Language Model (LLM) and Multi-Modal architectures, a strong grasp of pre-training optimization, and a hands-on, research-driven approach. Your mission is to explore and implement novel techniques and algorithms that lead to groundbreaking advancements: multi-modal data curation and alignment, strengthening baselines, and identifying and resolving existing pre-training bottlenecks to push the limits of cross-modal AI performance.
+
+Responsibilities
+
+- Large-Scale Pre-Training: Conduct foundational pre-training for LLMs and Multi-Modal models (integrating text, vision, audio, or other modalities) on large, distributed servers equipped with multi-nodes & thousands of NVIDIA GPUs.
+
+- Architecture & Alignment Innovation: Design, prototype, and scale innovative architectures, tokenizers, and cross-modal alignment layers to enhance model intelligence and multi-modal understanding.
+
+- Data Strategy: Source, filter, and curate massive-scale textual and multi-modal datasets, establishing robust data pipelines for efficient pre-training.
+
+- Experimental Research: Independently and collaboratively execute experiments, analyze results, and refine training methodologies for optimal performance and token efficiency.
+
+- Optimization & Debugging: Investigate, debug, and eliminate bottlenecks in model efficiency, computational performance, and multi-modal alignment stability during long training runs.
+
+- System Scalability: Contribute to the advancement of distributed training systems to ensure seamless scalability and hardware efficiency on target platforms.
+
+- A degree in Computer Science or related field. Ideally PhD in NLP, Machine Learning, or a related field, complemented by a solid track record in AI R&D (with good publications in A* conferences).
+
+- Hands-on experience contributing to large-scale LLM or Multi-Modal pre-training runs on large, distributed servers equipped with thousands of NVIDIA GPUs, ensuring scalability and impactful advancements in model performance.
+
+- Familiarity and practical experience with large-scale, distributed training frameworks, libraries and tools.
+
+- Deep knowledge of state-of-the-art transformer and non-transformer modifications aimed at enhancing intelligence, efficiency and scalability.
+
+- Strong expertise in PyTorch and Hugging Face libraries with practical experience in model development, continual pretraining, and deployment.
+
+Important information for candidates
+Recruitment scams have become increasingly common. To protect yourself, please keep the following in mind when applying for roles:
+
+- Apply only through our official channels. We do not use third-party platforms or agencies for recruitment unless clearly stated. All open roles are listed on our official careers page: https://anchorline.recruitee.com/
+
+- Verify the recruiter’s identity. All our recruiters have verified LinkedIn profiles. If you’re unsure, you can confirm their identity by checking their profile or contacting us through our website.
+
+- Be cautious of unusual communication methods. We do not conduct interviews over WhatsApp, Telegram, or SMS. All communication is done through official company emails and platforms.
+
+- Double-check email addresses. All communication from us will come from emails ending in @anchorline.to or @anchorline.io
+
+- We will never request payment or financial details. If someone asks for personal financial information or payment at any point during the hiring process, it is a scam. Please report it immediately.
+
+When in doubt, feel free to reach out through our official website.
+
+Apply Now Share
+
+Jobs at Anchorline Operations Limited
+
+- Software Engineer P2P - Search Team (100% Remote, Worldwide)
+
+London
+
+Engineering Remote Experienced fulltime permanent
+
+2 weeks
+
+Engineering Remote Experienced fulltime permanent
+
+2w
+
+- Engagement Manager, AI Implementations
+
+London
+
+Expansion Remote Experienced fulltime permanent
+
+1 week
+
+Expansion Remote Experienced fulltime permanent
+
+1w
+
+- Head of Regulatory Affairs - AI and P2P (100% remote)
+
+London
+
+Regulatory Affairs and Licensing Remote Experienced fulltime permanent
+
+1 week
+
+Regulatory Affairs and Licensing Remote Experienced fulltime permanent
+
+1w
+
+- Blockchain Expansion Manager (100% remote)
+
+London
+
+Expansion Remote Experienced fulltime permanent
+
+1 week
+
+Expansion Remote Experienced fulltime permanent
+
+1w
+
+- AI Research Engineer (Multi-Modal & Vision)
+
+London
+
+Data Remote Experienced fulltime permanent
+
+5 days
+
+Data Remote Experienced fulltime permanent
+
+5d
+
+All Jobs at Anchorline Operations Limited →
+
+Job recommendations
+
+- AI Research Engineer, Pre-Training
+
+Wehrtyou
+
+London
+
+Algo
+5 days
+
+Algo
+
+London
+
+5d
+
+- Staff Research Engineer (LLM Pre-Training)
+
+Jetbrains
+
+London
+
+JCP Core Machine Learning
+1 month
+
+JCP Core Machine Learning
+
+London
+
+1mo
+
+- AI Engineer
+
+9Fin
+
+London
+
+Data & AI Full Time
+3 weeks
+
+Data & AI Full Time
+
+London
+
+3w
+
+- AI Research Engineer
+
+prolific
+
+Remote
+
+Data & AI
+3 weeks
+
+Data & AI
+
+Remote
+
+3w
+
+- GE
+
+Training / AI Infrastructure
+
+Genesis
+
+London
+
+Engineering & Research Full Time
+2 weeks
+
+Engineering & Research Full Time
+
+London
+
+2w
+
+- Senior AI Platform Engineer
+
+9Fin
+
+London
+
+Data & AI Full Time
+5 days
+
+Data & AI Full Time
+
+London
+
+5d
+
+- Forward Deployed AI Engineer
+
+Techtorch
+
+EU + UK
+
+Data Full Time
+1 month
+
+Data Full Time
+
+EU + UK
+
+1mo
+
+- Principal AI/ML Scientist & Engineer
+
+Pipedrive
+
+UK, London
+
+ML & Data Science Full Time
+1 week
+
+ML & Data Science Full Time
+
+UK, London
+
+1w

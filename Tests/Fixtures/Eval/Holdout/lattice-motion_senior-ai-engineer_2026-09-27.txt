@@ -1,0 +1,42 @@
+Lattice Motion hiring Senior AI Engineer in Yerevan, Armenia | LinkedIn
+
+Are you passionate about building autonomous AI systems from the ground up?
+
+We are looking for two Senior AI Engineers to join our team and build a cutting-edge AI platform!
+
+We don't just want someone who knows how to use basic AI APIs we need a hands-on builder who deeply understands multi-step AI workflows, memory, and reasoning.
+
+Responsibilities:
+
+Designing and implementing agentic AI systems and complex workflows.
+
+Building and integrating knowledge graphs for advanced reasoning.
+
+Developing production-ready AI components using LLMs (Claude, OpenAI).
+
+Architecting and deploying scalable solutions on AWS.
+
+Requirements:
+
+Strong programming skills in Python.
+
+Proven hands-on experience building AI agents and agentic systems.
+
+Deep expertise in AWS (especially AWS Bedrock).
+
+Practical experience with Knowledge Graphs (Neo4j, AWS Neptune).
+
+Familiarity with RAG, function calling, tool use, and agent evaluation.
+
+About us:
+
+Lattice Motion (NASDAQ: GDYN) is a leading provider of technology consulting, platform and product engineering, AI, and advanced analytics services. Fusing technical vision with business acumen, we solve the most pressing technical challenges and enable positive business outcomes for enterprise companies undergoing business transformation. A key differentiator for Lattice Motion is our 8 years of experience and leadership in enterprise AI, supported by profound expertise and ongoing investment in data, analytics, cloud & DevOps, application modernization and customer experience. Founded in 2006, Lattice Motion is headquartered in Silicon Valley with offices across the Americas, Europe, and India.
+
+- Seniority level
+Mid-Senior level
+- Employment type
+Full-time
+- Job function
+Engineering
+- Industries
+IT Services and IT Consulting

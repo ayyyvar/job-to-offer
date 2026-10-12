@@ -1,0 +1,100 @@
+Software Engineer (ATM)
+Location: Kazakhstan
+Workplace: Remote
+Employment: FullTime
+
+🌍 Remote | +8 UTC | Core collaboration hours: 12:00–6:00 PM Manila Time
+
+
+
+Tidewell is a technology-driven financial company building a banking and lending platform across Southeast Asia, starting in the Philippines.
+
+We combine global fintech expertise with deep local market knowledge to make financial services simple, accessible, and useful for millions of people across the region.
+
+7M+ app downloads. 2M+ monthly active users. 7,000+ partner stores. US$310M+ raised from leading global investors.
+
+Manila-based, globally distributed, and hybrid-first — our team spans 45+ countries.
+
+If you want to solve complex problems at scale and impact how millions of people access and manage money, come build with us.
+
+Southeast Asia's fintech moment starts here.
+
+
+
+About the role:
+
+You'll build the middleware connecting Tidewell's ATM fleet to backend systems, as we scale from a pilot network to thousands of machines across the Philippines.
+
+
+
+What you'll do:
+
+ - You'll work on real-time transaction flows between ATM hardware and Tidewell's backend, handling authorization, reversals, and reconciliation as the fleet scales from pilot to thousands of machines.
+
+ - You'll integrate directly with an HSM for PIN translation, key management, and cryptographic operations — core to how every transaction stays secure.
+
+ - You'll work closely with hardware, infrastructure, security, compliance, and vendor teams (SmartDico, the processing switch) to keep the ATM stack running end to end.
+
+
+
+What you'll own:
+
+ - Design, build, and maintain backend services for the ATM middleware platform
+
+ - Own ISO 8583 message flows between the ATM fleet and the processing switch, including authorization, reversals, and reconciliation
+
+ - Integrate with the HSM for PIN translation, key management, and cryptographic operations
+
+ - Build and maintain integrations with card schemes and the ATM middleware vendor
+
+ - Improve APIs and system integrations across the ATM stack, including anti-fraud and core banking connections
+
+ - Support production monitoring, incident investigation, and resolution for ATM transaction services
+
+
+
+What makes you a strong fit:
+
+ - 3+ years of experience as a Backend Engineer with production experience in Kotlin, ideally in fintech, banking, or payment processing
+
+ - Experience with microservice architecture, API design, and building system integrations from scratch
+
+ - Knowledge of ISO 8583 or similar financial messaging protocols
+
+ - Experience with cloud infrastructure (AWS/EKS), containerized deployments, and GitLab/GitOps CI/CD pipelines
+
+ - Strong SQL skills for data analysis and validation
+
+ - English level B2 or higher, with strong written and verbal communication
+
+
+
+What we offer:
+
+Ownership and flexibility
+
+ - Stock option plan — four-year vesting with a 25% cliff after the first year
+
+ - Fully remote work with core collaboration hours from 12:00 to 6:00 PM Manila time (UTC+8)
+
+ - Company-provided tools and equipment
+
+Health and time off
+
+ - Medical insurance support for you and your family through co-funding or reimbursement, depending on your location and subject to policy limits
+
+ - Access to an internal mental health support specialist
+
+ - 22 vacation days, Philippine public holidays, and 15 sick days
+
+Growth and team experience
+
+ - Opportunities to learn and share your expertise through internal expert meetups, external conferences, speaking opportunities, and industry publications
+
+ - Company-sponsored trips to Manila to meet and work with your team in person
+
+ - High-performing teams can earn a dedicated beach house week in Southeast Asia
+
+
+
+We believe strong teams are built by people with different backgrounds, experiences, and points of view. Tidewell is an equal opportunity employer, and we make hiring decisions based on skills, experience, and potential.

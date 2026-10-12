@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2F6F5E"/>
+  <g id="icon">
+    <path id="route" d="M380 130 C300 90 170 110 170 190 C170 260 350 240 350 330 C350 410 210 430 130 380" fill="none" stroke="#F3F5F4" stroke-width="80" stroke-linecap="round"/>
+    <path d="M380 130 C300 90 170 110 170 190 C170 260 350 240 350 330 C350 410 210 430 130 380" fill="none" stroke="#2F6F5E" stroke-width="9" stroke-dasharray="20 16" stroke-linecap="round"/>
+    <circle cx="130" cy="380" r="44" fill="#5B3FA8"/>
+    <circle cx="380" cy="130" r="48" fill="#E0A23B"/>
+  </g>
+</svg>

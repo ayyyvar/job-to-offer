@@ -1,0 +1,43 @@
+Codemill hiring Senior Full Stack/AI Agents Engineer (Azure) in Abu Zabi, Emiraty Arabskie | LinkedIn
+
+ABOUT THE ROLE
+
+In this role, you will design and build next-generation applications powered by AI agents on the Microsoft Azure ecosystem. You'll own features end-to-end, from responsive front-end experiences to scalable back-end services and agent orchestration layers, building applications for, driven by, and consumed by AI agents - combining strong full stack fundamentals with cutting-edge agentic AI development.
+
+Please note that this is a hybrid role, requiring office attendance at least twice a week.
+
+RESPONSIBILITIES
+
+- Design and build full stack, production-grade applications based on AI agents and multi-agent architectures.
+- Develop modern, responsive web UIs supporting conversational experiences, real-time streaming agent responses, and dashboards for monitoring agents.
+- Build robust back-end services and APIs (REST, gRPC, MCP) in Python (FastAPI), enabling agent-to-agent and agent-to-system communication.
+- Develop agentic workflows using frameworks such as Semantic Kernel, AutoGen, LangChain/LangGraph, or Azure AI Agent Service.
+- Integrate LLMs via Azure OpenAI Service, including prompt engineering, function/tool calling, and RAG pipelines.
+- Design chunking and indexing strategies for RAG pipelines (semantic chunking, hybrid search, re-ranking) to optimize retrieval quality.
+- Build and maintain evaluation pipelines for LLM/agent outputs (e.g., RAGAS, promptfoo, or custom eval frameworks) to measure accuracy, relevance, and reliability.
+- Design cloud-native solutions using Azure Functions, AKS, Container Apps, Cosmos DB, and Azure AI Search, including data models across SQL and NoSQL stores.
+- Implement secure, observable, cost-optimized systems using Azure Monitor, Key Vault, Entra ID, and CI/CD pipelines with infrastructure-as-code.
+
+REQUIREMENTS
+
+- 8+ years of full stack engineering experience, with at least 3 years on the Azure stack.
+- Strong back-end skills in Python, with a solid grasp of distributed systems and microservices.
+- Hands-on experience building applications with LLMs and agent frameworks (Semantic Kernel, AutoGen, LangGraph, or similar).
+- Strong front-end proficiency in modern frameworks, typed JavaScript, semantic HTML/CSS, and responsive, accessible UI design.
+- Experience with Azure OpenAI, Azure AI Foundry, and vector databases (Azure AI Search, Cosmos DB vector search).
+- Proven experience with RAG architectures, embeddings, chunking/indexing strategies, prompt orchestration, and tool/function calling.
+- Hands-on experience with evaluation frameworks for LLM/agent outputs and defining quality metrics for AI systems.
+- Experience designing end-to-end agentic solution architectures (multi-agent orchestration, tool/agent boundaries, error-handling and fallback strategies).
+- Experience building real-time features (WebSockets, SignalR, SSE) for streaming AI/agent responses.
+- Solid understanding of authentication/authorization (OAuth2, Entra ID) and DevOps practices (CI/CD, IaC, Docker/Kubernetes).
+
+Codemill is an equal opportunity employer. Qualified applicants will receive consideration regardless of race, color, ancestry, ethnicity, national origin, religion, sex, sexual orientation, gender identity or expression, age, citizenship, disability, health condition, marital or family status, veteran status, or any other characteristic protected by applicable law.
+
+- Poziom w hierarchii
+Kadra średniego szczebla
+- Forma zatrudnienia
+Pełny etat
+- Funkcja
+Opieki zdrowotna
+- Branże
+Usługi i doradztwo informatyczne

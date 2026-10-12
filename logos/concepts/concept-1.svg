@@ -1,0 +1,10 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="512" height="512" fill="#F3F5F4"/>
+  <g id="icon">
+    <g transform="rotate(-8 256 256)" fill="none" stroke="#5B3FA8">
+      <rect x="67" y="117" width="378" height="278" rx="60" ry="60" stroke-width="22"/>
+      <rect x="96" y="146" width="320" height="220" rx="30" ry="30" stroke-width="8"/>
+      <polyline points="184,262 232,310 330,204" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+</svg>

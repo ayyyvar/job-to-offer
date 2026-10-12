@@ -1,0 +1,102 @@
+Data Engineer
+Location: Kazakhstan
+Workplace: Hybrid
+Employment: FullTime
+
+Tidewell is a technology-driven financial company building a banking and lending platform across Southeast Asia, starting in the Philippines.
+
+We combine global fintech expertise with deep local market knowledge to make financial services simple, accessible, and useful for millions of people across the region.
+
+7M+ app downloads. 2M+ monthly active users. 7,000+ partner stores. US$310M+ raised from leading global investors.
+
+Manila-based, globally distributed, and hybrid-first — our team spans 45+ countries.
+
+If you want to solve complex problems at scale and impact how millions of people access and manage money, come build with us.
+
+Southeast Asia's fintech moment starts here.
+
+About the role
+
+You'll build and own the data pipelines and lakehouse architecture that turn raw data into reliable inputs powering products used by millions of people.
+
+What you'll do
+
+ - Design and run batch and streaming pipelines on Databricks and Apache Spark over AWS, ingesting from databases, APIs, and event streams.
+
+ - Shape our lakehouse architecture on S3 and Delta Lake, including medallion (Bronze / Silver / Gold) layering and storage optimization.
+
+ - Work directly with analytics, engineering, and product teams to turn raw data into reliable, usable inputs for the business.
+
+What you'll own
+
+ - Own projects end to end — from stakeholder alignment and design review through implementation, launch, and ongoing support.
+
+ - Build self-service data solutions that let other teams deliver their own data needs, designed to scale and extend easily as new sources and use cases are added.
+
+ - Build and maintain scalable ETL/ELT pipelines that are fault-tolerant and cost-optimized.
+
+ - Optimize Spark jobs end to end — cluster sizing, caching, joins, shuffles, partitioning, and storage formats (Parquet, Delta).
+
+ - Manage Databricks Workflows, jobs, cluster configurations, and the underlying infrastructure — security policies, resources, and access — responding to failures and performance issues.
+
+ - Implement data governance and access control with Unity Catalog across accounts and environments, including handling of PII.
+
+What makes you a strong fit
+
+ - Hands-on experience with Databricks and strong proficiency in Apache Spark (PySpark and/or Scala).
+
+ - Strong Python for data engineering, plus SQL and Spark SQL for transformation and analytics.
+
+ - Experience with Delta Lake and lakehouse architectures, including performance optimization.
+
+ - Proven ownership — you've run projects where you knew the weak points, gathered feedback, and made your solutions easy to scale and maintain.
+
+ - Experience writing clean, testable, maintainable code with Git-based version control.
+
+ - Experience with infrastructure-as-code such as Terraform or Ansible is a plus — not required, and easy to pick up on the job.
+
+What we offer
+
+Build what's next in Southeast Asian fintech.
+
+Ownership and flexibility
+
+ - Stock option plan — four-year vesting with a 25% cliff after the first year
+
+ - Hybrid-first, with fully remote work available for eligible roles and core collaboration hours from 12:00 to 19:00 Manila time (UTC+8)
+
+ - Company-provided tools and equipment
+
+ - Office in Bonifacio Global City, Manila — a modern, walkable district at the centre of the Philippines' growing tech scene
+
+Health and time off
+
+ - Medical insurance support for you and your family through co-funding or reimbursement, depending on your location and subject to policy limits
+
+ - Access to an internal mental health support specialist
+
+ - 22 vacation days, Philippine public holidays, and 15 sick days
+
+ - 105 days of paid maternity leave and up to 14 days of paid paternity leave for employees relocating to Manila
+
+Relocation and family support
+
+ - Relocation support for you, your family — including flights, two weeks of accommodation, visas, paperwork, and logistics
+
+ - Reimbursement of eligible pet relocation expenses
+
+ - US$2,500 per year for flights home
+
+ - Baby and family stipends for employees relocating to Manila: US$1,000 per month for each child under two and US$500 per month for each child aged two to 18
+
+Growth and team experience
+
+ - Opportunities to learn and share your expertise through internal expert meetups, external conferences, speaking opportunities, and industry publications
+
+ - Company-sponsored trips to Manila to meet and work with your team in person
+
+ - Regular team offsites, sports activities, and team events
+
+ - High-performing teams can earn a dedicated beach house week in Southeast Asia
+
+Considering a move to Manila? See what life with Tidewell looks like https://video.example.com/life-at-tidewell

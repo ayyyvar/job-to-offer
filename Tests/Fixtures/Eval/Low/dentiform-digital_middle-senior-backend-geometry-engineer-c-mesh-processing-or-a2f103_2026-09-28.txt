@@ -1,0 +1,155 @@
+Middle/Senior Backend Geometry Engineer (C++, Mesh Processing) — dentiform.digital at dentiform.digital – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- C / C++ / Embedded
+- C++
+
+Middle/Senior Backend Geometry Engineer (C++, Mesh Processing) — dentiform.digital
+
+dentiform.digital
+
+Copy link Copied
+
+🚀 Project Description
+
+dentiform.digital builds a web platform for orthodontic clinics. Doctors upload 3D intraoral scans of the upper and lower jaw. The platform prepares the scans, splits them into teeth and gingiva, and gives Doctors tools for diagnosis and treatment planning.
+
+This role owns the backend geometry: the mesh processing that runs on our servers between scan upload and the clinical tools. A separate team works on the machine learning models (segmentation, landmarks). You use their output, but you do not train models.
+
+Stack: Angular + Three.js SPA, Node.js/Express API, Python services, native geometry code in C++, Docker on Linux workers.
+
+✅ You are:
+
+- A Middle or Senior engineer with commercial experience in computational geometry or mesh processing
+- Strong in modern C++ (C++17 or later): memory, performance, profiling, building native libraries
+- Have hands-on experience with triangle meshes: half-edge or similar structures, topology, normals, boundaries, non-manifold cases
+- Have implemented or integrated algorithms such as mesh repair, hole filling, remeshing, decimation, Boolean operations, offsetting, or cutting by a plane or a curve
+- Have used at least one geometry library in real work (CGAL, OpenMesh, libigl, VCG, Open3D, a commercial SDK, or similar)
+- Good at the math behind it: linear algebra, spatial data structures (BVH, k-d tree), numeric precision and tolerances
+- Can write tests for geometry code: fixtures, tolerance checks, regression checks
+
+➕ Will be a plus:
+
+- Experience with Polygonica or MeshLib
+- Python, including C++ bindings (pybind11 or nanobind), numpy, trimesh
+- Background in dental CAD/CAM, orthodontics, medical 3D, or 3D printing
+- Contour projection onto surfaces, geodesic paths, signed distance fields, rigid registration (ICP)
+- Evaluation of third-party SDKs: benchmarks, test sets, licence terms, headless deployment
+- Docker, Linux, CMake, CI for native code
+- Some Node.js/TypeScript, to read how the API calls your services
+- Comfortable working with AI platforms and developer tools such as Cursor, Claude Code, or Codex
+
+♟️ What We Expect from You:
+
+- Own geometry decisions from start to end: choose the approach, prove it on test data, ship it
+- Set clear tolerances and quality checks, and say plainly when an operation cannot meet them
+- Make practical decisions that help us launch faster without unnecessary overengineering
+- Use modern AI tools, frameworks, and approaches to work faster and more effectively
+- Be comfortable working in an evolving product with changing priorities and early-stage ambiguity
+
+🔑 Responsibilities:
+
+- Сompare two commercial mesh processing SDKs on the same test set and help the team select one. Build the test corpus, the test harness and the gate tests, write the decision record, and write the adapter for the selected SDK
+- Build scan preparation operations: inspect and repair meshes, remesh and decimate, cut by a plane or a contour, extrude a boundary and build a model base, smooth a region within limits
+- Build segmentation finalization: project tooth contours onto the jaw surface, cut the mesh into labelled teeth and gingiva, keep the labels after remeshing
+- Second half of the year: geometry for orthodontic appliances (Boolean operations, offset and shell thickness, exterior envelope, distance and contact queries, registration of two surfaces)
+- Make each operation run headless on Linux workers, with clear inputs, outputs and error reports
+- Write tests with fixtures and tolerance checks for each operation
+- Actively collaborate with the tech lead, the ML team, and the frontend developers of the 3D viewers
+- Utilize AI to review pull requests and contribute to engineering best practices
+
+🍩 What we offer:
+
+- Work on an innovative product in the medical-tech domain:
+
+- High ownership: you make the main geometry decisions in the product
+- A fast-moving environment where strong engineers can influence product and technical decisions
+
+- Professional development support:
+
+- Paid 200$+ AI assistants and modern engineering tooling
+
+- Full-time, long-term role (we want to start as soon as possible)
+- Fully remote, from any location (we work in the European time zone and need a few hours of daily overlap)
+- 20 days of vacation (business days)
+- 5 days of sick leave
+
+- National holidays covered
+
+🗣 Recruitment process:
+
+- ✔️ Intro Interview → ☑️ Home Coding Task → ✅ Geometry Deep-Dive Interview → 🏁 Cultural-Fit Interview
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Published 18 September
+
+152 views
+
+·
+
+13 applications
+
+Response activity: Low
+
+Last responded 4 days ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 3 years of experience
+
+- Full Remote
+- Worldwide
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- C++
+
+- Employment: Fulltime
+
+- Domain: Healthcare / MedTech
+
+- Startup
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 4 days ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

@@ -1,0 +1,86 @@
+Analytics Engineer
+Location: Kazakhstan
+Workplace: Hybrid
+Employment: FullTime
+
+Tidewell is a technology-driven financial company building a banking and lending platform across Southeast Asia, starting in the Philippines.
+
+We combine global fintech expertise with deep local market knowledge to make financial services simple, accessible, and useful for millions of people across the region.
+
+7M+ app downloads. 2M+ monthly active users. 7,000+ partner stores. US$310M+ raised from leading global investors.
+
+Manila-based, globally distributed, and hybrid-first — our team spans 45+ countries.
+
+If you want to solve complex problems at scale and impact how millions of people access and manage money, come build with us.
+
+Southeast Asia's fintech moment starts here.
+
+About the role:
+
+You'll build the analytics layer for Finance and Marketing & Growth — two areas that only get partial coverage today — and help shape how analytics engineering scales as the team and data volume grow.
+
+What you'll do:
+
+ - Build the semantic layer that powers Finance's financial reporting, turning business logic into reliable, gold-layer datasets.
+
+ - Build the analytics layer for Marketing & Growth, enabling self-service reporting on acquisition, funnels, and campaign performance.
+
+ - Help define how analytics engineering scales across the team — supporting other analysts' data models and shaping technical standards.
+
+What you'll own:
+
+ - Own the semantic layer for financial reporting, ensuring one consistent source of truth for business metrics.
+
+ - Own the analytics layer for Marketing & Growth, from data modeling to self-service reporting.
+
+ - Build and maintain dbt models (staging, intermediate, marts) with tests, documentation, and reusable macros.
+
+ - Design scalable data models in Databricks silver and gold layers, applying dimensional modeling.
+
+ - Support other analysts across the data team, optimizing self-built data models when performance or reliability issues come up.
+
+ - Contribute to defining the strategy and standards for analytics engineering as it grows.
+
+What makes you a strong fit:
+
+ - Strong SQL expertise, including complex queries, window functions, and query optimization on large datasets
+
+ - Hands-on experience with dbt — models, macros, tests, documentation, and CI workflows
+
+ - Strong dimensional modeling experience (3NF/Inmon, star schema, or anchor modeling)
+
+ - Experience building semantic layers or maintaining a single source of truth for business metrics
+
+ - Experience in banking or fintech is a plus, especially data modeling for financial products
+
+ - Comfortable working in Git-based ELT workflows
+
+What we offer:
+
+Ownership and flexibility
+
+ - Stock option plan — four-year vesting with a 25% cliff after the first year
+
+ - Remote-first role, with collaboration hours from 10:00 Manila time (UTC+8)
+
+ - Company-provided tools and equipment
+
+Health and time off
+
+ - Medical insurance support for you and your family through co-funding or reimbursement, depending on your location and subject to policy limits
+
+ - Access to an internal mental health support specialist
+
+ - 22 vacation days, Philippine public holidays, and 15 sick days
+
+Growth and team experience
+
+ - Opportunities to learn and share your expertise through internal expert meetups, external conferences, speaking opportunities, and industry publications
+
+ - Company-sponsored trips to Manila to meet and work with your team in person
+
+ - Regular team offsites, sports activities, and team events
+
+ - High-performing teams can earn a dedicated beach house week in Southeast Asia
+
+We believe strong teams are built by people with different backgrounds, experiences, and points of view. Tidewell is an equal opportunity employer, and we make hiring decisions based on skills, experience, and potential.

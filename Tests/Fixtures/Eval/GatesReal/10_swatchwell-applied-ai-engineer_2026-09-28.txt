@@ -1,0 +1,51 @@
+Applied AI Engineer
+Location: Remote
+
+Swatchwell is the world’s largest material marketplace for the architecture and design industry. Operating in 37 countries, our platform has become the standard for design professionals around the globe. Every day, Swatchwell connects thousands of designers with tens of thousands of materials from leading brands. Swatchwell is the fastest and most powerful way for design professionals to search, sample, and specify materials.
+
+About the role
+
+As an Applied AI Engineer, you will drive the design, build, and deployment of next-generation AI-powered experiences across Swatchwell’s platform. You will work as part of the team responsible for taking ideas from concept to production — building intelligent systems and user experiences that blend cutting-edge AI capabilities with the high standards of quality, aesthetics, and usability expected in the architecture and community.
+
+This is a senior-level individual contributor role focused on applied AI product development. You will work across the stack to architect and deploy scalable AI systems that enhance how users discover, understand, and engage with products, materials, and creative content. Your work will span areas such as multimodal search and understanding, AI-assisted content generation, intelligent workflows, personalization, creative tooling, and agentic systems.
+
+We are looking for someone who not only understands modern AI systems technically, but also has strong product instincts, visual sensibility, and genuine passion for building AI experiences that feel thoughtful, polished, and useful. AI will play a foundational role in the future of Swatchwell’s platform, and you will help define and build that future.
+
+What you’ll do
+
+- Design, build, and deploy end-to-end AI-powered product experiences from concept through production.
+- Architect and implement scalable AI systems leveraging LLMs, embeddings, multimodal models, retrieval systems, agent frameworks, and modern data infrastructure.
+- Build production-grade multi-agent workflows and orchestration systems using frameworks such as LangGraph, LangChain, Mastra, and custom tooling.
+- Develop and optimize Retrieval-Augmented Generation (RAG) systems, including embeddings, vector search, retrieval pipelines, chunking strategies, and relevance tuning.
+- Build multimodal AI workflows that analyze and reason over images, creative assets, and visual datasets using modern multimodal LLMs, embedding models, and specialized tooling such as SAM2/SAM3.
+- Create AI-assisted experiences for search, discovery, content generation, personalization, and creative workflows across Swatchwell’s platform.
+- Evaluate, refine, and improve AI-generated outputs for quality, tone, accuracy, and creative alignment through testing, iteration, and human-in-the-loop evaluation strategies.
+- Partner closely with Product, Design, Engineering, Data, and Executive Leadership to identify high-impact opportunities and translate ambiguous ideas into production-ready AI capabilities.
+- Make architectural decisions that balance speed, scalability, latency, cost, accuracy, and long-term maintainability.
+- Continuously evaluate emerging AI technologies, models, frameworks, and workflows to identify opportunities that create meaningful business and user value.
+
+What you’ll bring
+
+- 8+ years of experience building and shipping production software, including significant full-stack engineering experience.
+- Demonstrated success designing and deploying production-grade AI/ML systems and AI-powered product experiences.
+- Deep hands-on experience with LLMs, embeddings, multimodal AI systems, RAG architectures, and multi-agent frameworks such as LangGraph, LangChain, Mastra, or equivalent custom tooling.
+- Strong engineering fundamentals across backend systems, APIs, data pipelines, cloud infrastructure, and modern JavaScript/TypeScript and Python ecosystems.
+- Experience working with multimodal models, visual analysis systems, and image-based AI workflows at scale, including familiarity with modern image-generation tooling and services.
+- Strong systems thinking with the ability to balance trade-offs across latency, cost, scalability, accuracy, reliability, and user experience.
+- Proven ability to independently take ambiguous problems from idea to shipped product with minimal oversight.
+- Strong product instincts, visual sensibility, and a high bar for quality, usability, and craftsmanship in AI-generated experiences.
+- Genuine interest in creative industries such as architecture, design, fashion, media, photography, or art, with an appreciation for aesthetics and taste.
+- Open-source contributions, side projects, or publicly demonstrable AI work that reflects curiosity, experimentation, and passion for applied AI are strongly preferred.
+- Strong communication and collaboration skills, with the ability to work effectively across both technical and non-technical teams.
+
+What you’ll get from us:
+
+- Our people: We are a growth-driven team that values efficiency, builds smart automation, operates in small empowered teams, and moves quickly from idea to execution.
+- Relaxation and Celebrations: Flexible PTO, Sick Days, Paid National Holidays, and even more (ask us about this when we connect).
+- Health Benefits: We contribute to your medical, dental, vision and short-term/long-term disability plans and have a strong employee assistance program.
+- Plan for your Retirement: 401(k) eligible after your first 90 day's employed!
+- Giving Back: We sponsor multiple events throughout the year to help out our communities.
+- Growth: We’ll help you take your career to the next level. We want you to be creative and take initiative which will allow you to grow and create within the company. Most importantly, be the best at what matters!
+- Flexible Work Schedules: With business units and employees across the globe, Material Technologies has embraced a hybrid working model allowing department leaders to decide on the best approach for their respective teams, whether that be remote, in person, or a little of both.
+
+Swatchwell is proud to be an equal opportunity employer. We value diversity, and all applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, age, national origin, veteran or disability status or other status protected under any applicable federal, state or local law.

@@ -1,0 +1,176 @@
+Senior AI-Integrated Full Stack Engineer at Juniperra – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Node.js
+
+Senior AI-Integrated Full Stack Engineer
+
+Juniperra
+
+Copy link Copied
+
+$$$$
+
+About the Client
+
+Our client is a fast-growing deep-tech startup building advanced solutions for monitoring large-scale critical infrastructure. Their technology combines innovative fiber-optic sensing with machine learning to turn existing optical fiber into a real-time distributed sensor, helping monitor infrastructure such as power grids, pipelines, railways, roads, and other critical assets.
+
+They are building a scalable, cloud-native platform designed to solve real-world, high-impact problems. Their culture is product-driven, fast-paced, and ownership-oriented. They value strong engineers who think like builders, move fast, and care deeply about quality.
+
+We are looking for a Senior AI-Integrated Full Stack Engineer to join our client’s applications engineering team. You will play a key role in designing, building, and scaling their platform end-to-end — from intuitive frontend experiences to robust backend services and cloud infrastructure.
+
+What You’ll Do
+
+* Design and implement scalable, high-performance web applications end-to-end
+
+* Be part of an intensive transformation to modern AI work methodology using the latest AI models.
+
+* Architect backend services and APIs and build modern, responsive frontend applications.
+
+* Be part of complex technical discussions with the ability to contribute a major part to the discussion and decisions.
+
+* Own features from concept to production
+
+* Optimize performance, reliability, and security across the stack as well as promote engineering best practices
+
+What You Bring
+
+* 5+ years of experience as a Full Stack Developer.
+
+* Proven experience in development using AI as the main working tool.
+
+* Proven experience with the relevant technologies and frameworks.
+
+* Strong understanding of system design (experience with Chakra UI is an advantage), scalability, and cloud architecture
+
+* Proven experience working with AWS in production environments
+
+* Fluent in English and strong communication skills.
+
+* You embrace change and learning on the go.
+
+* Experience working in startup or fast-paced environments.
+
+* Strong problem-solving skills and ownership mindset.
+
+Our Client’s Tech Stack
+
+* Full stack: Next.js, NestJS (Typescript)
+
+* System design: ChakraUI
+
+* Infrastructure: Kubernetes, Docker, CI/CD pipelines
+
+* Database: SQL / NoSQL (depending on service)
+
+* Cloud: AWS (Lambda, ECS/EKS, S3, RDS, etc.)
+
+AI & Modern Engineering Expectations
+
+Candidates must be proficient and up-to-date with the latest AI advancements, actively using AI-powered development tools (like Claude Code, Code Rabbit, or similar) to accelerate development, enhance code quality, and innovate product features where AI adds user value.
+
+Nice to Have
+
+* Experience with Spec-Driven-Development and methodologies to support full AI embracement
+
+* Experience designing and developing microservices architecture.
+
+* Experience with Python and Dash.
+
+* Background in performance optimization and distributed systems
+
+Required skills experience
+
+TypeScript 7 years
+
+AWS 2 years
+
+Kubernetes 2 years
+
+Claude Code 1 year
+
+Nest.js, Next.js, Chakra UI, SQL, NoSQL
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Ukrainian Native
+
+Published 20 August · Updated 24 September
+
+622 views
+
+·
+
+169 applications
+
+Connected to ATS
+
+Last responded 5 days ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 7 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- Ukrainian Native
+
+- Node.js
+
+TypeScript 7 years
+
+AWS 2 years
+
+Kubernetes 2 years
+
+Claude Code 1 year
+
+- Employment: Fulltime
+
+- Domain: SaaS
+
+- Outstaff
+
+Apply for the job
+
+Last responded 5 days ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

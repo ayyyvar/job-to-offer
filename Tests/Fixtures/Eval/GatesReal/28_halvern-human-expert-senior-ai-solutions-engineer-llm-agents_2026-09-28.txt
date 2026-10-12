@@ -1,0 +1,116 @@
+Senior AI Solutions Engineer (LLM & Agents) Job | AI | Halvern Human Expert | Remote | No Fluff Jobs.
+
+JavaScript is required for the page
+
+Type to search
+
+- Back to search
+
+Use swipe left and swipe right to navigate between job offers.
+
+Senior AI Solutions Engineer (LLM & Agents)
+Halvern Human Expert
+
+1.2M – 1.8M HUF
+
+gross per month (employment)
+
+Details
+
+Halvern Human Expert
+
+Remote
+
+- Bács-Kiskun County
+- Baranya County
+- Békés County
+- Borsod-Abaúj-Zemplén County
+- Csongrád County
+- Fejér County
+- Győr-Moson-Sopron County
+- Hajdú-Bihar County
+- Heves County
+- Jász-Nagykun-Szolnok County
+- Komárom-Esztergom County
+- Nógrád County
+- Pest County
+- Somogy County
+- Szabolcs-Szatmár-Bereg County
+- Tolna County
+- Vas County
+- Veszprém County
+- Zala County
+
+- Category:
+AI , Python
+
+- Senior
+
+- Offer valid until: 15.10.2026 (18 days left)
+
+Must have
+
+- Python
+- AWS
+- Machine learning
+- REST
+- CI/CD
+- English (B2)
+- Hungarian
+
+Requirements description
+
+- 5+ years of experience in production ML/AI systems, including 2+ years in a senior role
+- Strong Python development skills (testing, packaging, performance optimization)
+- Hands-on experience with LLMs and Agentic AI systems in production
+- Experience with LLM adaptation techniques (e.g., LoRA, PEFT)
+- Proven experience with RAG systems and retrieval components
+- Solid MLOps knowledge (containers, CI/CD, monitoring, versioning)
+- Experience building APIs (REST/gRPC) and working in cloud environments (AWS/GCP/Azure)
+
+Your responsibilities
+
+- Design and build Agentic AI systems (planner/executor patterns, tool calling, memory strategies)
+- Adapt and deploy LLMs, including fine-tuning and optimizing performance
+- Implement and improve RAG (retrieval-augmented generation) pipelines
+- Ensure structured, reliable outputs with guardrails and post-processing
+- Develop evaluation frameworks for model and system performance
+- Deliver production-ready services with CI/CD, monitoring, and reliability practices
+show all (10)
+
+Offer description
+
+Our client is a fast-growing, innovation-driven organization, delivering cutting-edge AI solutions across industries. By combining advanced research with strong engineering practices, they create scalable, production-ready systems that solve real-world challenges.
+
+We are looking for a Senior LLM / Generative AI / Agentic Solutions Engineer to design and deliver advanced AI systems capable of planning, tool usage, and reliable execution within production environments. This role involves end-to-end ownership of GenAI capabilities, from model adaptation to deployment and operational excellence.
+
+Job details
+
+- Start ASAP
+
+- Fully remote
+
+Benefits
+
+- International projects
+
+- Python
+- AI
+- Remote Senior AI Solutions Engineer (LLM & Agents)
+
+Analyze CV
+
+Apply
+
+Receive tailored job offers
+
+Your criteria:
+Ai/ml Python Remote
+
+E-mail address
+
+I would like to receive new job offers matching selected criteria * I would like to receive information about salaries, trends, and other IT offers Subscribe
+
+Create an account or subscribe to job offers and enjoy additional benefits:
+
+You can unsubscribe any time

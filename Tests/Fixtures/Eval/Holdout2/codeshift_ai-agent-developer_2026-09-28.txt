@@ -1,0 +1,150 @@
+Вакансия AI Agent Developer в Астане, работа в компании Codeshift
+
+Чтобы сайт был удобнее, используем cookies
+
+Понятно
+
+Для работы с нашим сайтом необходимо, чтобы Вы включили JavaScript в вашем браузере.
+
+Ищу работу
+
+Ищу работуИщу работуИщу сотрудника
+
+Ищу работу
+
+Ищу сотрудника
+
+Сервисы
+
+Помощь
+
+Ещё
+
+Поиск
+
+Москва
+
+Войти
+
+Войти
+
+Создать резюме
+
+AI Agent Developer
+
+Уровень дохода не указан
+
+Опыт работы: 1–3 года
+
+Полная занятость
+
+График: 5/2
+
+Рабочие часы: 8
+
+Формат работы: удалённо
+
+Сейчас эту вакансию смотрят 6 человек
+
+Откликнуться
+
+Codeshift
+
+Напишите телефон, чтобы работодатель мог связаться с вами
+
+Номер телефона
+
+Продолжить
+
+Продолжая, вы принимаете соглашение и политику конфиденциальности
+
+We are partnering with a pioneering industry leader in the gaming and systems development sector. Our Customer designs and delivers premium game content, award-winning systems, and state-of-the-art gaming hardware, providing world-class gaming experiences globally. The project involves working across a distributed portfolio of applications, focusing on implementing quality engineering best practices, improving QA efficiency, and extending automated test coverage.
+
+The Role:
+
+We are seeking an AI Agent Developer to engineer intelligent, LLM-powered agents integrated directly with our core test automation framework. In this role, you will build production-grade agent services that hook into the Java core automation engine, enabling autonomous test generation, execution, and maintenance across our Customer's gaming portfolio to empower QA Automation teams.
+
+Key Responsibilities:
+
+- Agent Architecture & Engineering: Develop and deploy production LLM-powered services in Python using multi-turn agent loops, structured outputs, and tool integration.
+
+- Tooling & Protocol Integration: Design robust tool-server integrations (MCP or similar) connecting AI agents with the underlying Java core framework and device infrastructure.
+
+- Code Context Retrieval: Build repository indexing and code search mechanisms to optimize context feeding for LLM models during test generation and execution.
+
+- Evaluation, Safety & Observability: Establish continuous evaluation suites, model regression detection, safety guardrails, token tracking, and agent run tracing.
+
+Skills / Experience:
+
+- AI Application Engineering: Strong experience delivering LLM-powered features to production rather than to prototype, covering tool use, multi-turn agent loops, structured output, and management of context, latency and cost. Can ship agents as services with authentication, queues and persistent state.
+
+- Evaluation & Quality: Expertise building evaluation sets and regression suites that detect when a prompt or model change has degraded results with a clear metrics proving that.
+
+- Programming Languages: Proven expertise in Python.
+
+- Code Context & Retrieval: Strong experience getting relevant source code in front of a model through repository indexing and symbol or structural search, with the possibility to recognise where embeddings are not the right instrument.
+
+- Tooling & Integration: Experience with Model Context Protocol (MCP) or comparable tool-server design, including tool granularity and returning errors to the model in a form it can act on.
+
+- Safety & Guardrails: Solid understanding of permission boundaries, dry-run modes and human review gates for agents that modify repositories and drive physical devices.
+
+- Agent Observability: Familiarity with tracing agent runs, tracking token spend per feature.
+
+Nice to Haves:
+
+- Cross-language Reading: Ability to read Java and C# well enough to reason about a JVM automation engine and the Unity clients it drives.
+
+- Test Automation Understanding: Solid understanding of what makes an automated test flaky (timing, ordering, state leakage, genuine product defects) and of why a passing test is not evidence that a defect was fixed.
+
+- Domain & Industry Experience: Experience working within a game development environment or the mobile gaming industry, or with Unity.
+
+We can offer:
+
+- Projects for such clients as PayPal, Wargaming, Xerox, Philips, adidas and Toyota
+- Competitive compensation that depends on your qualification and skills
+- Career development system with clear skill qualifications
+- Flexible working hours aligned to your schedule
+- Options to work remotely
+- Corporate medical insurance covering services of private and public medical centers
+- English courses online
+- Corporate parties and events for employees and their children
+- Gym membership compensation, corporate sport competitions (cybersport included)
+- 5 days of paid sick leave per year with no obligation to submit a sick-leave certificate
+
+ЗАО «Итранзишэн» УНП 190654745
+
+Ключевые навыки
+
+- Python
+
+- Model Context Protocol
+
+- LLM
+
+- Английский — B2 — Средне-продвинутый
+
+Задайте вопрос работодателю
+
+Он получит его с откликом на вакансию
+
+Где располагается место работы?
+
+Какой график работы?
+
+Вакансия открыта?
+
+Какая оплата труда?
+
+Как с вами связаться?
+
+Другой вопрос
+
+Где предстоит работать
+
+Астана
+
+Вакансия опубликована 18 сентября 2026 в Астане
+
+Откликнуться
+
+Codeshift

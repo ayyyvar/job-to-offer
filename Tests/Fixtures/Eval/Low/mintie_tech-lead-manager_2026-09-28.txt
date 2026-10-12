@@ -1,0 +1,77 @@
+Tech Lead Manager
+Location: United Kingdom (Remote)
+Workplace: Remote
+Employment: FullTime
+
+Most money apps talk at you. Mintie talks back ✨
+
+We're not building another finance app. We're building the world's first AI financial assistant, one that actually understands your money and makes you better at it, and we're changing the world's relationship with money in the process 💰 For everyone, whatever their background or balance.
+
+The proof: profitable, fast-growing, a unicorn with over $300M in ARR, and millions of people who now feel differently about their money.
+
+We love original thinkers who challenge the status quo. We move fast, tell the truth, and there's nowhere to hide from good work here. If that excites you more than it scares you, you'll fit right in.
+
+Follow us on LinkedIn https://www.linkedin.com/company/mintie-ai/ for new features and the occasional roast 🔥
+
+
+MEET THE TEAM 👥
+
+Here at Mintie, we have ~200 Engineers organised into Pillars. ✨ Our stack spans a Ruby on Rails monolith, a single React Native (TypeScript) app frontend, Python for machine learning services, and PostgreSQL, all hosted on AWS and shipped through Kubernetes - backend goes out multiple times a week, app releases to Google and Apple at least weekly. To thrive here, our engineers proactively use our Engineering Principles to guide daily decisions, take ownership of problems beyond their own squad to drive broader impact, and actively drive their own learning, development, and growth.
+
+ 
+
+
+ABOUT THE ROLE ✍️
+
+We’re hiring a Technical Lead Manager to lead a cross-functional product squad, combining hands-on technical leadership with people management. You’ll lead a team of 4–5 engineers, working closely with Product, Design, Data and other technical leaders to build products that improve our users’ financial health.
+
+ - Lead and develop a squad of 4–5 engineers, balancing hands-on technical contribution with line management, coaching and support for individual growth.
+
+ - Partner with Product Managers, Staff Engineers and other technical leaders to shape a clear, feasible roadmap and deliver against squad OKRs.
+
+ - Define and steer the technical direction of your squad, helping the team make pragmatic trade-offs across speed, quality, scalability and long-term maintainability.
+
+ - Create the conditions for effective delivery by providing clarity, unblocking progress and establishing healthy, sustainable ways of working.
+
+ - Run regular 1:1s, provide clear and actionable feedback, and support engineers through development, performance conversations and growth planning.
+
+ - Stay close to the code and contribute hands-on to our Ruby on Rails monolith, using practices such as automated testing, observability, A/B testing and feature flags.
+
+ - Collaborate across Engineering, Product, Design and Data to deliver and iterate on features that have a meaningful impact on our users’ financial health.
+
+
+WHAT WE'RE LOOKING FOR 🕵️
+
+ - Solid experience with Ruby on Rails, building data models, APIs, and business logic services in a production monolith
+
+ - Experience leading technical delivery within a product squad or engineering team, helping shape and scope work through to delivery
+
+ - Experience line managing and coaching engineers, including giving feedback, supporting development and navigating performance conversations
+
+ - Strong technical judgement, with the ability to balance delivery speed, technical quality, scalability and longer-term investment
+
+ - Comfortable delivering with agile methodologies and practices like automated testing, observability, A/B testing, and feature flags
+
+ - A collaborative approach — you work well with Product, Design, Analytics and Engineering partners, and enjoy shaping work beyond just the technical bits
+
+ - A track record of helping teams build healthy habits, improve ways of working and deliver meaningful outcomes
+
+ - Alignment with our company values https://web.meetmintie.com/life-at-mintie and engineering principles https://web.meetmintie.com/blog/mintie-engineering-principles
+
+
+WHAT WE OFFER
+
+We offer benefits package built to support you in and out of work. Benefits vary by country 🌍 and include meaningful equity, comprehensive health, dental and vision insurance, mental health support, a paid one-month sabbatical after four years, a learning and development platform, pension or retirement contributions, and location-specific leave entitlements.
+
+For the full breakdown on what's available in your location, visit our Candidate Hub https://meetmintie.notion.site/Mintie-Candidate-Hub-3b95c63b874580e9a068fdc6c8929ebf 👈
+
+
+
+
+WHAT MATTERS
+
+Mintie's mission is to change the world's relationship with money. We can't do that without building a brilliant, genuinely diverse team - and making sure our hiring process gives everyone a fair shot, running a fair and transparent recruitment process in which every candidate is considered on their metris.
+
+We're glad to make reasonable adjustments at any stage of the process. If there's anything we can do to support you in showing us your best, please let your recruiter or one of the team know.
+
+We may use AI-assisted tools during the recruitment process to take support the team in different ways like taking notes or referring back to conversations. They do not replace the team and all applications are reviewed by a Mintie employee thoroughly!

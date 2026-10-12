@@ -1,0 +1,288 @@
+Senior ML Engineer Job | Data | Datavane.io | Remote | No Fluff Jobs.
+
+JavaScript is required for the page
+
+Type to search
+
+- Back to search
+
+Use swipe left and swipe right to navigate between job offers.
+
+Senior ML Engineer
+Datavane.io sp. z o.o.
+
+115 – 160 PLN
+
++ VAT (B2B) per hour
+
+Details
+
+Datavane.io sp. z o.o.
+more
+
+Remote
+
+- Lower Silesian Voivodeship
+- Kuyavian-Pomeranian Voivodeship
+- Łódź Voivodeship
+- Lubusz Voivodeship
+- Lubuskie
+- Lesser Poland Voivodeship
+- Masovian Voivodeship
+- Opole Voivodeship
+- Subcarpathian Voivodeship
+- Podlaskie Voivodeship
+- Pomeranian Voivodeship
+- Silesian Voivodeship
+- Holy Cross Voivodeship
+- Warmian-Masurian Voivodeship
+- Greater Poland Voivodeship
+- West Pomeranian Voivodeship
+
+- Category:
+Data , Python
+
+- Senior
+
+- Offer valid until: 22.10.2026 (25 days left)
+
+Must have
+
+- Python
+- SQL
+- ETL
+- Git
+- API
+- GCP
+- CI/CD
+- Vertex AI
+- Polish (Fluent)
+- English (C1)
+
+Nice to have
+
+- Terraform
+- DBT
+- Dataform
+- Snowflake
+- Google DataFlow
+- BigQuery
+- Azure
+- Airflow
+- Spark
+- Vector Databases
+- GenAI
+
+Requirements description
+
+Original text. Show translation
+
+Obowiązkowe
+
+- Doświadczenie komercyjne w roli ML Engineer lub podobnej związanej z wdrażaniem AI.
+- Biegła znajomość języka Python SQL.
+- Praktyczna znajomość i doświadczenie w pracy z bibliotekami oraz frameworkami ML/DL (np. PyTorch, TensorFlow, scikit-learn, XGBoost).
+- Praktyczne doświadczenie w projektowaniu i wdrażaniu pełnego cyklu życia modeli ML.
+- Doświadczenie w pracy z dużymi modelami językowymi.
+- Znajomość narzędzi do śledzenia eksperymentów i wersjonowania modeli/danych (np. MLflow, Weights & Biases, DVC, Feast / Feature Store).
+- Doświadczenie w budowaniu wydajnych API dla modeli (batch prediction, online prediction).
+- Praktyczne doświadczenie w pracy z platformami chmurowymi oraz biegłość w Dockerze i serverless.
+- Znajomość narzędzi MLOps w środowiskach chmurowych (np. GCP Vertex AI / Agent Platform, AWS SageMaker).
+- Znajomość praktyk CI/CD (np. GitHub Actions, GitLab CI) dostosowanych do projektów ML (automatyczne testy, retraining, deployment pipelines).
+- Samodzielność, proaktywność oraz umiejętność rozwiązywania złożonych problemów technicznych.
+- Dobra organizacja pracy, umiejętność pracy w zespole oraz efektywnej komunikacji.
+- Znajomość języka angielskiego na poziomie minimum C1.
+- Umiejętność interpretacji celów biznesowych i przekładania ich na logiczne i spójne zadania technologiczne, z uwzględnieniem kontekstu technicznego projektu.
+- Doświadczenie w wykorzystywaniu narzędzi AI w pracy z kodem, np. Cursor, Claude Code.
+
+Mile widziane
+
+- Doświadczenie z Terraform lub innymi narzędziami Infrastructure as Code.
+- Znajomość narzędzi do orkiestracji przepływów pracy ML.
+- Znajomość technologii do przetwarzania rozproszonego i analizy dużych zbiorów danych (np. BigQuery, Snowflake, PySpark).
+- Doświadczenie w pracy z narzędziami typu DBT, Dataform.
+- Znajomość zagadnień integracji, przechowywania, przetwarzania i wyszukiwania danych w środowiskach, np. Google DataFlow, Snowpark, AWS Data Migration Services, Azure DataFactory.
+- Doświadczenie w roli lidera technicznego lub koordynatora mniejszych zespołów programistycznych.
+
+Your responsibilities
+
+Original text. Show translation
+
+- Projektowanie i rozwój wysoce skalowalnej oraz bezpiecznej infrastruktury ML i MLOps w oparciu o platformy chmurowe (ze szczególnym uwzględnieniem GCP / Vertex AI) zgodnie z najlepszymi praktykami rynkowymi.
+- Wdrażanie modeli ML i GenAI na produkcję oraz tworzenie szybkich i bezpiecznych API do ich serwowania
+- Nadzór nad stabilnością, automatyzacją i wydajnością pełnych potoków ML, od zbierania i przygotowania danych, przez trenowanie i ewaluację, aż po ciągły deployment (CT/CD).
+- Monitorowanie jakości modeli na produkcji oraz optymalizacja wydajnościowa i kosztowa zasobów obliczeniowych (GPU/CPU, FinOps) wykorzystywanych do trenowania i inferencji.
+- Tworzenie czystego, modułowego i łatwego w utrzymaniu kodu w języku Python oraz SQL, z zachowaniem najwyższych standardów testowalności, bezpieczeństwa oraz praktyk MLOps/CI-CD.
+- Projektowanie i standaryzacja generycznych mechanizmów integracji danych z różnorodnych źródeł (API, strumienie w czasie rzeczywistym, bazy danych).
+show all (9)
+
+Offer description
+
+Original text. Show translation
+
+Datavane.io, jako firma usługowa zajmująca się danymi szuka kontraktora do współpracy w roli Senior ML Engineer.
+
+W tej roli będziesz odpowiadać za inżynieryjną realizację projektów z obszaru wdrażania systemów uczenia maszynowego (ML) oraz sztucznej inteligencji (GenAI/LLM). Będziesz projektować wysoce skalowalną infrastrukturę MLOps, tworzyć szybkie i wydajne API do serwowania modeli oraz automatyzować procesy od przygotowania danych, przez trenowanie, aż po monitoring modeli. Będziesz ściśle współpracować z naszymi Architektami, Data Scientistami oraz zespołami biznesowymi, tworząc stabilną i bezpieczną platformę ML (m.in. w oparciu o GCP / Vertex AI, Python, Docker i SQL), która stanowi fundament pod modernizację i rozwój rozwiązań AI u naszych klientów.
+
+Gotowość do świadczenia usług przy użyciu własnego sprzętu komputerowego i narzędzi podstawowych. Zapewniamy dostęp do licencji projektowych klienta.
+
+- Model współpracy: B2B Kontrakt (Współpraca w pełni zdalna)
+- Zapotrzebowanie projektowe: Oferujemy gwarantowaną pulę zamówień na usługi do ok. 140-180 godzin miesięcznie.
+
+Co możemy Ci zaoferować:
+
+- Możliwość świadczenia usług z dowolnego miejsca (współpraca w pełni zdalna).
+- Partnerską i otwartą kulturę współpracy opartą na zaufaniu i dużej autonomii decyzyjnej.
+- Udział w zróżnicowanych technologicznie projektach (w tym międzynarodowych) z obszaru Cloud & Data.
+- Wymianę wiedzy z doświadczonymi ekspertami (architektami, inżynierami) oraz partnerskie wsparcie merytoryczne na każdym etapie projektu.
+
+Distribution of working time
+
+70%
+
+New features
+
+5%
+
+Maintenance / Bug fixing
+
+10%
+
+Client support
+
+5%
+
+Document writing
+
+10%
+
+Meetings
+
+Job details
+
+- Online recruitment
+
+- Recruitment language: Polish&English
+
+- Start ASAP
+
+- Paid holiday for: B2B
+
+- Fully remote
+
+- Flexible hours
+
+- Some travel involved
+
+- Współpraca zdalna
+
+- Spotkania firmowe
+
+Steps in the recruitment process
+
+- Zapoznajemy się ze zgłoszeniami dotyczącymi współpracy i wybranym osobom proponujemy udział w dalszych etapach procesu.
+- Wybranym osobom wysyłamy test kompetencji.
+- Rozmowa zapoznawcza.
+- Wybranym osobom proponujemy wykonanie zadania testowego.
+- Po zapoznaniu się z rozwiązaniem zadania zapraszamy wybrane osoby na omówienie zadania - rozmowa techniczna.
+- Decyzja o podjęciu współpracy.
+
+Methodology
+
+- Issue tracking tool Github
+- Knowledge repository GitHub, GitLab
+- Code reviews GitLab
+- Version control system GIT
+
+Benefits
+
+- International projects
+- Flat structure
+- Small teams
+
+About Datavane.io
+
+Zajmujemy się wyciąganiem wartości z danych i lubimy to co robimy. Dołącz do nas i przekonaj się, że warto!
+
+atrakcyjne wynagrodzenie, duże możliwości rozwoju, dobra atmosfera
+
+- Founded in: 2017
+
+- Company size: 60+
+
+- Main location: Warszawa
+
+See also similar ads
+
+Data Scientist / ML Engineer (AdTech experience)
+
+Check Salary Match Data AdTech RTB DSP
+
+Senior Data Scientist
+
+19 000 – 28 000 PLN / month Data Python SQL Classical ML
+
+NEW
+
+Data Scientist/Analyst
+
+16 800 – 21 840 PLN / month Data SQL Python ML
+
+Senior Data Engineer [M/F]
+
+25 200 – 28 560 PLN / month Data Python Spark SQL
+
+NEW
+
+Senior Data Engineer
+
+33 600 – 40 320 PLN / month Data Python Databricks PySpark
+
+NEW
+
+Mid/Senior Data Engineer (GCP)
+
+20 160 – 30 240 PLN / month Data Python SQL Google BigQuery
+
+NEW
+
+Data Engineer
+
+25 200 – 28 560 PLN / month Data Spark Python Docker
+
+Senior Data Engineer (Azure Data Factory)
+
+21 000 – 28 560 PLN / month Data Python SQL ETL
+
+Senior Backend / Data Engineer (Python/Django)
+
+21 000 – 28 560 PLN / month Data Python SQL ETL
+
+NEW
+
+Data Engineer (Databricks)
+
+15 120 – 21 000 PLN / month Data Python SQL ETL
+
+NEW
+
+- Python
+- Data
+- Remote Senior ML Engineer
+
+Analyze CV
+
+Apply
+
+Receive tailored job offers
+
+Your criteria:
+Data Python Remote
+
+E-mail address
+
+I would like to receive new job offers matching selected criteria * I would like to receive information about salaries, trends, and other IT offers Subscribe
+
+Create an account or subscribe to job offers and enjoy additional benefits:
+
+You can unsubscribe any time

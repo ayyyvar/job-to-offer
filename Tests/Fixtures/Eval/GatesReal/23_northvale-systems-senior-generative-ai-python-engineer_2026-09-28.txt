@@ -1,0 +1,78 @@
+Senior Generative AI Python Engineer | Remote Work With Northvale
+
+Skip To Main Content
+
+Back to Search
+
+Senior Generative AI Python Engineer
+
+Remote in Georgia
+
+Python.Core& 3 others
+
+apply
+
+FacebookLinkedInSend via email
+
+Looking for something else?
+
+Find a vacancy that works for you. Send us your CV to receive a personalized offer.
+Find me a job
+
+We are looking for a Senior Python Engineer with hands-on Generative AI experience to join one of seven agile teams within a large-scale enterprise search technologies project.
+
+The project focuses on developing and supporting enterprise search products powered by Coveo, ElasticSearch, and OpenSearch. Our teams build and enhance solutions, including corporate search platforms, website search capabilities, and AI-powered search features integrated into client products.
+
+The project brings together approximately 85 professionals from Northvale, the client, and other vendors, organized into seven agile streams. Each team operates with its own Product Owner and Scrum Master, following Kanban or Scrum methodology, and focuses on a dedicated product area.
+
+This is an opportunity to develop deep expertise in search technologies, RAG architectures, and AI-powered engineering — while working on products with real-world enterprise impact at scale.
+
+Responsibilities
+
+- Design and develop backend services and features using Python
+
+- Work with search engines (OpenSearch, Coveo) to build and optimize search solutions
+
+- Implement and improve Generative AI and RAG-based capabilities within search products
+
+- Collaborate with cross-functional team members across Northvale, client, and vendor organizations
+
+- Mentor front-end engineers transitioning to full-stack development with a Python focus
+
+- Participate in Agile ceremonies and contribute to the continuous improvement of team processes
+
+- Proactively identify technical improvements, propose solutions, and drive their implementation
+
+Requirements
+
+- 3+ years of experience with Python as a primary development language
+
+- General understanding of search systems and RAG (Retrieval-Augmented Generation) architecture
+
+- Familiarity with OpenSearch and/or Coveo platforms
+
+- Hands-on Generative AI experience — working with AI tools and technologies daily
+
+- Experience working within development teams and following SDLC practices
+
+- Proactive mindset with the ability to mentor team members (especially front-end engineers transitioning to full-stack)
+
+- Experience in Agile environments (Scrum or Kanban)
+
+- B2+ English level (written and spoken)
+
+Nice to have
+
+- Experience with Node.js
+
+- Deep OpenSearch expertise (indexing, query tuning, cluster management)
+
+- Coveo platform expertise (connectors, pipelines, relevance tuning)
+
+- Experience with MCP (Model Context Protocol) development
+
+- Familiarity with agentic workflows and autonomous AI systems
+
+- Experience with hyperscaler cloud platforms
+
+- Hands-on experience with Kubernetes (K8s) deployments and orchestration

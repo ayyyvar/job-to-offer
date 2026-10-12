@@ -1,0 +1,68 @@
+Cognivo hiring Senior AI Engineer in Polska | LinkedIn
+
+Intro:
+
+We are seeking a AI Engineer to transition our AI capabilities from "prototype" to "production." In this role, you will not just experiment with models; you will architect robust Agentic Systems that can plan, reason, and execute complex workflows autonomously for a wide variety of business user needs while experimenting with cutting-edge models and tools to push the boundaries of what’s possible.
+
+The ideal candidate is a forward-thinking engineer who thrives on hands-on experimentation with AI models and frameworks, learns quickly, and is naturally curious. You will collaborate closely with product managers, business partners, and platform teams to deliver high-value AI agents that solve real-world problems across the enterprise.
+
+Project Overview:
+
+Client is a leading multi-brand technology solutions provider to business, government, education and healthcare customers in the United States, the United Kingdom and Canada. A Fortune 500 company and member of the S&P 500 Index, Client was founded in 1984 and employs approximately 10,000 coworkers. For the trailing twelve months ended September 30, 2020, the company generated Net sales over $18 billion.
+
+Broad array of offerings range from hardware and software to integrated IT solutions such as security, cloud, data center and networking
+
+Requirements:
+
+Core Engineering
+
+Bachelor’s degree and 5 years of software engineering experience, with exposure to AI/ML applications OR 9 years of software engineering experience, with exposure to AI/ML applications.
+
+- Programming: Strong hands-on experience with Python for AI/LLM application development.
+- Agentic AI: Hands-on experience designing and building AI agents / Agentic AI solutions.
+- LLM APIs: Experience integrating and working with LLM model APIs (e.g., OpenAI, Azure OpenAI, Anthropic, Gemini).
+
+AI Specialization
+
+2+ years specifically building with LLMs, with deep familiarity in:
+
+- Orchestration: LangChain, LangGraph, or similar state-based frameworks.
+- Vector DBs: Pinecone, Weaviate, or pgvector.
+- Prompt Engineering: Advanced techniques (Chain-of-Thought, ReAct, Few-Shot).
+
+- Production Mindset: Experience not just building demos, but operating them. You know how to handle rate limits, context window overflows, and non-deterministic errors.
+- Soft Skills: Ability to explain “probabilistic software” to non-technical stakeholders—managing expectations that agents are never 100% accurate, but can be 100% useful.
+- Communication: Excellent communication skills, with experience in documenting technical designs, sharing insights, and enabling team knowledge transfer.
+
+Responsibilities:
+
+Agentic Engineering & Orchestration
+
+- Workflow Design: Architect complex, multi-agent workflows using Microsoft AI tech stack. Design, Develop and Deploy agents to handle loops, interruptions, and human-in-the-loop interventions.
+- Tool Use & Function Calling: Build reliable “tool layers” that allow LLMs to safely interact with internal APIs, databases, and third-party SaaS platforms (e.g., SalesForce, Workday, ServiceNow etc.)
+- State Management: Design persistence layers to manage agent memory, conversational history, and context windows efficiently.
+
+Advanced Data & RAG Strategy
+
+- Retrieval Pipelines: Build production-grade data retrieval and integration systems. Optimize vector indexing, document chunking, and re-ranking algorithms to ensure high-precision context retrieval.
+- Data Quality: Collaborate with Data Engineers to curate “Golden Datasets” for agent consumption
+
+LLMOps, Evaluation & Quality
+
+- Automated Evaluation: Build CI/CD pipelines for AI that include “LLM-as-a-Judge” testing. Leverage frameworks to score agent outputs for accuracy, hallucination, and safety before deployment.
+- Observability: Instrument applications with tracing tools to visualize agent reasoning chains, monitor latency, and debug failures in production.
+- Cost Optimization: Monitor token usage and latency, optimizing prompt density and caching strategies to maintain high performance at sustainable costs.
+
+Innovation & Collaboration
+
+- Prototyping to Production: Rapidly validate new ideas using state-of-the-art models, then refactor successful prototypes into maintainable, tested production code.
+- Standards Adoption: Stay ahead of the curve by evaluating emerging technologies to standardize agent connectivity.
+
+- Poziom w hierarchii
+Kadra średniego szczebla
+- Forma zatrudnienia
+Pełny etat
+- Funkcja
+Inżynieria
+- Branże
+Usługi i doradztwo informatyczne

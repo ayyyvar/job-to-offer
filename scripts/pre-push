@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Local literal check: blocks a push when a tracked file or path holds a string from
+# .private/forbidden.txt (gitignored). Install: ln -s ../../scripts/pre-push .git/hooks/pre-push
+cd "$(git rev-parse --show-toplevel)" || exit 1
+f=.private/forbidden.txt
+[ -f "$f" ] || exit 0
+list=$(mktemp); trap 'rm -f "$list"' EXIT
+grep -v '^[[:space:]]*$' "$f" >"$list" || exit 0   # a blank line would match everything
+hits=$(git grep -I -i -n -F -f "$list"; git ls-files | grep -i -F -f "$list")
+if [ -n "$hits" ]; then
+  echo "pre-push: forbidden strings in tracked files (from $f):"; echo "$hits" | cut -c1-200; exit 1
+fi

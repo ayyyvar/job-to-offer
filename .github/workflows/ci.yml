@@ -1,0 +1,12 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  core:
+    runs-on: macos-26
+    steps:
+      - uses: actions/checkout@v5
+      - name: Select newest Xcode
+        run: sudo xcode-select -s "$(ls -d /Applications/Xcode*.app | sort -V | tail -1)" && xcodebuild -version
+      - run: swift test
+      - name: Publish guard
+        run: scripts/publish-guard.sh

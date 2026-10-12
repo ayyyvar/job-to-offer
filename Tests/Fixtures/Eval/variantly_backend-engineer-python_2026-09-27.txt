@@ -1,0 +1,119 @@
+Backend Engineer (Python)
+Location: Remote - Europe Time Zones
+Workplace: Remote
+Employment: FullTime
+
+Variantly is a global software company offering an ecosystem of products and services that serve as a growth engine for top mobile-first businesses worldwide. Our ecosystem includes:
+
+ - Variantly Acquire, a platform for automating and optimizing Apple Ads. 
+
+ - Variantly Agency, a full-service mobile marketing agency staffed by top experts.
+
+ - Variantly Optimize, an A/B testing platform recognized as the ASO Tool of the Year.
+
+ - Store Radar by Variantly: an ASO platform with advanced keyword and competitor insights.
+
+
+WHY VARIANTLY? 
+
+ - For over 11 years, we’ve been at the forefront of the mobile marketing industry, building an ecosystem of market-leading technologies.
+
+ - An Apple Ads Partner, Variantly is the 1st company to build the Apple Ads management platform. 
+
+ - Working with top mobile companies and brands globally: Skyscanner, Glovo, Flo, Babbel, Wooga and many more.
+
+ - Generating an impressive transaction volume, with over $1 billion in ad spend flowing through our ecosystem.
+
+ - Integrated AI into our strategic approach since 2023.
+
+ - Effectively collaborate across 20+ countries with a remote-first and supportive culture.
+
+
+
+We're searching for a Backend Engineer to join Variantly Acquire engineering team.
+
+
+
+In this role you will:
+
+ - Design and implement scalable, high-load systems using various technologies in Python.
+
+ - Handle Big data. Adapt the product to work with a large amount of data (> 200-400 million records per day).
+
+ - Work with data: pipelines, integration, analytics.
+
+ - Enhance system reliability, security, and performance.
+
+ - Develop, deploy, monitor, and maintain backend products.
+
+ - Collaborate on building and scaling microservices-based solutions.
+
+ - Conduct thorough code reviews within the domain and provide constructive feedback.
+
+ - Work in and communicate with cross-functional teams (frontend, QA, product manager).
+   
+   
+
+About you:
+
+ - Have a proven experience in software development with over 4 years of professional expertise using Python.
+
+ - Experience with Python Web frameworks (Django, FastAPI).
+
+ - Experience with data storages like PostgreSQL (performance optimization).
+
+ - Experience with async task queues (Celery, Redis, Kafka, RabbitMQ).
+
+ - Experience in building solutions based on micro-services and scaling such systems.
+
+ - Experience with Docker.
+
+ - Familiarity with modern CI/CD approaches and tools.
+
+ - Solid understanding of standard web technologies, including security principles.
+
+ - Ability to make architecture decisions with a strong focus on business impact.
+   
+   
+
+It would be nice if you have:
+
+ - Experience working with StarRocks, Airflow, Kafka Connect.
+
+ - Experience with Kubernetes, AWS infrastructure.
+
+
+WHAT IS THERE FOR YOU?
+
+ - Time Off: Vacation and public holidays following your country's regulations. Additional PTOs annually for personal rejuvenation.
+
+ - Health and Wellness: Medical insurance or health care compensation. Paid sick leave to prioritize your well-being.
+
+ - Professional Development: Top online/offline conferences and mobile industry events. Internal courses for continuous professional development.
+
+ - Performance and Growth: Micro-management-free and supportive management style. Semi-annual performance review sessions. New career opportunities through our internal mobility program.
+
+ - Team Engagement: Corporate online events and offline team retreats. Collaboration between teams through shared OKRs. Environment conducive to open dialogue and constructive feedback.
+
+ - Work Flexibility: Flexible working schedule for a better work-life balance. Remote-first working environment.
+
+ - Workspace Options: Coworking costs coverage program. Office hubs in key locations for a convenient and productive work environment.
+
+
+OUR CULTURE
+
+At Variantly, our values are not just words — they guide everything we do. To achieve our ambitious goals and maintain success, we stand united by our core behaviors:
+
+ - Move Fast
+
+ - Get Sh*t Done
+
+ - Build Together
+
+ - Strive for Transparency
+
+ - Own What You Do
+
+ - Learn + Share = Excel
+
+Remote Hiring Guidelines: At Variantly, we welcome team members from various countries. While all our roles are remote, certain positions may have specific eligibility requirements based on location. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.

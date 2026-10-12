@@ -1,0 +1,128 @@
+Middle\Senior AI Engineer at Varnek – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+Middle\Senior AI Engineer
+
+Varnek
+
+Copy link Copied
+
+$$
+
+Varnek Solutions is an international IT company specializing in web and mobile development for clients across the US, Canada, EU, and Australia. We are growing rapidly and are looking for a Middle\Senior AI Engineer to join our team and drive complex, high-impact projects.
+
+Job Requirements:
+
+- 3+ years of experience deploying machine learning models (classical ML and/or LLMs) in cloud environments (AWS/GCP/Azure) using containers and Kubernetes
+- Hands-on experience with MLOps tools such as MLflow, Kubeflow, SageMaker, Vertex AI, Feast, or equivalent
+- Proven experience building robust data/feature pipelines and implementing monitoring for model drift and performance
+- Strong Software Engineering fundamentals: version control, automated testing, CI/CD, security, and cost-aware development
+- Excellent collaboration and communication skills in English
+- Ownership mindset, curiosity, and a bias for action in a fast-paced environment
+
+Responsibilities:
+
+- Design, implement, and maintain end-to-end ML pipelines for both classical ML and LLM-based solutions
+- Deploy and manage models in cloud environments (AWS / GCP / Azure) using containers and Kubernetes
+- Apply MLOps best practices for reproducibility, automation, and monitoring
+- Build reliable data/feature pipelines and implement real-time monitoring for model drift, latency, and performance tracking
+- Actively contribute to engineering excellence through CI/CD, testing, security, and cost optimization
+
+Nice to have:
+
+- Experience with deep learning frameworks such as PyTorch or TensorFlow
+- Understanding of distributed systems (Spark, Ray)
+- Experience working with feature stores and data governance
+
+We provide the following for our employees:
+
+- Competitive salary according to qualification
+- Comfortable working environment
+- Experienced colleagues
+- Opportunity to work with interesting projects,
+- Regular performance reviews
+- Friendly atmosphere, care for the comfort of professionals
+
+Required skills
+
+Python, Git, Machine Learning, Data Science, Docker + 1 more
+PyTorch
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Ukrainian Native
+
+Published 19 May · Updated 17 September
+
+544 views
+
+·
+
+119 applications
+
+Last responded 3 weeks ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- from 3 years of experience
+
+Considering with 2 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- Ukrainian Native
+
+- ML / AI
+
+- Employment: Fulltime
+
+- Domain: Other
+
+- Outsource
+
+Apply for the job
+
+Last responded 3 weeks ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

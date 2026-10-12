@@ -1,0 +1,64 @@
+Senior AI Engineer/ Databricks, Machine Learning | Remote Work With Northvale
+
+Skip To Main Content
+
+Back to Search
+
+Senior AI Engineer/ Databricks, Machine Learning
+
+Remote in Kazakhstan, & 4 others
+
+AI Solution Engineering
+
+apply
+
+FacebookLinkedInSend via email
+
+Looking for something else?
+
+Find a vacancy that works for you. Send us your CV to receive a personalized offer.
+Find me a job
+
+Location-specific conditions & benefits*
+
+Choose an option
+
+We are looking for a Senior AI Engineer who will construct, validate, and implement ML and GenAI components supporting asset onboarding, industrial diagnostics, and device analytics using Databricks. This professional will create predictive models, anomaly-detection algorithms, RAG pipelines, document extraction systems, and AI agent functionalities.
+
+Responsibilities
+
+- Construct, validate, and implement ML and GenAI components using Databricks
+
+- Design predictive models supporting asset onboarding and device analytics
+
+- Architect and build anomaly-detection algorithms for industrial diagnostics
+
+- Develop RAG pipelines that enable intelligent information retrieval
+
+- Build document extraction workflows handling both structured and unstructured data
+
+- Create AI agent functionalities that support advanced automation use cases
+
+- Work with cross-functional teams to convert business requirements into AI solutions
+
+- Enhance model performance, scalability, and reliability within production environments
+
+- Track deployed models and refine them based on performance data and user feedback
+
+Requirements
+
+- Minimum 3 years working in AI/ML engineering and solution delivery
+
+- Strong background in AI Solution Engineering, covering model design and deployment
+
+- Skilled in Databricks, Spark ML, and distributed data processing systems
+
+- Experience creating predictive models and anomaly-detection algorithms
+
+- Competency in constructing RAG pipelines, document extraction, and AI agents
+
+- Familiarity with GenAI principles and industrial diagnostics applications
+
+- Ability to architect complete ML workflows spanning data ingestion through deployment
+
+- English language proficiency at Upper-Intermediate (B2) level or above

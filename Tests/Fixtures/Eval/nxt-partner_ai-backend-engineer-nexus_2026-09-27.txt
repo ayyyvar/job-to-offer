@@ -1,0 +1,30 @@
+NXT Partner hiring AI Backend Engineer, Nexus in Astana, Astana, Kazakhstan | LinkedIn
+
+What We Are Looking For
+
+- Backend: Python 3.12+, FastAPI, asyncio, WebSocket, and REST APIs. Experience with gRPC is a plus.
+- LLM integrations: AWS Bedrock experience is required; or/and familiarity with Anthropic Claude API, OpenAI API, and Google Gemini API, Vertex AI, etc. Experience with streaming APIs, tool/function calling, and multi-step agent workflows.
+- AI tooling: RAG, MCP, prompt engineering, context enrichment, conversation history management, and external API integrations.
+- ML/LLM fundamentals: At least basic nderstanding of transformers architecture and attention mechanisms, tokenization, embeddings, context windows, and data pipeline fundamentals.
+- Quality and infrastructure: Automated testing, mocking external services, LLM evaluations and guardrails; Docker, CI/CD, AWS, and basic familiarity with Kubernetes/Helm.
+- Nice to have: Real-time audio streaming, Gemini Live, ElevenLabs TTS/STT, AWS Connect, DynamoDB, MQTT, and IoT integrations.
+- The role focuses on reliable production AI systems, not training models from scratch.
+
+Alternative Language Backgrounds
+
+- Python is our primary implementation language, but prior Python expertise is not a strict requirement. We also welcome strong engineers whose main background is in:
+- C++ – systems engineering, concurrency, networking, and performance.
+- Go – backend services, cloud infrastructure, and gRPC.
+- Java / Kotlin – production backend systems and service integrations.
+- C# / .NET – asynchronous APIs and cloud applications.
+- Rust – systems programming, asynchronous networking, and reliability.
+- TypeScript / JavaScript (Node.js) – API development, asynchronous services, and LLM integrations.
+
+- Seniority level
+Entry level
+- Employment type
+Full-time
+- Job function
+Engineering and Information Technology
+- Industries
+IT Services and IT Consulting

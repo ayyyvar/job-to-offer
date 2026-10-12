@@ -1,0 +1,84 @@
+{
+  "seen": {
+    "corvel-ai_lead-ai-rag-engineer": {
+      "title": "Lead AI / RAG Engineer",
+      "company": "Corvel AI",
+      "url": "https://jobs.example.com/corvel-ai/lead-ai-rag-engineer",
+      "first_seen": "2026-09-26",
+      "posted_date": "2026-09-11",
+      "deadline": "2026-12-10",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "example-board",
+      "source": "telegram",
+      "location": "Remote (applicants in Kazakhstan)",
+      "rank_score": 80,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-09-26",
+      "location_verdict": "PASS",
+      "language_gate": "PASS",
+      "strengths": [
+        "Production RAG, hybrid search and evals are core requirements",
+        "Python backend on Azure with Docker and CI/CD",
+        "Hourly rate is above the target range"
+      ],
+      "gaps": [
+        "Lead title; no team-lead experience",
+        "Serving open-weight LLMs with vLLM is required",
+        "Kubernetes and Terraform are weak"
+      ]
+    },
+    "orbis-bank_ml-engineer": {
+      "title": "ML Engineer",
+      "company": "Orbis Bank",
+      "url": "https://jobs.example.com/orbis-bank/ml-engineer",
+      "first_seen": "2026-09-26",
+      "posted_date": "2026-09-25",
+      "deadline": null,
+      "fit": "low",
+      "status": "ranked",
+      "portal": "example-board",
+      "source": "websearch",
+      "location": "Almaty, on-site/hybrid",
+      "rank_score": 54,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-09-26",
+      "location_verdict": "PASS",
+      "language_gate": "FAIL",
+      "language_note": "Posting requires Kazakh C1; Kazakh is not a declared language",
+      "strengths": [
+        "Python and LLM product work match the stack"
+      ],
+      "gaps": [
+        "Kazakh C1 is required"
+      ]
+    },
+    "keepsafe_backend-engineer": {
+      "title": "Backend Engineer",
+      "company": "Keepsafe",
+      "url": "https://jobs.example.com/keepsafe/backend-engineer",
+      "first_seen": "2026-09-27",
+      "posted_date": null,
+      "deadline": null,
+      "fit": "medium",
+      "status": "new",
+      "portal": "example-board",
+      "source": "cli",
+      "location": null
+    },
+    "lattice-motion_senior-ai-engineer": {
+      "title": "Senior AI Engineer",
+      "company": "Lattice Motion",
+      "url": "https://jobs.example.com/lattice-motion/senior-ai-engineer",
+      "first_seen": "2026-09-27",
+      "posted_date": "2026-09-24",
+      "deadline": null,
+      "fit": "low",
+      "status": "skipped",
+      "portal": "example-board",
+      "source": "cli",
+      "location": "Remote, residents of South America only",
+      "location_verdict": "FAIL"
+    }
+  }
+}

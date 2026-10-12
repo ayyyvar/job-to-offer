@@ -1,0 +1,94 @@
+Data Science (Credit Risk)
+Location: Taguig, National Capital Region
+Workplace: Hybrid
+Employment: FullTime
+
+Tidewell Bank (Rural Bank) Inc., the banking arm of Tidewell Group Ltd, is a technology-driven challenger bank in the Philippines operating under a BSP license. We combine the trust of a regulated financial institution with the speed and convenience of a modern banking experience.
+
+Here, product, risk, compliance, operations, technology, and customer experience work closely together to build and run a modern bank.
+
+We work with fewer layers, close collaboration, and a culture where every voice can make a difference.
+
+If you want to build reliable financial systems at speed, take on real operational complexity, and help raise banking standards across the Philippines, come build with us.
+
+
+
+
+ABOUT THE ROLE
+
+You'll own credit scoring across the full customer lifecycle — from application decisions to behavioral models that drive portfolio profitability.
+
+
+
+
+WHAT YOU'LL DO
+
+ - Build and improve Application and Behavioral Scorecards that drive underwriting and collections decisions across live credit products.
+
+ - Work within a regulated environment — prepare model documentation and defend modeling decisions to internal governance and external reviewers.
+
+ - Collaborate with product, analytics, and engineering to translate model outputs into strategy changes and implementation specs.
+
+
+
+
+WHAT YOU'LL OWN
+
+ - Own the full modeling cycle: data exploration, feature design, model build, validation, deployment specs, and post-production monitoring.
+
+ - Track scorecard quality — AUC, KS, bad rate, stability index — and validate against real portfolio outcomes via NPV and backtesting.
+
+ - Prepare model documentation and governance artifacts for regulatory review.
+
+ - Shape credit strategy — your models directly influence approval, pricing, and collection decisions, not just inform them.
+
+
+
+
+WHAT MAKES YOU A STRONG FIT
+
+ - 3+ years of hands-on experience building credit risk models — Application Scorecards and/or Behavioral Scorecards specifically (ECL/IFRS9-only experience does not substitute).
+
+ - Experience with model audits, documentation, or regulatory review support.
+
+ - Strong Python (pandas, scikit-learn) and SQL — you build models yourself, not just review others' work.
+
+ - Experience covering the full lifecycle: data, feature engineering, validation, and production monitoring.
+
+
+
+
+WHAT WE OFFER
+
+
+WORK AND OWNERSHIP
+
+ - Hybrid-first work environment with a modern office in Bonifacio Global City, Manila
+
+ - Company-provided tools and equipment
+
+ - Work with an international team combining global fintech experience with deep Philippine market knowledge
+
+ - Direct access to decision-makers and a real voice in how we build for the Philippine market
+
+
+HEALTH AND TIME OFF
+
+ - Medical insurance for you and your family
+
+ - 22 vacation days, Philippine public holidays, and 15 sick days
+
+ - 105 days of paid maternity leave and up to 14 days of paid paternity leave
+
+
+LEARNING AND TEAM EXPERIENCE
+
+ - Opportunities to learn and share your expertise through internal expert meetups, external conferences, speaking opportunities, and industry publications
+
+ - Regular team offsites, sports activities, and team events
+
+ - High-performing teams can earn a dedicated beach house week in Southeast Asia
+
+
+
+We believe strong teams are built by people with different backgrounds, experiences, and points of view. Tidewell is an equal opportunity employer, and we make hiring decisions based on skills, experience, and potential.

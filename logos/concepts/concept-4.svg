@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g id="icon">
+    <rect x="0" y="0" width="512" height="512" fill="#F3F5F4"/>
+    <g fill="none" stroke-width="26" opacity="0.9" style="mix-blend-mode:multiply">
+      <circle cx="256" cy="186" r="96" stroke="#2F6F5E"/>
+      <circle cx="316.6" cy="291" r="96" stroke="#A86300"/>
+      <circle cx="195.4" cy="291" r="96" stroke="#5B3FA8"/>
+    </g>
+  </g>
+</svg>

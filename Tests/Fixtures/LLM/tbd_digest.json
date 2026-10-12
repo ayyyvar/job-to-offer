@@ -1,0 +1,8 @@
+{
+  "summary": "Builds LLM applications, RAG search and agent workflows for business clients.",
+  "mustHave": ["Python and FastAPI", "RAG and AI agents", "LLM APIs (OpenAI, Anthropic, Bedrock)", "Streamlit or Gradio"],
+  "niceToHave": [],
+  "workStyle": [],
+  "roleFocus": "llmApplications",
+  "llmWork": "core"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "file": "tbd_senior-ai-engineer_2026-09-25.md",
+    "url": null,
+    "company": "TBD",
+    "title": "Senior AI Engineer",
+    "rank_score": 80,
+    "expected_band": "Strong Fit",
+    "location_verdict": null,
+    "language_gate": null,
+    "fetched": "2026-09-25",
+    "path": "archive"
+  },
+  {
+    "file": "sandboxly_senior-applied-ai-engineer_2026-09-27.txt",
+    "url": "https://jobs.example.com/sandboxly_senior-applied-ai-engineer",
+    "company": "Sandboxly",
+    "title": "Senior Applied AI Engineer",
+    "rank_score": 85,
+    "expected_band": "Strong Fit",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "greenhouse"
+  },
+  {
+    "file": "kaplo_senior-ai-llm-engineer-python-remote_2026-09-27.txt",
+    "url": "https://jobs.example.com/kaplo_senior-ai-llm-engineer-python-remote",
+    "company": "Kaplo",
+    "title": "Senior AI/LLM Engineer (Python) - Remote",
+    "rank_score": 84,
+    "expected_band": "Strong Fit",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "html"
+  },
+  {
+    "file": "quantaops_senior-ai-engineer_2026-09-27.txt",
+    "url": "https://jobs.example.com/quantaops_senior-ai-engineer",
+    "company": "QuantaOps",
+    "title": "Senior AI Engineer",
+    "rank_score": 71,
+    "expected_band": "Good Fit",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "greenhouse"
+  },
+  {
+    "file": "nxt-partner_ai-backend-engineer-nexus_2026-09-27.txt",
+    "url": "https://jobs.example.com/nxt-partner_ai-backend-engineer-nexus",
+    "company": "NXT Partner",
+    "title": "AI Backend Engineer, Nexus",
+    "rank_score": 70,
+    "expected_band": "Good Fit",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "html"
+  },
+  {
+    "file": "lumisoft_artificial-intelligence-engineer_2026-09-27.txt",
+    "url": "https://jobs.example.com/lumisoft_artificial-intelligence-engineer",
+    "company": "Lumisoft",
+    "title": "Artificial Intelligence Engineer",
+    "rank_score": 69,
+    "expected_band": "Good Fit",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "html"
+  },
+  {
+    "file": "tidewell_python-developer_2026-09-27.txt",
+    "url": "https://jobs.example.com/tidewell_python-developer",
+    "company": "Tidewell",
+    "title": "Python Developer",
+    "rank_score": 59,
+    "expected_band": "Moderate Fit",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "ashby"
+  },
+  {
+    "file": "variantly_backend-engineer-python_2026-09-27.txt",
+    "url": "https://jobs.example.com/variantly_backend-engineer-python",
+    "company": "Variantly",
+    "title": "Backend Engineer (Python)",
+    "rank_score": 58,
+    "expected_band": "Moderate Fit",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "ashby"
+  },
+  {
+    "file": "halcyon_ai-tutor-software-engineering_2026-09-27.txt",
+    "url": "https://jobs.example.com/halcyon_ai-tutor-software-engineering",
+    "company": "halcyon",
+    "title": "AI Tutor - Software Engineering",
+    "rank_score": 53,
+    "expected_band": "Moderate Fit",
+    "location_verdict": "PASS",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "greenhouse"
+  },
+  {
+    "file": "tidewell_data-science-credit-risk_2026-09-27.txt",
+    "url": "https://jobs.example.com/tidewell_data-science-credit-risk",
+    "company": "Tidewell",
+    "title": "Data Science (Credit Risk)",
+    "rank_score": 42,
+    "expected_band": "Weak Fit",
+    "location_verdict": "FLAG",
+    "language_gate": "PASS",
+    "fetched": "2026-09-27",
+    "path": "ashby"
+  }
+]

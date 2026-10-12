@@ -1,0 +1,15 @@
+{
+  "title": "Senior AI Engineer",
+  "company": "",
+  "location": "",
+  "remotePolicy": "unspecified",
+  "employmentType": "unspecified",
+  "locationRequirement": [],
+  "visaSponsorship": "silent",
+  "eligibilityQuote": "",
+  "requiredLanguages": [{ "language": "English", "level": "B2 level or higher" }],
+  "stack": ["python", "fastapi", "rag", "openai", "anthropic", "bedrock", "langgraph", "llamaindex", "streamlit", "gradio"],
+  "minYearsExperience": 3,
+  "compensation": "",
+  "deadline": ""
+}

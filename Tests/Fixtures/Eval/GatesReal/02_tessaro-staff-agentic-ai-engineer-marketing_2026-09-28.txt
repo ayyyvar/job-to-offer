@@ -1,0 +1,251 @@
+Staff Agentic AI Engineer (Marketing) – Tessaro – Permanent contract – Fully-remote
+
+Welcome to the jungle logo
+
+US
+
+FrançaisEnglish (US)English (UK)
+
+Tessaro
+
+Staff Agentic AI Engineer (Marketing)
+
+Job summary
+
+Permanent contract
+
+Toronto
+
+Fully-remote
+
+Salary: Not specified
+
+Experience: > 5 years
+
+Skills & expertise
+
+Diagnostic skills
+
+Magento
+
+LangChain
+
+Claude
+
+OpenAI
+
++3
+
+Apply
+
+Save
+
+10 days ago
+
+Share
+
+Copy linkShare on FacebookShare on XShare on LinkedIn
+
+Tessaro
+Interested in this job?
+
+Apply
+
+Save
+
+Questions and answers about the job
+
+Does this position allow remote work?
+
+Yes, fully remote work is allowed for this job.
+
+What type of contract is offered for this position?
+
+Type of contract for this position: Permanent contract
+
+The position
+
+Job description
+
+- As a Staff Agentic AI Engineer at Tessaro, you will be a senior individual contributor helping buildthe core agentic factory platform that will enable customers to agentically define and buildcustomer-specific agents to expand marketing-oriented enterprise automation and brandinteraction use cases
+- You will deliver innovative designs and implement reliable, scalable, andmeasurable agentic systems used by enterprise customers and business users in complex,real-world production environments
+- This is a hands-on engineering role for someone who drives innovation and has built productionLLM and agent systems, understands modern agent architectures, and has strong instincts forevaluation, observability, performance diagnosis, and continuous optimization
+- You will workacross agent orchestration, tool use, prompt and tool-selection strategies, RAG, embeddings,guardrails, and LLM evaluation systems and marry these with appropriate deterministic andML-based solutions to expand Tessaro’s agentic factory
+- Design, build, and improve production-grade AI agentic systems that optimizeweb-based and chat-based experiences leveraging grounded, structured data
+- Architect agent workflows involving reasoning, tool use, retrieval, guardrails, escalation paths, and performance monitoring
+- Evaluate Deep Agent, Claude Agent, OpenAI Agent, LangGraph, and other emerging agent orchestration patterns and frameworks for marketing-oriented use cases
+- Build and maintain LLM evaluation systems, including LLM-as-judge workflows, regression evals, guardrail testing, quality metrics, and production behavior analysis
+- Diagnose agent performance issues across prompts, tool selection, retrieval quality, latency, cost, task completion, and failure modes
+- Design and implement RAG and embedding-based capabilities for enterprise knowledge access and automation workflows
+- Build scalable Python services and platform components deployed in AWS cloud environments
+- Partner with product, platform, and engineering teams to translate emerging agentic AI capabilities into reliable platform features
+- Establish engineering best practices for continuous optimization of agentic systems
+- Stay current with advances in LLMs, agent architectures, AI coding tools, eval methodologies, retrieval systems, and enterprise automation
+
+Benefits
+
+- Flexible work environments
+- Educational / professional development opportunities
+- Equity opportunities
+- 401K plan
+- Snacks, breakfast and a daily catered lunch
+- Work from home opportunities
+- Health insurance
+
+Preferred experience
+
+- Daily use of AI coding tools such as Codex, Claude Code, Cursor, or similar tools as part of software development workflows
+- Bachelor’s Degree or higher in a quantitative field (Statistics, Computer Science, Engineering, Mathematics)
+- Strong understanding of RAG, embeddings, retrieval quality, and knowledge-grounded generation
+- Strong engineering judgment, ability to work independently, and comfort operating as a senior individual contributor on ambiguous technical problems
+- 3-5 years of experience in applying AI, data science, and machine learning in the marketing space
+- Hands-on experience with LangGraph, LangChain, or related agent orchestration frameworks
+- Experience leveraging data from Adobe Experience Platform, AdobeCommerce/Magento, Adobe Real-time CDP, Adobe Target, and/or AdobeAnalytics/Customer Journey Analytics for data science modeling and performance analysis
+- 5-7+ years of experience in AI/ML engineering, applied machine learning, natural language processing, and/or AI systems development
+- Experience deploying or operating systems in AWS cloud environments
+- Strong Python engineering skills and experience building scalable production software systems
+- Master’s Degree or higher in a quantitative field (Statistics, Computer Science,Engineering, Mathematics)
+- Experience building or using knowledge graphs for enterprise knowledge modeling,retrieval, reasoning, or personalization
+- Hands-on experience building production LLM or AI agent systems
+- Experience designing agent architectures involving tool use, reasoning flows, retrieval, memory, guardrails, and workflow orchestration
+- Experience developing AI evaluation systems, including LLM-as-judge, guardrail evaluation, regression testing, and production quality measurement
+- Experience with enterprise automation platforms, customer experience systems, workflow automation, or AI-powered business process automation
+- Experience with observability and tracing for LLM or agent systems
+- Experience optimizing agent systems for latency, cost, reliability, safety, and task success
+- Experience with vector databases, search infrastructure, model routing, caching, ormulti-model architectures
+
+Discover the company
+
+Explore the company’s profile or follow them to find out if they’re the right fit!
+
+Explore the company
+
+Follow them!
+
+The company
+
+Tessaro
+
+Software, Artificial Intelligence / Machine Learning
+
+235 employees
+
+- View website
+- View all jobs
+2
+
+Who are they?
+
+Customer service automation
+
+The workplace
+Toronto/North America (Remote)
+
+Need more info?
+
+Company life, atmosphere, achievements... We still have a lot more to tell you!
+Discover
+
+These job openings might interest you!
+
+These companies are also recruiting for the position of “Data / Business Intelligence”.
+
+- Senior Data Engineer F/H
+
+Thales
+
+Permanent contract
+
+Vélizy-Villacoublay
+
+Software, Cyber Security
+
+80,000 employees
+
+2 days ago
+
+- Junior Data Engineer
+
+Reverse Contact
+
+Permanent contract
+
+Paris
+
+A few days at home
+
+Salary: €42K to 44K
+
+Software
+
+12 employees
+
+2 days ago
+
+- Senior Data Engineer - Analytics (x/f/m)
+
+Doctolib
+
+Permanent contract
+
+Paris
+
+A few days at home
+
+Mobile Apps, Software
+
+3,000 employees
+
+3 days ago
+
+- Data Analyst Banking
+
+MARGO
+
+Permanent contract
+
+Warsaw
+
+Fully-remote
+
+Software, IT / Digital
+
+400 employees
+
+6 days ago
+
+- Graduate Data Engineer
+
+Liberis
+
+Permanent contract
+
+London
+
+No remote work
+
+Software, FinTech / InsurTech
+
+300 employees
+
+11 days ago
+
+- Junior Trainer - AI Content Specialist
+
+Quadient
+
+Permanent contract
+
+Olomouc
+
+Software, IT / Digital
+
+4,500 employees
+
+11 days ago
+
+See all job openings
+
+Apply
+
+Save

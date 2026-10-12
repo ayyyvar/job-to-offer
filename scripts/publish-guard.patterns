@@ -1,0 +1,13 @@
+deny	/(Users|home)/[A-Za-z0-9._-]+/
+deny	(^|[^0-9A-Za-z])[0-9A-F]{8}-[0-9A-F]{16}([^0-9A-Za-z]|$)
+deny	^[[:space:]]*DEVELOPMENT_TEAM[[:space:]]*[:=][[:space:]]*"?[A-Z0-9]{10}([^A-Z0-9]|$)
+deny	[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}
+allow	@example\.(com|org|net)$
+allow	@domain\.com$
+allow	noreply@
+allow	@anthropic\.com$
+allow	@northvale\.com$
+allow	@stratumlabs\.lt$
+allow	@chorale\.ai$
+allow	@[a-z0-9-]+\.recruitee-inbox\.com$
+allow	@sentry\.hh\.ru$

@@ -1,0 +1,78 @@
+Solutions Architect
+Location: National Capital Region
+Workplace: Hybrid
+Employment: FullTime
+
+The Solutions Architect is responsible for designing, developing, and implementing technical solutions that align with business objectives. This role bridges the gap between business requirements and technical capabilities: ensuring that solutions are scalable, reliable, and efficient down to implementation.
+
+
+
+
+JOB RESPONSIBILITIES
+
+Technical Leadership
+
+ - Designing and architecting complex software systems.
+
+ - Ensuring adherence to SDLC, IT policies and standards, industry best practices
+
+ - Oversee development of Solutions from inception to release 
+
+ - Ensure regulatory compliance for solutions that are crafted 
+
+ - Develop comprehensive technical architectures for new products, features, or systems
+
+ - Evaluate and select appropriate technologies, platforms, and frameworks
+
+ - Ensure that solutions adhere to best practices, standards, and guidelines
+
+ - Create detailed technical designs, including data models, system diagrams, and component specifications
+
+ - Provide guidance to development teams on implementation details
+
+ - Review and approve technical designs
+
+ - Identify and troubleshoot technical issues
+   
+
+IT Project Management
+
+ - Plan and manage software development projects, ensuring they meet deadlines 
+
+ - Collaborate with product owners and stakeholders to define requirements and prioritize features
+
+ - Oversee the entire software development lifecycle, from design to deployment
+   
+   
+
+
+ROLE REQUIREMENTS
+
+Core Competencies
+
+ - In-depth experience of Agile software Development • Experience with software architecture design and system integration
+
+ - Hands-on experience on working on distributed systems and microservices 
+
+ - Experience with Stakeholder management 
+
+ - Experience with software architecture design and system integration
+
+ - Excellent problem-solving and analytical skills 
+
+ - Hands-on experience in building application pipeline 
+
+ - Hands-on experience in coaching and leading a small team of engineers
+
+ - Knowledge in core banking systems is a plus (ThoughtMachine, Oradian)
+   
+
+Qualifications
+
+ - Graduate of any 4 year IT related course
+
+ - At least 6 years total working experience 
+
+ - Working experience in financial or banking industries
+
+ - Good to have: AWS SA, or any devOps Certification

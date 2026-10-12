@@ -1,0 +1,125 @@
+Python Developer – Senior (AI & Data Integration) - PLAYVEND
+
+Skip to main content
+
+This website uses cookies to ensure you get the best experience.
+
+PLAYVEND and our selected partners use cookies and similar technologies (together “cookies”) that are necessary to present this website, and to ensure you get the best experience of it. If you consent to it, we will also use cookies for analytics purposes.
+
+See our Cookie Policy to read more about the cookies we set.
+
+You can withdraw and manage your consent at any time, by clicking “Manage cookies” at the bottom of each website page.
+
+Accept all cookies Decline all non-necessary cookies Cookie preferences
+
+common--header--menu#toggle" data-common--header--menu-target="button" > Career menu
+
+Employee Log in as employee
+PLAYVEND PLAYVEND
+Candidate Log in to Connect Homepage careers.playvend.com
+
+PLAYVEND
+
+Share page
+Facebook X LinkedIn Mail
+
+AI Center of Excellence · Multiple locations · Fully Remote
+
+Python Developer – Senior (AI & Data Integration)
+
+PLAYVEND continues to expand its AI capabilities, and we are looking for a Senior Python Developer to join our dedicated AI Software Delivery team.
+
+Apply for this job
+
+Overview:
+
+PLAYVEND continues to expand its AI capabilities, and we are looking for a Senior Python Developer to join our dedicated AI Software Delivery team. We need a true, experienced, and accomplished professional who is passionate about the intersection of LLMs, software engineering, and scalable infrastructure.
+
+Purpose of the role:
+
+You will design and build sophisticated AI-enabled solutions, including Retrieval-Augmented Generation (RAG) systems, autonomous agents, and Model Context Protocol (MCP) integrations. You will help shape the architecture of our AI ecosystem, ensuring that our internal tools are not just "smart," but also robust, scalable, and deeply integrated with our enterprise data. Your deep understanding of Python internals, distributed systems, and modern AI orchestration patterns will drive the reliability and performance of our next generation of software.
+
+Key responsibilities:
+
+- Collaborating within an agile team using Scrum methodology and participating in the strategic planning of the AI roadmap
+
+- Engaging in architectural, infrastructure, and strategic decision-making processes for AI-enabled services
+
+- Designing and implementing production-ready RAG pipelines and Agentic workflows that leverage our internal data
+
+- Integrating Model Context Protocols (MCP) to standardize how our AI tools interact with diverse data sources and environments
+
+- Conducting code reviews for other team members and maintaining high standards for documentation and testability
+
+Required Experience:
+
+- 7+ years of professional software development experience (аt least 4 years of recent programming experience with Python as the primary language)
+
+- Strong understanding of Python internals: asynchronous programming (asyncio), memory management, and performance profiling
+
+- Proven experience building RAG (Retrieval-Augmented Generation) systems and working with LLM orchestration frameworks (e.g., LangChain, LlamaIndex, or CrewAI)
+
+- Solid knowledge of Linux, and proficient command-line skills (Bash/Shell)
+
+- Solid knowledge of Docker and Kubernetes for deploying and scaling containerized applications
+
+- Experience with Relational Databases (PostgreSQL), including query optimization and schema design
+
+- Experience with Redis for caching and state management in distributed systems
+
+- Familiarity with the ELK Stack (Elasticsearch, Logstash, Kibana) for logging, monitoring, and observability
+
+- English proficiency at an Intermediate level or higher
+
+Nice to have:
+
+- Experience with Vector Databases (e.g., pgvector, Milvus, Qdrant) and semantic search optimization
+
+- Experience implementing Model Context Protocol (MCP) or similar interoperability standards
+
+- Understanding of distributed application principles and microservice architecture
+
+- Familiarity with modern back-end design patterns
+
+- Experience in fields where data security and integrity are paramount
+
+Our benefits:
+
+- Full-time remote work opportunities and flexible working hours
+
+- Private insurance
+
+- Additional 1 Day Off per calendar year
+
+- Sports program compensation
+
+- Comprehensive Mental Health Programme
+
+- Free online English lessons with a native speaker
+
+- Generous referral program
+
+- Training, internal workshops, and participation in international professional conferences and corporate events
+
+Department AI Center of Excellence Role Python Developer Locations Warsaw, Poland, Poznan, Poland, Belgrade, Serbia, T'bilisi, Georgia Remote status Fully Remote Employment type Full-time
+
+Contact Vera Kolar Talent Acquisition Partner – CHRO / HR Team
+
+Apply for this job
+
+AI Center of Excellence · Multiple locations · Fully Remote
+
+Python Developer – Senior (AI & Data Integration)
+
+PLAYVEND continues to expand its AI capabilities, and we are looking for a Senior Python Developer to join our dedicated AI Software Delivery team.
+
+Loading application form
+
+Close modal
+
+Already working at PLAYVEND?
+
+Let’s recruit together and find your next colleague.
+Log in
+
+- - - - - - - - Applicant tracking system by Teamtailor

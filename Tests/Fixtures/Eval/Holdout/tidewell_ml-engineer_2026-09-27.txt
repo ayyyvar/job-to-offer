@@ -1,0 +1,90 @@
+ML Engineer
+Location: Metro Manila
+Workplace: Hybrid
+Employment: FullTime
+
+Tidewell is a technology-driven financial company building a banking and lending platform across Southeast Asia, starting in the Philippines.
+
+We combine global fintech expertise with deep local market knowledge to make financial services simple, accessible, and useful for millions of people across the region.
+
+7M+ app downloads. 2M+ monthly active users. 7,000+ partner stores. US$310M+ raised from leading global investors.
+
+Manila-based, globally distributed, and hybrid-first — our team spans 45+ countries.
+
+If you want to solve complex problems at scale and impact how millions of people access and manage money, come build with us.
+
+Southeast Asia's fintech moment starts here.
+
+About the role:
+
+You'll own ML models across credit scoring, collection, and antifraud, turning data into systems that directly shape how Tidewell lends and collects at scale.
+
+What you'll do:
+
+ - You'll build and ship ML models across credit scoring, collection, antifraud, and sales — high-stakes, high-visibility work from day one.
+
+ - You'll work directly with Collection, Product, and other cross-functional teams to find where a better model moves the business.
+
+ - You'll take models from idea to production, then keep monitoring and improving them as real data comes in.
+
+What you'll own:
+
+ - Own the end-to-end lifecycle of ML models — EDA, feature generation, hypothesis testing, production deployment, and monitoring.
+
+ - Partner with Collection and Product to identify where a new or improved model would have the most leverage.
+
+ - Evaluate model performance against business impact, and iterate based on what you find.
+
+ - Explore and integrate new data sources, internal and external, to surface additional predictive signals.
+
+ - Build models that are scalable, observable, and maintainable in production systems.
+
+What makes you a strong fit:
+
+ - 2+ years of experience as a Machine Learning Engineer or Data Scientist, ideally in fintech or fast-paced product environments.
+
+ - Solid foundation in classical ML techniques, fluent in Pandas, Scikit-learn, NumPy, SciPy, Matplotlib, Seaborn, Statsmodels, and gradient boosting libraries (XGBoost, LightGBM, CatBoost).
+
+ - Strong Python and SQL, with experience using version control.
+
+ - A strong sense of ownership and accountability.
+
+What we offer:
+
+Ownership and flexibility
+
+ - Hybrid-first work environment
+
+ - Company-provided tools and equipment
+
+ - Office in Bonifacio Global City, Manila — a modern, walkable district at the centre of the Philippines' growing tech scene
+
+Health and time off
+
+ - Medical insurance support for you and your family through co-funding or reimbursement, depending on your location and subject to policy limits
+
+ - Access to an internal mental health support specialist
+
+ - 22 vacation days, Philippine public holidays, and 15 sick days
+
+ - 105 days of paid maternity leave and up to 14 days of paid paternity leave for employees relocating to Manila
+
+Relocation and family support
+
+ - Relocation support for you, your family — including flights, two weeks of accommodation, visas, paperwork, and logistics
+
+ - Reimbursement of eligible pet relocation expenses
+
+ - USD 2,500 per year for flights home
+
+ - Baby and family stipends for employees relocating to Manila: USD 1,000 per month for each child under two and USD 500 per month for each child aged two to 18
+
+Growth and team experience
+
+ - Opportunities to learn and share your expertise through internal expert meetups, external conferences, speaking opportunities, and industry publications
+
+ - Company-sponsored trips to Manila to meet and work with your team in person
+
+ - Regular team offsites, sports activities, and team events
+
+ - High-performing teams can earn a dedicated beach house week in Southeast Asia

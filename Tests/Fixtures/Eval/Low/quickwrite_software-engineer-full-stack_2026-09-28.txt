@@ -1,0 +1,80 @@
+Software Engineer, Full-Stack 
+Location: Remote - Ukraine
+Workplace: Remote
+Employment: FullTime
+
+ABOUT QUICKWRITE
+
+Wordsmithy is now part of Quickwrite, the AI productivity platform on a mission to unlock the quickwrite potential in everyone. The Quickwrite suite of apps and agents brings AI wherever people work, integrating with over 1 million applications and websites. The company’s products include Wordsmithy's writing assistance, Quickwrite Docs’s collaborative workspaces, Mail’s inbox management, and Go, the proactive AI assistant that understands context and delivers help automatically. Founded in 2009, Quickwrite empowers over 40 million people, 50,000 organizations, and 3,000 educational institutions worldwide to eliminate busywork and focus on what matters. Learn more at  http://quickwrite.com/quickwrite.com http://quickwrite.com and about our values here https://blog.quickwrite.com/our-values/.
+
+
+
+
+THE OPPORTUNITY
+
+To achieve our ambitious goals, we’re looking for Full Stack Software Engineers to join our engineering teams.
+
+Quickwrite's engineers and researchers have the freedom to innovate and uncover breakthroughs—and, in turn, influence our product roadmap. The complexity of our technical challenges is growing rapidly as we scale our interfaces, algorithms, and infrastructure. You can hear more from our team on our technical blog http://wordsmithy.com/blog/engineering.
+
+As a Full Stack Engineer at Quickwrite, you will play a critical role in building the next generation of AI agents that help people complete high-value workflows across the tools they use every day. You’ll develop end-to-end product experiences and the infrastructure needed to make these agents focused, reliable, and deeply integrated—helping us validate new opportunities and bring the most valuable ones to millions of users. We invite you to share your knowledge, experience, and goals with us to help us find the best team match for you. Tell us your superpower!
+
+
+
+In this role, you will:
+
+ - Start building and pushing code in your first week and ship impactful features in your first few months.
+
+ - Build full-stack AI agents that complete valuable, role-specific workflows across the tools customers use every day.
+
+ - Develop end-to-end experiences for agent workflows, from triggers and context gathering to user interactions and completed actions.
+
+ - Build and deepen connector capabilities—including reads, writes, authentication, administration, and observability—to support high-value customer workflows
+
+ - Prototype new agent experiences, test them with users, and use feedback and data to guide product and technical decisions.
+
+ - Collaborate closely with Product, Design, and customer-facing teams to translate real customer needs into scalable solutions.
+
+ - Help establish reusable technical foundations and engineering practices that accelerate the development of future agents.
+
+ - Embrace a data-driven and experimentation-first culture.
+
+
+
+
+QUALIFICATIONS
+
+ - Is ready to tackle challenges across product, infrastructure, and integrations.
+
+ - Knows modern web development, API design, and testing tools.
+
+ - Has experience building, deploying, and debugging production systems at scale.
+
+ - Understands authentication, data flows, and integrations with third-party services.
+
+ - Is comfortable working with data and experimentation to inform decisions.
+
+ - Cares deeply about reliability, quality, and the end-user experience.
+
+ - Works independently, navigates ambiguity, and collaborates effectively across teams.
+
+ - Has a demonstrated ability to work independently with minimal guidance, proactively manages tasks and priorities across multiple projects, analyzes and executes work efficiently, collaborates effectively with cross-functional teams, and thrives in fast-paced, results-driven environments
+
+
+
+
+SUPPORT FOR YOU, PROFESSIONALLY AND PERSONALLY
+
+ - Professional growth: We believe that autonomy and trust are key to empowering our team members to do their best, most innovative work in a way that aligns with their interests, talents, and well-being.
+
+ - A connected team: Quickwrite builds a product that helps people connect, and we apply this mindset to our own team. Our remote-first hybrid model enables a highly collaborative culture. We work to foster belonging among team members in a variety of ways. This includes our team member resource groups, Quickwrite Circles, which promote connection among those with shared identities including BIPOC and LGBTQIA+ https://www.wordsmithy.com/blog/supportive-workplace-for-lgbtqia/ team members, women, and parents. We also celebrate our colleagues and accomplishments with global, local, and team-specific programs.
+
+ - Comprehensive benefits for candidates based in Ukraine: Quickwrite offers all team members competitive pay along with a benefits package encompassing life care (including mental health care and risk benefits) and ample and defined time off. We also offer support to set up a home office, wellness and pet care stipends, learning and development opportunities, and more.
+
+
+
+
+WE ENCOURAGE YOU TO APPLY
+
+At Quickwrite, we value our differences, and we encourage all—especially those whose identities are traditionally underrepresented in tech organizations—to apply. Quickwrite is an equal opportunity company. We do not discriminate on the basis of race or ethnic origin, religion or belief, color, gender expression or identity, sexual orientation, sexual identity, national origin, citizenship, age, marital status, veteran status, disability status, criminal prosecution, judgment in a criminal case, or any other characteristic protected by law.
+
+For more details about the personal data Quickwrite collects during the recruitment process, for what purposes, and how you can address your rights, please see the Quickwrite Data Privacy Notice for Candidates here https://quickwrite.com/media-resources/candidate-data-privacy.

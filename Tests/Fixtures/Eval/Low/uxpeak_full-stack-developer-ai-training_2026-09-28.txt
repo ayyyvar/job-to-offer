@@ -1,0 +1,123 @@
+Full Stack Developer (AI Training) at UXPEAK – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Fullstack
+
+Full Stack Developer (AI Training)
+
+UXPEAK
+
+Copy link Copied
+
+$$$
+
+Job Summary
+﻿﻿As a Software Engineer, you will work directly with AI coding models to identify weaknesses, debug incorrect outputs, and create stronger alternative solutions. Your main responsibility will be to evaluate AI-generated solutions, identify mistakes, uncover reasoning gaps.
+
+Key Responsibilities
+
+- Work with Frontier Labs, producing training data to train Al models.
+- Test and evaluate agentic coding models designed to perform complex engineering tasks at a senior developer level.
+- Compare AI-generated solutions against senior engineering standards and best practices.
+
+Requirements
+
+- 3–4 years of hands-on experience as a Full Stack Developer on commercial projects, including B2B SaaS systems and data-heavy applications.
+- Use AI tools (AI agents, Claude Code, Cursor, Codex or similar) in daily workflow.
+- Strong judgment across the full software lifecycle:
+
+- Reading a PRD and breaking it into Jira tickets
+- Estimating effort and scoping work
+- Architecture and design choices
+- Reviewing PRs
+- Debugging and recovering when blocked
+
+- Strong proficiency with React.js and Node.js, with experience using Express.js or NestJS to build scalable backend systems that support complex business logic.
+- Experience designing and integrating REST APIs.
+- Upper-Intermediate English (B2).
+
+Bonus:
+
+- Computer Science or related education.
+- Python programming experience.
+- Strong understanding of algorithms and data structures.
+
+You will be part of building better AI systems by helping improve the quality, accuracy, and reliability of the answers they provide. If you want to use your engineering skills in a fast-growing AI field, this role is a strong opportunity to contribute to the future of AI-assisted development.
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Ukrainian Native
+
+Published 14 September
+
+325 views
+
+·
+
+133 applications
+
+Response activity: Low
+
+Last responded 5 days ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 3 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- Ukrainian Native
+
+- Fullstack
+
+- Employment: Fulltime
+
+- Domain: SaaS
+
+- Outsource
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 5 days ago
+
+📊 $2500-3700 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

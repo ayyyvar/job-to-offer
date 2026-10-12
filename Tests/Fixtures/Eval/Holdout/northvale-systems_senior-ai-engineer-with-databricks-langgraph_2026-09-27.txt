@@ -1,0 +1,60 @@
+Senior AI Engineer with Databricks, LangGraph | Remote Work With Northvale
+
+Skip To Main Content
+
+Back to Search
+
+Senior AI Engineer with Databricks, LangGraph
+
+Remote in Kazakhstan
+
+AI Solution Engineering
+
+apply
+
+FacebookLinkedInSend via email
+
+Looking for something else?
+
+Find a vacancy that works for you. Send us your CV to receive a personalized offer.
+Find me a job
+
+We are looking for a Senior AI Engineer to support technical enablement initiatives, bootcamps, and workshop delivery.
+
+Responsibilities
+
+- Facilitate technical bootcamps and hands-on enablement sessions
+
+- Deliver code-first learning experiences rather than slide-based training
+
+- Build demos, labs, and reusable enablement assets
+
+- Design workflows, automations, and solution bundles that accelerate adoption and improve enablement outcomes
+
+- Travel and deliver sessions onsite as needed
+
+- Build expertise in emerging technologies and apply them rapidly to enablement content
+
+Requirements
+
+- 3+ years of experience in AI Engineering and software development
+
+- Proficiency in Python, including advanced backend development
+
+- Expertise in LangGraph and MLflow, with at least 2 years of hands-on experience in each
+
+- Skills in Databricks, CI/CD, MCP (Model Context Protocol), and A2A (Agent-to-Agent)
+
+- Familiarity with AI-assisted development tools such as Claude Code, Cline, and GitHub Copilot
+
+- Excellent technical storytelling and communication skills
+
+- Capability to facilitate hands-on workshops and bootcamps confidently
+
+- English proficiency at B2 level or higher
+
+Nice to have
+
+- Skills in designing workflows and automation solutions that improve processes and enhance enablement offerings
+
+- Familiarity with Spec-Driven Development practices

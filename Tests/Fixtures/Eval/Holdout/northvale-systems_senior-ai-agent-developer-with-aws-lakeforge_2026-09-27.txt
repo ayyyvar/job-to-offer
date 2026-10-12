@@ -1,0 +1,64 @@
+Senior AI Agent Developer with AWS, Databricks | Remote Work With Northvale
+
+Skip To Main Content
+
+Back to Search
+
+Senior AI Agent Developer with AWS, Databricks
+
+Remote in Georgia, & 4 others
+
+AI Solution Engineering
+
+apply
+
+FacebookLinkedInSend via email
+
+Looking for something else?
+
+Find a vacancy that works for you. Send us your CV to receive a personalized offer.
+Find me a job
+
+Location-specific conditions & benefits*
+
+Choose an option
+
+We are looking for a hands-on Senior AI Agent Developer to build, deploy, and maintain ML/AI solutions in production, bringing strong end-to-end experience from model development through deployment, monitoring, and scaling.
+
+Responsibilities
+
+- Design, build, and optimize ML/AI models and pipelines
+
+- Deploy models to production, ensuring scalability, reliability, and performance
+
+- Build and maintain MLOps workflows, including CI/CD, model monitoring, and retraining
+
+- Work with large-scale data to engineer features and prepare training datasets
+
+- Collaborate with data engineers, product, and business teams to deliver solutions
+
+- Communicate effectively with stakeholders, sharing progress, insights, and outcomes clearly
+
+- Contribute to a collaborative and supportive team culture as a strong team player
+
+- Troubleshoot and continuously improve models running in production
+
+- Follow best practices for code quality, documentation, and responsible AI
+
+Requirements
+
+- 3+ years of experience building and deploying ML/AI solutions in production environments
+
+- Expertise in AWS and Databricks for building and scaling ML/AI pipelines
+
+- Proficiency in MLOps practices, including CI/CD, model monitoring, and retraining workflows
+
+- Skills in feature engineering and preparing training datasets from large-scale data
+
+- Background in collaborating with cross-functional teams, including data engineers, product, and business stakeholders
+
+- Competency in clear stakeholder communication, sharing progress, insights, and outcomes
+
+- Understanding of best practices for code quality, documentation, and responsible AI
+
+- English proficiency at B2 level or higher

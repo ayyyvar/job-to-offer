@@ -1,0 +1,152 @@
+Senior AI Engineer at TalkYield.ai – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+Senior AI Engineer
+
+TalkYield.ai
+
+Copy link Copied
+
+$$$$
+
+Product
+
+About TalkYield.ai
+
+TalkYield.ai was founded by Arkady Belov (founder of Veeam) and Oleg Marin (founder of Revenue Grid).
+
+We are building an agentic sales automation for post-CRM era. The AI-native product combines structured and unstructured data, LLM workflows, and agentic automation to help sales people to focus properly, work more efficiently and automate repetitive sales processes.
+
+The product is already being tested by early customers. We are growing the core engineering team and looking for people who want to work on real product systems with direct impact on architecture, quality, and speed of delivery.
+
+About the role
+
+We are looking for a Senior Generative AI Engineer with 5+ years of commercial Python experience and hands-on experience building production GenAI / RAG systems.
+
+This is a hands-on engineering role focused on:
+
+- Python backend
+- LLMs and RAG
+- AI Copilot / assistant workflows
+
+We are looking for someone who can take a problem, propose a practical solution, and move it to production.
+
+What you will do
+
+- Design, build, deploy, and maintain production GenAI / RAG pipelines
+- Integrate LLMs and agentic assistants into product workflows
+- Improve latency, reliability, scalability, and cost-efficiency of AI systems
+- Evaluate and implement new GenAI, multi-agent, and orchestration frameworks
+- Contribute to architecture and technical decisions across the platform
+
+What we are looking for
+
+- 5+ years of commercial Python experience
+- Strong backend experience with FastAPI, APIs, webhooks, Docker, Kubernetes, Git, and CI/CD
+- Commercial experience with LLMs in production
+- Strong hands-on experience with RAG, retrieval workflows, embeddings, and vector search
+- Experience with LangChain, LangGraph, LangSmith, or similar frameworks
+- Good knowledge of SQL, Pandas, ETL, data cleaning, and ingestion pipelines
+- English: B2 or higher
+- High ownership, independence, and product mindset
+
+Nice to have
+
+- Multi-agent LLM systems
+- Knowledge graphs, graph databases, or graph-based retrieval
+- Kafka, Azure Event Hub, or other event-driven systems
+- Azure cloud infrastructure
+- Production ML / NLP systems
+- Evaluation, tracing, observability, and optimization of AI pipelines
+- Graph algorithms or tools like NetworkX
+
+What we offer
+
+- Remote-first setup
+- Flexible schedule aligned with European time zones
+- A core engineering role in an AI-native product
+- Direct influence on technical decisions and architecture
+- Real ownership and visible product impact
+
+If you have strong Python backend fundamentals and real production GenAI / RAG experience, we’d love to talk.
+
+Required domain experience
+
+SaaS 3 years
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Published 22 April · Updated 21 September
+
+617 views
+
+·
+
+179 applications
+
+Response activity: Low
+
+Last responded 6 days ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 5 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- ML / AI
+
+- Employment: Fulltime
+
+- Domain: SaaS
+
+- Product
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 6 days ago
+
+📊 $4000-6000 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

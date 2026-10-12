@@ -1,0 +1,10 @@
+// Signing and IDs for every target. A fork builds with these defaults on the simulator.
+// To sign for a device, create Local.xcconfig next to this file (gitignored) with your values:
+//   APP_BUNDLE_ID = com.yourname.jobscout
+//   APP_GROUP_ID = group.com.yourname.jobscout
+//   DEVELOPMENT_TEAM = ABCDE12345
+// Then run `xcodegen generate`. Do not set signing in the Xcode UI: regeneration resets it.
+APP_BUNDLE_ID = com.example.jobscout
+APP_GROUP_ID = group.com.example.jobscout
+DEVELOPMENT_TEAM =
+#include? "Local.xcconfig"

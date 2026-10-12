@@ -1,0 +1,116 @@
+AI Data Engineer (Growth and Personalization) at Staffnook – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Engineer
+
+AI Data Engineer (Growth and Personalization)
+
+Staffnook
+
+Copy link Copied
+
+$$$$
+
+Product
+
+We're looking for an AI & Data Engineer to build the data and AI backbone of a livestream shopping and social marketplace platform for the Middle East - one that combines real-time auctions and social engagement into a single automated, data-driven product.
+
+The audience pipelines, personalization logic and AI agents for this platform don't exist yet. You build them from scratch and own how they run in production.
+
+What you'll do
+
+Growth Data Activation (MarTech)
+
+- Build automated audience pipelines from the warehouse into marketing platforms - Meta CAPI, Google Ads, Braze, Reachloop, WhatsApp API.
+
+Lifecycle Automation & Personalization
+
+- Design behavior-based triggers (cart abandonment, livestream reminders) and ranking/recommendation logic for products and live shows.
+
+Practical AI Integration
+
+- Deploy production-ready LLM workflows and AI agents for operational needs - seller onboarding, content moderation, automated customer support - with proper cost and evaluation guardrails.
+
+Who we're looking for
+
+Must have:
+
+- 3-4 years of experience in Data Engineering, Software Engineering, or Data Architecture.
+- Strong, production-grade Python and SQL.
+- Proven experience building OLAP data warehouses (ClickHouse, BigQuery, Snowflake, Redshift etc)
+- Experience with event tracking and identity resolution - Segment, RudderStack, PostHog.
+- Practical experience integrating LLMs/RAG into real production systems - not just prompts or demos.
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Ukrainian C2 - Proficient
+
+Published 25 September
+
+54 views
+
+·
+
+6 applications
+
+Last responded 15 minutes ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 3 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- Ukrainian C2 - Proficient
+
+- Data Engineer
+
+- Employment: Fulltime
+
+- Domain: E-commerce / Marketplace
+
+- Product
+
+Apply for the job
+
+Last responded 15 minutes ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

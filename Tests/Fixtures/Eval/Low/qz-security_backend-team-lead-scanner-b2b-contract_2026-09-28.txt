@@ -1,0 +1,72 @@
+Job opportunity: Backend Team Lead - Scanner (B2B Contract)
+
+We Analyzed 15,400+ MCP Servers and Found a Security Mess
+Read the Report
+
+Rethink cloud security in an AI-driven era. Watch our webinar with James Berthoty and Chris Lindsey
+Save your spot
+
+Announcing QZ Cloud: CNAPP Coverage Plus Runtime Security for AI Agents
+Read More
+
+Get a Demo
+
+&larr; All Jobs
+
+Backend Team Lead - Scanner (B2B Contract)
+
+Poland · Full-time
+
+About The Position
+
+QZ Security secures the AI-driven SDLC from prompt to production. We eliminate critical, real-time risks from AI code generation through cloud runtime by doing what conventional tools can’t: unifying development and cloud context to stop vulnerabilities right at the source. At QZ, we’re building the future of cybersecurity for the AI era. If you’re looking to work on disruptive technology with an amazing team, you belong here.
+
+We’re growing fast and looking for a Backend Team Lead to join our Engineering team and play a key role in leading technical execution, driving engineering excellence, and helping our team deliver scalable, high-quality products.
+
+This is a high-impact, hands-on leadership role where you’ll work closely with Engineering, Product, Customer Success, and customers, owning execution across multiple workstreams while helping shape technical decisions from initial design through production.
+
+If you’re hands-on, technically strong, AI-driven, and passionate about developing people and building scalable systems, we’d love to meet you.
+
+Responsibilities
+
+What You’ll Be Doing
+
+Leadership & Sprint Execution
+
+- Ownership: Lead the team’s execution across several workstreams, ensuring high-quality delivery within every sprint.
+- Strategic Planning: Own the Sprint Planning process
+- Coordination: Act as the primary bridge between your team and other departments to remove blockers and support cross-team dependencies.
+- Growth & Velocity: Continuously improve team velocity and individual capabilities through coaching, mentoring, and identifying skill gaps.
+
+Technical Excellence & Design
+
+- Robust Architecture: Own the technical design of team features, ensuring they are scalable, reliable, and "clean."
+- Hands-on Contribution: Lead by example by participating in high-scale, cloud-based development (AWS, MongoDB) and conducting rigorous code reviews.
+- Product Collaboration: Work closely with Product Managers to shape features from initial concept through to production.
+
+Customers Facing
+
+- Own Customers Facing Activities: Participate in technical sessions with customers.
+- Lead Domain: Be a focal point for your domain related discussions, own the communication with QZ internal Customer Success teammates.
+- Product Focus: Lead discussions and technical decisions related to the enhancements and new features planning.
+
+AI-First & Performance Mentality
+
+- AI-First Mentality: Integrate AI tools and workflows into the daily development lifecycle (e.g., AI-assisted coding, automated testing, and prompt-driven prototyping) to act as a force multiplier for the team.
+- Efficiency & Quality: Drive a "Get Things Done" culture where speed does not sacrifice stability. You are responsible for ensuring the team uses the best modern tools to work smarter, not harder.
+
+Requirements
+
+What We’re Looking For
+
+- Experience: 6+ years of hands-on development experience, with at least 3–5 years in a leadership role.
+- Technical Stack: Deep expertise in Node.js (must-have) and React (preferred). Familiarity with AWS (must-have). Python experience is a plus.
+- The "AI-First" Spark: You are an early adopter of AI technologies and are passionate about finding ways to use AI to improve developer experience and system performance.
+- Outcome-Driven: A proven track record of managing project execution and delivering end-to-end features in a fast-paced environment.
+- Communication: Strong interpersonal skills with the ability to lead a global team and communicate complex technical decisions to non-technical stakeholders.
+
+Apply for this position
+
+&times;
+
+▶ ⏸ ⛶ ⛶

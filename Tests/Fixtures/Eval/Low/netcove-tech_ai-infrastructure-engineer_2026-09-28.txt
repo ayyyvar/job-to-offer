@@ -1,0 +1,171 @@
+AI Infrastructure Engineer at netcove.tech – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Sysadmin
+- Kyiv
+
+AI Infrastructure Engineer
+
+netcove.tech
+
+Copy link Copied
+
+$$$
+
+🪖 DefTech Product
+
+Cyber Harbor is a fast-growing Ukraine-based company founded by engineers and researchers who helped defend critical infrastructure during the war. Our work is shaped by real-world experience, and we build AI-powered systems designed for complex, high-stakes environments.
+
+We are currently looking for a AI Infrastructure Engineer who will take primary responsibility for the physical infrastructure behind our AI-powered platform. This role is focused on building and operating high-performance server environments within secure, closed networks. You will design, assemble, and maintain the compute and storage infrastructure that supports large-scale AI pipelines, RAG systems, and data processing workloads.
+
+Please note that this role is based in Kyiv and is not fully remote. The infrastructure you will support runs on physical servers deployed in secure environments, so regular visits to(mostly local) data centers are an essential part of the job. From time to time, you will need to be on-site to assemble hardware, perform maintenance, troubleshoot issues, and support infrastructure upgrades.
+
+What You Will Do
+
+- Design and deploy physical server infrastructure for AI workloads, vector search systems, and large-scale data pipelines.
+- Assemble and configure servers with CPU, GPU, storage, and high-speed networking components.
+- Build and maintain compute nodes used for AI model inference, training, and large-scale data processing.
+- Deploy and maintain Linux-based server environments used by AI engineers, data engineers, and platform services.
+- Configure high-performance storage for large datasets, embeddings, and model artifacts.
+- Plan and maintain connectivity between compute nodes, storage systems, and internal services.
+- Monitor hardware health, system performance, storage utilization, and network throughput.
+- Diagnose and resolve hardware failures, disk issues, networking problems, and OS-level incidents.
+- Work closely with AI/ML engineers, data engineers, and DevOps teams to ensure the infrastructure can reliably support demanding AI workloads.
+- Maintain secure infrastructure in isolated or restricted network environments.
+- Document infrastructure architecture, server configurations, and operational procedures.
+
+What You Need to Join Us
+
+- Strong hands-on experience administering Linux servers in production environments.
+- Practical experience working with physical servers and data center hardware.
+- Experience assembling or configuring servers with GPUs, NVMe storage, RAID controllers, and high-speed networking.
+- Understanding of infrastructure requirements for AI systems, including data pipelines, model serving, and vector databases.
+- Familiarity with storage systems used for large datasets and machine learning workloads.
+- Solid networking knowledge, including VLANs, routing, high-throughput networking, and troubleshooting connectivity issues.
+- Experience monitoring system health and diagnosing infrastructure problems.
+- Ability to operate infrastructure in secure or isolated environments.
+- Strong sense of ownership and the ability to manage critical infrastructure independently.
+
+Why Join Us
+
+- Build the backbone of an AI platform - design and operate the infrastructure that powers large-scale RAG and AI systems.
+- Work on meaningful problems - support systems used in real-world cybersecurity and data analysis operations.
+- Military Deferment - available for full-time employees.
+- Flexible Work Format - a results-focused environment with flexibility, while staying hands-on with physical infrastructure when needed.
+
+–––––––––––––––––––––––––––––––Рідною–––––––––––––––––––––––––––––––
+
+Cyber Harbor - українська компанія, заснована інженерами та дослідниками, які брали участь у захисті критичної інфраструктури під час війни. Ми спираємося на реальний практичний досвід і створюємо AI-powered системи для складних середовищ, де помилка може мати високу ціну.
+
+Зараз ми шукаємо AI Infrastructure Engineer, який візьме на себе ключову відповідальність за фізичну інфраструктуру, на якій працює наша AI-powered платформа. У цій ролі основний фокус - побудова та підтримка високопродуктивного серверного середовища в захищених закритих мережах. Ви будете проєктувати, збирати та підтримувати обчислювальну й storage-інфраструктуру, яка забезпечує роботу масштабних AI pipelines, RAG systems та data processing workloads.
+
+Зверніть увагу: ця роль передбачає роботу в Києві та не є fully remote. Інфраструктура, з якою ви працюватимете, розгорнута на фізичних серверах у захищених середовищах, тому регулярні виїзди до локальних data centers є важливою частиною цієї роботи. Час від часу потрібно буде бути на місці, щоб збирати обладнання, виконувати технічне обслуговування, усувати несправності та підтримувати інфраструктурні оновлення.
+
+Що ви будете робити
+
+- Проєктувати та розгортати фізичну серверну інфраструктуру для AI workloads, vector search systems і масштабних data pipelines.
+- Збирати та налаштовувати сервери з CPU, GPU, storage і компонентами високошвидкісної мережевої інфраструктури.
+- Будувати та підтримувати compute nodes для AI model inference, training і великомасштабної обробки даних.
+- Розгортати та підтримувати Linux-based серверні середовища, з якими працюють AI engineers, data engineers і platform services.
+- Налаштовувати високопродуктивне сховище для великих датасетів, embeddings і model artifacts.
+- Планувати та підтримувати мережеву взаємодію між compute nodes, storage systems і внутрішніми сервісами.
+- Моніторити стан обладнання, продуктивність систем, використання сховищ і пропускну здатність мережі.
+- Діагностувати та усувати апаратні збої, проблеми з дисками, мережею та інциденти на рівні операційної системи.
+- Тісно взаємодіяти з AI/ML engineers, data engineers і DevOps teams, щоб інфраструктура стабільно підтримувала складні AI workloads.
+- Підтримувати безпечну інфраструктуру в ізольованих або обмежених мережевих середовищах.
+- Вести технічну документацію щодо архітектури інфраструктури, конфігурацій серверів і операційних процедур.
+
+Що нам важливо
+
+- Сильний практичний досвід адміністрування Linux-серверів у production-середовищі.
+- Практичний досвід роботи з фізичними серверами та серверним обладнанням рівня data center.
+- Досвід збирання або конфігурації серверів із GPU, NVMe storage, RAID-контролерами та високошвидкісною мережею.
+- Розуміння інфраструктурних вимог AI systems, зокрема для data pipelines, model serving і vector databases.
+- Знайомство із системами зберігання даних для великих датасетів і machine learning workloads.
+- Сильні знання мережевої інфраструктури, зокрема VLAN, routing, high-throughput networking і діагностики проблем зі з’єднанням.
+- Досвід моніторингу стану систем і виявлення інфраструктурних проблем.
+- Здатність працювати з інфраструктурою в захищених або ізольованих середовищах.
+- Високий рівень відповідальності, самостійності та здатність самостійно підтримувати критично важливу інфраструктуру.
+
+Чому варто приєднатися
+
+- Будувати основу AI-платформи - ви проєктуватимете та підтримуватимете інфраструктуру, на якій працюють масштабні RAG та AI systems.
+- Працювати над задачами з реальним значенням - ви підтримуватимете системи, що застосовуються в реальних сценаріях кібербезпеки та аналізу даних.
+- Бронювання - доступне для full-time працівників.
+- Гнучкий формат роботи - середовище з фокусом на результат і достатньою гнучкістю, водночас із потребою працювати hands-on з фізичною інфраструктурою, коли це необхідно.
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Ukrainian C2 - Proficient
+
+Published 4 March · Updated 24 September
+
+164 views
+
+·
+
+10 applications
+
+Last responded more than a month ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 3 years of experience
+
+- Hybrid Remote
+- Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- Ukrainian C2 - Proficient
+
+- Sysadmin
+
+- Employment: Fulltime
+
+- Domain: DefTech
+
+- Product
+
+- Office: Ukraine (Kyiv)
+
+Apply for the job
+
+Last responded more than a month ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

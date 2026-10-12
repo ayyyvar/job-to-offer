@@ -1,0 +1,156 @@
+Staff Backend Engineer - MPC Custody Platform | HR.ge
+
+Back to search results
+
+Previous
+
+Next
+
+17 Sep - 17 Oct
+
+Vip
+
+Staff Backend Engineer - MPC Custody Platform
+
+Tbilisi
+
+Keepsafe
+
+Apply (On another website)
+
+Information about vacant position:
+
+- Specialization/Specialty: Information technologies Programming/Engineering, Back-end Development
+
+- Industry / Field: Software & IT Services Information Technology & Services Consumer Products and Services Consumer Services
+
+- Seniority level: Senior-Level
+- Schedule: Full-time
+- Employment form: Fixed-term contract
+- Work Location: Work from home
+
+Employer requirement:
+
+- Experience is mandatory: Experience from 3 years
+- Specialization/Specialty(Mandatory):
+Information technologies Programming/Engineering, Back-end Development
+
+- Industry / Field(Mandatory):
+Software & IT Services Information Technology & Services
+
+Consumer Products and Services Consumer Services
+
+- Seniority level: Senior-Level
+- Education level(s): Bachelor, Master, Doctor, College, Other, High School
+- Languages: English
+
+Keepsafe is pleased to announce a vacancy for the position of Staff Backend Engineer, MPC Custody Platform
+
+Description
+Keepsafe is an MPC-based crypto custody platform for institutional and retail clients, running threshold signing across HSM and Ledger hardware. We're scaling toward Series A, launching our productized platform in 2026, and publishing original cryptographic research alongside the product.
+
+We're hiring a Staff Engineer to design and ship the custody platform's hardest backend code. This is a hands-on IC role with real technical leadership — no people management — where you drive non-trivial initiatives through code, RFCs, and mentorship.
+
+You'll shape architecture in your area of ownership; platform-wide decisions sit with technical leadership. We're AI-forward (Claude Code, Cursor, Codex), and we need engineers who can read AI-generated code critically and catch what it misses — not just prompt it.
+
+You'll naturally gravitate toward either the security-critical core (MPC, threshold signing, HSM/Ledger integration, key lifecycle) or the faster-moving periphery (chain adapters, integrations, APIs/SDKs).
+
+What you'll do
+
+- Design, write, and ship critical platform components: policy engine, signing orchestration, key lifecycle workflows, recovery flows, approvals, audit trails, multi-tenant wallet and account services.
+- Lead non-trivial cross-cutting initiatives in your area — through written RFCs, design reviews, and code, not through hierarchy.
+- Build high-load, multi-tenant SaaS systems: tenant isolation, quotas, rate limits, backpressure, concurrency control, predictable latency under spikes.
+- Distributed systems & reliability: idempotency, retries, outbox/inbox, event-driven workflows, sagas and state machines, replay, graceful degradation.
+- Security-by-design: least privilege, secret handling, mTLS/JWT, tamper-evident logs, audit-ready data models — designed for SOC 2, ISO 27001, and DORA scope from day one.
+- Performance & data: profiling, load testing, benchmarking, contention analysis, GC tuning; strong relational modelling (Postgres or equivalent), migrations, indexing, clear consistency boundaries.
+- AI-assisted development as a core competency: ship production code with Claude Code, Cursor, and Codex; build the prompt and agent patterns that work for your area; contribute to the company's AI engineering practices; know when to use AI heavily (periphery, integrations, tests, docs) and when not to (cryptographic core, signing paths) where blind generation is unsafe.
+- Set patterns and shared libraries for the services your area touches; raise the bar through code review and example.
+- Own features end-to-end: design notes / RFCs, code, tests, observability, rollout, on-call. No "throw it over the wall" handoffs.
+- Mentor senior engineers: your reviews and your written designs are the strongest signal to the rest of the team.
+
+Requirements
+Must-have experience
+
+- Strong CS fundamentals — our primary screening criterion. You can reason from first principles about concurrency, distributed systems, consistency models, networking, and OS behaviour. You know not just what locks and channels do, but why and when. You understand what's happening under the hood, not only at the API level.
+- Ownership mindset. You've owned non-trivial production systems end-to-end — design, ship, measure, improve, on-call. You don't wait to be told what to do, and you don't ship code you don't understand.
+- 10+ years backend engineering, including 3+ years operating at Staff level (or equivalent senior IC scope). Strong production experience in a modern systems language — Go, Rust, Java, C++, or comparable. Hands-on Go experience, or genuine readiness to ramp on Go in the first month.
+- Track record of Staff-level technical leadership through code, RFCs, and influence — without formal authority over teams. You can point to RFCs you wrote that the team adopted, initiatives you drove without being the manager, patterns you set that outlasted you.
+- Proven track record building high-load, multi-tenant SaaS in production (HA, incident response, SLOs).
+- Hands-on with modern backend stacks: gRPC/HTTP, queues/streams, caching, relational databases, Kafka/NATS or equivalent.
+- Strong testing discipline: unit/integration/contract tests, testability-first design, deterministic CI.
+- Strong observability habits: structured logging, metrics, tracing, end-to-end production debugging.
+- REQUIRED: production-grade use of modern AI coding tools (Claude Code, Cursor, Codex, or comparable). You can point at what you've built with them. You read AI-generated code as a hostile reviewer, not a grateful recipient — you have instincts for what AI tends to get wrong, and you don't ship code you couldn't have written yourself.
+
+Nice to have
+
+- Exposure to custody, wallets, or signing systems (MPC, HSM, TEE, key management, approvals).
+- Hardware wallet integration (Ledger).
+- Multiple blockchain ecosystems (EVM and Bitcoin minimum; Cosmos, Solana, others a plus).
+- Built custom agents, MCP integrations, or in-repo AI workflows that compounded a team's productivity.
+- Designed and run evals for AI-generated code (correctness, security, style).
+- Kubernetes and service mesh in production; SRE practices.
+- Regulated-environment experience (fintech, security audits, compliance-driven engineering).
+- Threat modelling and security review participation.
+- Familiarity with SOC 2, ISO 27001, and DORA — enough to design for them.
+
+What this role is NOT
+
+- A people management role.
+- A pure architecture / whiteboard role. You write production code in this codebase every week, and platform-wide architectural ownership sits elsewhere.
+- A research-only cryptography role. You collaborate with our Cryptography Researcher; your focus is platform engineering, not protocol design.
+- Pure feature ticket execution. If you wait to be told what to do, this won't work.
+
+Benefits
+
+- A Staff IC role with real technical leadership — no people management, no sprint mechanics gauntlet, no architecture-by-committee.
+- An AI-forward engineering culture with budget and autonomy for the tooling, models, and agents you need.
+- Direct peers in cryptography research, security architecture, product, and delivery — you're not the only senior voice in the room.
+- Fully remote, any time zone with reasonable overlap with EU/CIS hours.
+- Competitive comp at the Staff engineer band; equity participation; full benefits.
+- A product approaching Series A with paying institutional customers and a published cryptographic research line
+
+Interested candidates, please click the "Apply (On another website)" button.
+
+Apply (On another website)
+
+Information technologies
+
+Programming/Engineering,
+
+Back-end Development
+
+Views
+
+Unique views
+
+Similar announcements
+
+Senior Backend Developer / PHP
+
+Tbilisi
+
+TAZE Technologies
+
+SOC Detection Engineer – Senior
+
+Tbilisi
+
+PLAYVEND
+
+Full-Stack Engineer - Go + React
+
+Tbilisi
+
+Keepsafe
+
+Junior Configuration Engineer
+
+Tbilisi
+
+Combined Ratio Solutions
+
+Manual QA Engineer
+
+Tbilisi
+
+Scapp

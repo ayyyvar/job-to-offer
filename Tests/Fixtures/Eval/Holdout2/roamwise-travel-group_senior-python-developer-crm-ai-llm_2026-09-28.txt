@@ -1,0 +1,180 @@
+Вакансия Senior Python Developer (CRM — AI/LLM) в Алматы, работа в компании Roamwise
+
+Чтобы сайт был удобнее, используем cookies
+
+Понятно
+
+Для работы с нашим сайтом необходимо, чтобы Вы включили JavaScript в вашем браузере.
+
+Ищу работу
+
+Ищу работуИщу работуИщу сотрудника
+
+Ищу работу
+
+Ищу сотрудника
+
+Сервисы
+
+Помощь
+
+Ещё
+
+Поиск
+
+Москва
+
+Войти
+
+Войти
+
+Создать резюме
+
+Senior Python Developer (CRM — AI/LLM)
+
+Уровень дохода не указан
+
+Опыт работы: более 6 лет
+
+Полная занятость
+
+График: 5/2
+
+Рабочие часы: 8
+
+Формат работы: удалённо
+
+Сейчас эту вакансию смотрят 3 человека
+
+Откликнуться
+
+ТОО Roamwise
+
+Напишите телефон, чтобы работодатель мог связаться с вами
+
+Номер телефона
+
+Продолжить
+
+Продолжая, вы принимаете соглашение и политику конфиденциальности
+
+Who we need
+
+We are looking for a Senior Backend Engineer (Python) to join the HQ Automation division and our AI/LLM Team, which focuses on developing automation solutions to improve the efficiency of our Customer Service teams using modern technologies.
+
+The AI/LLM Team develops solutions on top of our CRM/ERP platform, contributes to building AI/LLM models, develops its own services, and extends the functionality of the Camunda orchestration platform to achieve its goals.
+
+Our CRM/ERP platform is built with Python (Django/Aiohttp/RQ). The primary database is PostgreSQL, while Elasticsearch is used for fast search across system objects. The frontend is built with React.js, and Camunda runs on-premises on our own infrastructure.
+
+Join us to work with a great team on developing and implementing effective and exciting solutions using modern technologies, helping provide people around the world with the best possible travel experience — and getting plenty of positive feedback along the way!
+
+Key Responsibilities:
+
+- Backend development of the CRM/ERP product using Python, primarily with the Django framework;
+- Working with Camunda, including supporting its infrastructure;
+- Integrating with LLM models and developing and maintaining services for working with them;
+- Designing service architecture, making technical decisions, decomposing and estimating tasks, and participating in the Code Review process;
+- Consulting with System Analysis, QA, and Technical Support teams;
+- Managing development projects within the stream and coordinating team resources to achieve project goals.
+
+Key qualifications
+
+- 5+ years of professional software development experience, including experience in a Senior Developer role.
+
+Must-have:
+
+- 5+ years of Python development experience with Django or FastAPI;
+- Strong knowledge of PostgreSQL and the ability to write raw SQL queries;
+- Experience designing APIs and integrations;
+- Experience working with high-load systems and large databases;
+- Good understanding of GitFlow and CI/CD processes, including Docker and Kubernetes;
+- English proficiency at B1 (Intermediate) or above, including spoken English.
+
+Nice to have:
+
+- Experience working with Camunda and pyzeebe;
+- Experience working with AI/LLM models and an understanding of how they work.
+
+We offer you
+
+- Flexible schedules and opportunity to work remotely.
+- Ambitious and supportive team who love what they do, appreciate each other, and grow together.
+- Internal programs for adaptation and training, development of soft skills, and leadership abilities.
+- Partial compensation for participating in external training and conferences.
+- Corporate English school: Group and individual lessons, speaking clubs with colleagues from all over the world.
+- Corporate prices on hotels and travel services.
+- MyTime Day Off — an extra non-working day without loss of compensation.
+
+Ключевые навыки
+
+- Python
+
+- Django Framework
+
+- FastAPI
+
+- SQL
+
+- Camunda
+
+- Pyzeebe
+
+- AI
+
+- LLM
+
+- Английский — B1 — Средний
+
+Соискателям с особенностями здоровья
+
+- Нарушения слуха
+
+- Нарушения мобильности
+
+Задайте вопрос работодателю
+
+Он получит его с откликом на вакансию
+
+Где располагается место работы?
+
+Какой график работы?
+
+Вакансия открыта?
+
+Какая оплата труда?
+
+Как с вами связаться?
+
+Другой вопрос
+
+Где предстоит работать
+
+Алматы
+
+Вакансия опубликована 23 сентября 2026 в Алматы
+
+Откликнуться
+
+Вакансии из других подборок в Москве
+
+- Разработчик
+
+- Разработчик программного обеспечения
+
+- Главный программист
+
+- Главный разработчик
+
+- Старший разработчик
+
+- Старший программист
+
+- Специалист по интеграции
+
+- SQL developer
+
+- Программист
+
+- Python developer
+
+ТОО Roamwise

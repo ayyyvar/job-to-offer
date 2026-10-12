@@ -1,0 +1,360 @@
+Machine Learning Engineer – Wraithwork Labs – Berlin | Remote | Arbeitnow
+
+Arbeitnow is now in the UK and France
+Dismiss
+
+Close menu
+
+Popular Locations Categories Blog About
+
+Popular
+
+- Jobs with Visa Sponsorship
+- Jobs with Salary
+- 4 day work week jobs
+- Jobs with Relocation Package
+- English Speaking Jobs
+- Hiring Without Whiteboard Interviews
+- Germany Job Market Insights
+- Companies Hiring in Germany
+- Jobs by Locations
+
+Tools
+
+- Tax Calculator Germany - 2026
+- Netherlands Income Tax Calculator 2025
+- Sick pay calculator (Krankengeldrechner)
+- Tax Refund Calculator - Germany
+- Einbürgerungstest Online
+- Free Job Posting
+
+Locations
+
+- Aachen
+- Augsburg
+- Berlin
+- Bielefeld
+- Bochum
+- Bonn
+- Bremen
+- Cologne
+- Dortmund
+- Dresden
+- Dusseldorf
+- Frankfurt
+- Freiburg
+- Hamburg
+- Hanover
+- Karlsruhe
+- Leipzig
+- Mainz
+- Munich
+- Nuremberg
+- Potsdam
+- Stuttgart
+- United Kingdom
+- France
+- Switzerland
+
+Categories
+
+- AI
+- Android
+- Ausbildung
+- Backend
+- Customer Service
+- Customer Support
+- Data
+- Data Analyst
+- Data Engineer
+- Data Scientist
+- Design
+- DevOps
+- Developer
+- Engineering
+- Entwickler
+- Freelance
+- Frontend
+- Homeoffice
+- IT
+- Javascript
+- Junior
+- KI
+- Laravel
+- Marketing
+- Minijob
+- Nebenjob
+- PHP
+- Part Time
+- Praktikum
+- Product Manager
+- Python
+- QA
+- Quereinsteiger
+- Recruiter
+- Remote
+- Seo
+- Social Media
+- Software
+- Softwareentwicklung
+- Startup
+- Teilzeit
+- Werkstudent
+- iOS
+
+Blog - Popular articles
+
+- Probation Period (Probezeit)
+- Resigning your job in Germany
+- Blue Card in Germany
+- How to change jobs on Blue Card
+- Learning German (B1 level exam)
+- Schengen Tourist Visa from India
+- Driving license in Germany
+- Sick leave in Germany
+- Applying for German Citizenship
+- Surrending Indian Passport
+- Glossary
+
+About
+
+- About
+- Facebook
+- LinkedIn Page
+- Jobs API
+- Rate us on Google
+- Privacy
+- Terms
+- Imprint
+
+Post a Job
+
+Blog
+
+About
+
+Jobs in Germany
+
+Home | English Speaking Jobs | Wraithwork Labs | Machine Learning Engineer
+
+- Machine Learning Engineer
+
+Wraithwork Labs
+
+Berlin
+
+Remote Engineering
+3 days
+
+Remote Engineering
+
+Berlin
+
+3d
+
+At Wraithwork Labs, we're building AI-powered production scheduling software for manufacturers. Production scheduling is a complex problem: priorities change, machines go down, new orders come in and planners constantly need to adapt. Many factories still rely heavily on manual planning to manage this complexity.
+
+We approach this differently. Our technology combines reinforcement learning with Digital Twin environments to train AI agents in simulation, allowing manufacturers to create and optimize production schedules without relying on large historical datasets.
+
+We're already working with manufacturers across Europe, the US and Japan and partner with ERP and MES providers to bring our technology into real production environments. We're a small, international team based in Berlin with a flexible remote setup, and there's still a lot to build as we continue developing the product and bringing it to more manufacturers.
+
+Tasks
+
+As a Machine Learning Engineer, you'll work on the core AI behind our production scheduling software. You'll develop and improve our reinforcement learning agents, work on the Digital Twin environments they train in and help turn complex manufacturing problems into models that work in real factories.
+
+You'll have a lot of ownership over how we approach these problems and work closely with both our engineering team and customers. We're looking for someone who brings strong Python experience together with an understanding of manufacturing environments and wants to apply reinforcement learning to real-world production challenges.
+
+- Write robust, scalable and production-ready Python code
+- Provide code reviews, guidance, and mentorship to fellow developers to maintain high coding standards
+- Write unit and integration tests using tools such as unittest and pytest
+- Design, engineer and optimize features in the Digital Twin for reinforcement learning simulations using Python, NumPy and Pandas
+- Create, optimize and maintain training and evaluation scripts for RL agents
+- Set up and maintain Python environments using modern tools such as uv and conda
+- Work collaboratively using git (GitHub)
+- Participate in customer calls to understand requirements and translate them into actionable technical features
+- Brainstorm and develop ideas to improve the RL agent, including algorithms, reward functions and architecture
+
+Requirements
+
+Must haves
+
+- A background in Computer Engineering, Mathematics, Machine Learning, Industrial Engineering or a related field
+- 5+ years of experience with Python
+- 2+ years of experience in factory shopfloor operations as an engineer or planner, or 2+ years of experience working with ERP/MES systems for factories
+- Strong understanding of manufacturing processes across different production environments, including discrete manufacturing, line production and engineer-to-order
+- Basic understanding of reinforcement learning and experience developing or applying RL algorithms
+
+Nice to haves
+
+- 3+ years of experience in factory shopfloor operations as an engineer or planner, or 3+ years of experience working with ERP/MES systems for factories
+- Research experience in developing RL algorithms
+- Experience with CI/CD pipelines, particularly GitHub Actions
+- Experience with libraries and tools such as PyTorch, Optuna and MLflow
+
+Benefits
+
+- Ownership from day 1: Work in a small team with fast feedback and see the impact of what you build
+- Collaborate with a strong team: Work alongside ML specialists developing our AI optimization technology and software engineers building the production-grade systems around it
+- A supportive, open culture: clear communication, strong collaboration and flat hierarchies
+- Flexible working hours & hybrid setup: work remotely or from our Co-working space in Berlin Mitte, whatever helps you do your best work
+- Company laptop: We'll provide the equipment you need to do your work
+
+Sounds Like a Fit?
+
+If this sounds like your type of challenge, we'd love to hear from you! Don't worry if you don't tick every single box. If you're excited about the role, willing to learn and ready to take ownership, apply anyway!
+
+Application form
+
+Apply for the job by filling the job application form with your details
+
+First name
+
+Last name
+
+Email address
+
+CV / Resume
+.doc, .docx, .pdf, .rtf, .txt upto 10 MB
+
+I agree to the terms and conditions of Arbeitnow and JOIN and confirm that I have reviewed the privacy policy.
+
+Apply Share
+
+Prefer to apply directly? Try the company portal
+
+Your job application has been sent successfully. Good luck!
+
+Jobs at Wraithwork Labs
+
+- Software Engineer
+
+Berlin
+
+Remote Engineering
+
+3 days
+
+Remote Engineering
+
+3d
+
+Job recommendations
+
+- Machine Learning Engineer
+
+Sensmore
+
+Berlin
+
+Engineering Full Time
+4 days
+
+Engineering Full Time
+
+Berlin
+
+4d
+
+- Machine Learning Scientist
+
+Nucs AI
+
+Berlin
+
+Engineering Remote Experienced fulltime permanent
+1 month
+
+Engineering Remote Experienced fulltime permanent
+
+Berlin
+
+1mo
+
+- TF
+
+Senior Machine Learning Engineer
+
+Tools for Humanity
+
+Munich
+
+Engineering Full Time
+1 week
+
+Engineering Full Time
+
+Munich
+
+1w
+
+- Senior Machine Learning Engineer I
+
+SumUp
+
+Berlin
+
+1 month
+
+Berlin
+
+1mo
+
+- Senior Machine Learning Engineer I
+
+sumup
+
+Berlin
+
+Data Engineer/Scientist
+1 month
+
+Data Engineer/Scientist
+
+Berlin
+
+1mo
+
+- Senior/Staff Machine Learning Engineer
+
+Vestiairecollective
+
+Berlin
+
+Engineering Permanent contract
+1 week
+
+Engineering Permanent contract
+
+Berlin
+
+1w
+
+- Machine Learning Engineer (m/f/x)
+
+caronsale
+
+Berlin
+
+Data
+3 weeks
+
+Data
+
+Berlin
+
+3w
+
+- Research Engineer – Machine Learning & Medical Imaging
+
+Imfusion
+
+Munich
+
+Machine Learning Medical Imaging Python Experienced Permanent
+22 hours
+
+Machine Learning Medical Imaging Python Experienced Permanent
+
+Munich
+
+22h

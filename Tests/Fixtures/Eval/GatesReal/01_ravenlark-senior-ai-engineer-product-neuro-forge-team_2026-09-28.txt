@@ -1,0 +1,190 @@
+Ravenlark Senior AI Engineer | Welcome to the Jungle (formerly Otta)
+
+Senior AI Engineer, Ravenlark
+
+Product Neuro Forge Team
+
+Salary not provided
+
++ Stock options
+
+SQL
+
+MongoDB
+
+AWS
+
+Python
+
+Kafka
+
+Airflow
+
+MySQL
+
+RabbitMQ
+
+PyTorch
+
+FastAPI
+
+Senior and Expert level
+
+Remote from Europe
+
+App review management platform
+
+Open for applications
+
+App review management platform
+
+21-100 employees
+
+B2BMarketingAnalyticsSaaSeCommerce
+
+Open for applications
+
+Salary not provided
+
++ Stock options
+
+SQL
+
+MongoDB
+
+AWS
+
+Python
+
+Kafka
+
+Airflow
+
+MySQL
+
+RabbitMQ
+
+PyTorch
+
+FastAPI
+
+Senior and Expert level
+
+Remote from Europe
+
+21-100 employees
+
+B2BMarketingAnalyticsSaaSeCommerce
+
+Company mission
+
+To help businesses hear the voices of their customers - wherever they might be.
+
+Job
+
+Company
+
+Role
+
+Who you are
+
+- 5+ years of software development experience; strong production Python (asyncio)
+- 3+ years of hands-on ML/NLP experience with models shipped to production
+- Practical experience with LLMs: prompt engineering, RAG, fine-tuning open-source models (LoRA/PEFT), working with both commercial APIs and self-hosted models
+- Experience building model quality evaluation processes: metrics, eval datasets and pipelines, A/B testing
+- Confidence with the PyTorch and Hugging Face ecosystem (transformers, datasets, PEFT)
+- Proficiency in FastAPI for API development
+- Strong SQL skills (MySQL or PostgreSQL), experience with ORM frameworks (preferably SQLAlchemy)
+- Experience with unit testing (pytest)
+- Upper-intermediate English or higher
+
+Desirable
+
+- Experience serving open-source LLMs in production (vLLM, TGI, Triton) and working with GPU infrastructure
+- Experience with vector databases (e.g. pgvector)
+- Experience with agentic and orchestration frameworks (LangChain, LangGraph) and eval/observability tooling (MLflow, Langfuse)
+- Experience with data processing pipelines and automation (e.g. Airflow, Prefect)
+- Experience with cloud-based services (AWS), NoSQL databases (MongoDB), message brokers (RabbitMQ, Kafka)
+- Classical ML/NLP background (text classification, clustering, topic modeling)
+- Open-source contributions, publications, or pet ML projects you're proud of
+
+What the job involves
+
+- This fully remote role is for a Senior AI Engineer who will drive these capabilities end-to-end, from research and prototyping to production
+- You'll work with both commercial LLMs and open-source models, build training and evaluation pipelines, and ship ML-powered features used worldwide by app and game teams, as well as anyone working with digital user feedback
+- Own AI/ML features end-to-end: research, prototype, production, monitoring and iteration
+- Design and build LLM-powered features on top of reviews and ratings data: feedback categorization, summarization, reply generation, semantic search, anomaly detection, conversational and agentic scenarios
+- Work with commercial LLM APIs (OpenAI, Anthropic, Google) as well as open-source models (Llama, Mistral, Qwen, etc.): model selection, adaptation, fine-tuning, and deployment
+- Build and maintain pipelines for model training, fine-tuning, and quality evaluation: datasets, metrics, offline evals, LLM-as-a-judge, A/B tests
+- Develop RAG and semantic search capabilities: embeddings, vector storage, retrieval quality
+- Optimize quality, latency, and cost of LLM inference in production
+- Track state-of-the-art in NLP/LLM, run experiments and POCs, and turn the promising ones into product features
+- Collaborate with backend, product, and platform teams; contribute to the overall system architecture; write efficient, testable, secure, and documented code
+
+Application process
+
+- HR screening interview — 15 min
+- Backend Technical interview — 90 min
+- ML Technical interview — 90 min
+- Culture fit interview — 60 min
+- Recommendations check
+- Expected timeline: 2–4 weeks from application to offer
+
+Our take
+
+The flood of new apps for practical, social, and recreational use has generated intense competition between companies, an enhanced focus on customer retention, and contradictorily, less time for teams to follow up on customer complaints. Ravenlark is an App Review Management platform that saves money and time for companies that want to analyse and respond to comments on their product’s app store.
+
+Implementing tools that boost organic growth and customer reach, integrate analytical processes, and monitor where app performance needs improvement, Ravenlark’s clients include HubSpot and Lyft as well as more than 70,000 other leading mobile app companies. Ravenlark doesn’t scrimp on its database either, leveraging 2.4M reviews from App Store and 14M from Google Play for their database.
+
+Ravenlark has developed a distinctive and compressive suite of marketing and market research tools for its clients. Following a significant surge in growth during 2020 and 2021 (when app downloads peaked) the company is now entering a new phase, shifting its focus toward customer retention as overall app usage begins to stabilize after that period of exceptional demand.
+
+Freddie
+
+Company Specialist at Welcome to the Jungle
+
+Company
+
+Funding (last 2 of 6 rounds)
+
+Oct 2020
+
+$5.2m
+
+SERIES A
+
+Sep 2019
+
+$1.2m
+
+SEED
+
+Total funding: $7.5m
+
+Company HQ
+
+Kluuvi, Helsinki, Uusimaa
+
+Leadership
+
+Peter Vance
+(Co-Founder & CTO)
+
+Prior to co-founding Ravenlark in 2015, Peter was a Software Engineer at Roamwise and an Associate Software Engineer at Acronis.
+
+Evan Kroll
+(Co-Founder & COO)
+
+Evan previously co-founded MobiGear where they served as the CEO for 5 years. They were also an Advisor at Planyway, the Regional Head of B2C Marketing at Buongiorno, and COO at Media Express.
+
+Andrew Shaw
+(Co-Founder & CEO)
+
+Andrew previously served as the Head of Mobile at Roamwise. Prior to that, they were a Web Developer then CTO at TochkaK.
+
+Share this job
+
+View 2 more jobs at Ravenlark
+
+Apply
+
+Save

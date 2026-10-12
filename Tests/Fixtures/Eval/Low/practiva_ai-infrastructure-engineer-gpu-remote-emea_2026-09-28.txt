@@ -1,0 +1,98 @@
+AI Infrastructure Engineer (GPU) - Remote EMEA
+Location: Ukraine
+Workplace: Remote
+Employment: FullTime
+
+Location: Fully remote (EMEA timezone)
+Start date: ASAP
+Languages: Fluent English required
+Industry: Cloud Computing / AI / European Deep-Tech SaaS
+
+
+
+
+ABOUT THE ROLE
+
+Practiva is recruiting on behalf of a fast-scaling, well-funded distributed cloud infrastructure startup building next-generation AI-native cloud services. The company is redefining how compute is delivered by providing GPU-powered infrastructure for AI/ML workloads, secure storage, and high-speed data transfer through a decentralized architecture that significantly reduces environmental impact compared to traditional cloud providers.
+
+We are seeking a AI Infrastructure Engineer with strong experience in production-grade model serving and infrastructure for AI systems. This is a highly technical, hands-on role focused on building scalable, reliable, and efficient ML inference platforms powering real-time AI applications.
+
+You will be responsible for designing and operating the core infrastructure that serves machine learning models at scale. You will work closely with infrastructure, platform, and applied AI teams to ensure high availability, low latency, and cost-efficient inference systems. Strong ownership, production mindset, and experience with distributed GPU systems are essential.
+
+
+
+
+YOUR RESPONSIBILITIES
+
+ - Build and operate production-grade model serving infrastructure using frameworks such as vLLM, TGI, Triton, or equivalent
+
+ - Design and implement robust deployment pipelines with blue/green and canary rollout strategies for ML models
+
+ - Develop and maintain auto-scaling systems, multi-model serving architectures, and intelligent request routing layers
+
+ - Optimize GPU utilization, memory efficiency, network throughput, and model artifact storage performance
+
+ - Design observability systems for tracking inference latency, throughput, GPU usage, cost metrics, and system health
+
+ - Manage model registries and CI/CD pipelines enabling automated and reproducible model deployments
+
+ - Own the full lifecycle of ML systems from development through production, including operational support and on-call responsibilities
+
+ - Define engineering best practices and contribute to platform scalability in a fast-moving startup environment
+   
+   
+
+
+REQUIRED QUALIFICATIONS
+
+ - 4+ years of experience in ML Ops, Platform Engineering, SRE, or similar infrastructure roles focused on ML systems
+
+ - Hands-on experience with model serving frameworks such as vLLM, TGI, Triton, or equivalent
+
+ - Strong background in container orchestration and operating GPU-based workloads in production
+
+ - Experience with MLOps tooling including model registries, experiment tracking, and automated deployment pipelines
+
+ - Proficiency in Python and infrastructure-as-code tools (e.g., Terraform, Helm, or similar)
+
+ - Strong understanding of distributed systems, performance tuning, and production reliability engineering
+
+ - Ability to effectively use AI coding assistants to accelerate development and debugging workflows
+
+ - Ownership mindset with the ability to operate independently in a remote-first environment
+   
+   
+
+
+PREFERRED QUALIFICATIONS
+
+ - Experience with ML platforms such as Kubeflow, MLflow, or KubeAI
+
+ - Knowledge of GPU scheduling, CUDA/ROCm optimization, or multi-tenant inference systems
+
+ - Experience with cost optimization across different GPU types and inference workloads
+
+ - Background in early-stage startups or greenfield infrastructure projects
+
+ - Proven experience building production systems from scratch rather than maintaining legacy platforms
+   
+   
+
+
+WHY JOIN US
+
+ - Take ownership of critical infrastructure powering a rapidly scaling AI-native cloud platform
+
+ - Build foundational ML inference systems from the ground up in a high-growth, well-funded startup
+
+ - Work at the intersection of distributed systems, GPU computing, and sustainable cloud architecture
+
+ - Gain deep expertise in next-generation AI infrastructure and large-scale model serving systems
+
+ - Influence core engineering decisions and define best practices that will scale with the company.
+
+
+
+Practiva is committed to a fair, transparent, and inclusive recruitment process. We do not discriminate based on age, disability, gender, gender identity or expression, marital or civil partner status, pregnancy or maternity, race, religion or belief, sex, or sexual orientation.
+
+In accordance with GDPR, your personal data will be processed lawfully, fairly, and securely, and used solely for recruitment purposes, including sharing it with our client(s) for employment consideration.

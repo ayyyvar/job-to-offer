@@ -1,0 +1,111 @@
+Вакансия Senior Python Backend Engineer, работа в Billowmark, удалённо — getmatch — getmatch
+
+В приложении удобнее
+Установить
+
+Добавить в TelegramВойти
+
+Все вакансииPythonRemoteSenior
+
+Senior Python Backend Engineer
+
+in Billowmark
+
+6 000 —‍ 8 500 $/‍month gross
+
+📍 Worldwide
+
+Remote
+
+Position
+
+Python
+
+Seniority level
+
+Senior
+
+Apply
+
+Share
+
+Technologies / Tools
+
+Python
+
+Flask
+
+SQLAlchemy
+
+PostgreSQL
+
+Redis
+
+Celery
+
+SQL
+
+GitLab
+
+Billowmark helps 300+ medical groups accelerate and increase patient cash flow, automate the entire patient billing process, and increase patient satisfaction.
+
+Billowmark is hiring remote specialists who have already relocated from Russia, Belarus & live not more eastern than Armenia/Georgia/Dubai.
+
+Please, indicate the country where you are now.
+
+Useful links
+
+- “Billowmark wants to make paying healthcare bills easier so medical providers don’t lose $200B”: link.
+
+Team working hours
+
+Europe's timezones.
+
+Responsibilities
+
+- Collaborate with Founders and Core Team (Frontend, UX, etc.) to maintain a high bar for quality in a fast-paced, iterative environment.
+- Advocate for improvements to product quality, security, and performance.
+- Solve technical problems of moderate scope and complexity.
+- Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment.
+- Maintain and advocate for these standards through code review.
+- Recognize impediments to our efficiency as a team (“technical debt”), propose and implement solutions.
+- Represent Billowmark and its values in public communication around specific projects.
+- Ship small and midsized features and improvements with minimal guidance and support from other team members.
+- Collaborate with the team on larger projects.
+
+Requirements
+
+- Significant professional experience with Python, Flask, SQLAlchemy, PostgreSQL, Redis, Celery.
+- At least basic algorithms and data structure knowledge.
+- Understanding of race conditions and how to mitigate them by crafting concurrent code.
+- Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment.
+- Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions.
+- Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems, including SQL.
+- Comfort working in a highly agile, intensely iterative software development process.
+- Demonstrated ability to onboard and integrate with an organization long-term.
+- Positive and solution-oriented mindset.
+- Effective communication skills: regularly achieve consensus with peers, and clear status updates. An inclination towards communication, inclusion, and visibility.
+- Experience owning a project from concept to production, including proposal, discussion, and execution.
+- Self-motivated and self-managing, with excellent organizational skills.
+- Ability to thrive in a fully remote organization.
+- Ability to use Gitlab.
+
+Apply
+
+About company Billowmark
+
+Industry
+
+Продуктовая компания
+
+Investment
+
+$35M
+
+Company size
+
+11 - 50
+
+Billowmark — это технологичная платформа выставления счетов пациентам, которая работает как дополнение EHR / PM. Billowmark ускоряет и увеличивает денежный поток пациентов, упрощает операции выставления счетов после обслуживания и обеспечивает наилучший опыт работы с пациентами, который подходит для всех демографических групп.
+
+Apply

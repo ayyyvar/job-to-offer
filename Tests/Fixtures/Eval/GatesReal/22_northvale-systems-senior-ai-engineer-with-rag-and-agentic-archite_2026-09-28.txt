@@ -1,0 +1,82 @@
+Senior AI Engineer with RAG and Agentic architectures | Remote Work With Northvale
+
+Skip To Main Content
+
+Back to Search
+
+Senior AI Engineer with RAG and Agentic architectures
+
+Remote in Georgia, Armenia
+
+AI Solution Engineering
+
+apply
+
+FacebookLinkedInSend via email
+
+Looking for something else?
+
+Find a vacancy that works for you. Send us your CV to receive a personalized offer.
+Find me a job
+
+Location-specific conditions & benefits*
+
+Choose an option
+
+We're seeking a Senior AI Engineer to architect and ship LLM-powered applications and agentic systems that address genuine challenges for our users and teams. Your work will span the entire applied-AI stack — from retrieval-augmented generation (RAG) pipelines and prompt design to multi-step agents that reason, leverage tools, and automate end-to-end workflows.
+
+This position is for a senior builder. You'll drive complex use cases from ambiguous problems through to production: selecting appropriate models, implementing agentic architectures, connecting retrieval and tooling, establishing quality evaluation methods, and delivering dependable applications at scale.
+
+Responsibilities
+
+- Architect and deliver production LLM applications — chat, copilots, assistants, and autonomous workflows — from idea to scale
+
+- Construct and implement RAG pipelines: chunking, embeddings, vector search, reranking, and grounding to minimize hallucination and boost relevance
+
+- Create agentic architectures: multi-step reasoning, tool/function calling, planning, memory, and multi-agent orchestration
+
+- Support the automation of business and engineering workflows through agentic AI and workflow automation
+
+- Establish prompt and context strategies; construct evaluation harnesses and maintain quality, latency, and cost standards
+
+- Connect LLMs with internal data, APIs, and tools through connectors, function calling, and structured outputs
+
+- Deploy guardrails, safety, and observability for AI systems (tracing, evals, monitoring for quality and drift)
+
+- Partner with product, data, and platform teams to transform ambiguous problems into shipped AI features
+
+- Exchange knowledge with fellow engineers and take part in design reviews
+
+Requirements
+
+- 3+ years in software or ML engineering, including recent, hands-on experience building and shipping applications with LLMs
+
+- Demonstrated track record of delivering applied-AI systems end to end
+
+- Proficiency in Python at an advanced level
+
+- Background in building RAG systems — embeddings, retrieval, and reranking with vector databases (Pinecone, Qdrant, Milvus, or pgvector)
+
+- Expertise in LLM APIs and orchestration frameworks (OpenAI, Anthropic, LangChain, or LlamaIndex)
+
+- Skills in designing agentic architectures — tool use, function calling, planning loops, and agent orchestration in production
+
+- Competency in automating workflows with agentic AI or workflow-automation tooling
+
+- Knowledge of prompt engineering and structured/JSON output techniques
+
+- Capability to design evaluations and reason about LLM quality, cost, and latency trade-offs at scale
+
+- Strong command of written and spoken English (B2+ level)
+
+Nice to have
+
+- Familiarity with multi-agent frameworks (LangGraph, CrewAI, or AutoGen)
+
+- Background in fine-tuning, adapters (LoRA), or model distillation
+
+- Understanding of MLOps/LLMOps — deployment, versioning, and monitoring of AI systems, including model serving and inference optimization
+
+- Knowledge of AI safety, guardrails, and evaluation frameworks (Ragas, LangSmith, or promptfoo)
+
+- Expertise in cloud platforms (AWS, GCP, or Azure) and containerization (Docker, Kubernetes)

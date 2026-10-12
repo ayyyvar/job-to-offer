@@ -1,0 +1,104 @@
+AI Developer / ML Engineer at Pivotra | DSML Kazakhstan
+
+DSMLKZ
+
+Select language
+
+7 Sep 2026, 12:22 UTC+5
+
+Pivotra
+
+Remote
+
+Full-time
+
+ML
+
+Remote
+
+AI Developer / ML Engineer at Pivotra
+
+1SaveShare
+Applications: 135470
+
+Preparing DSML Apply...
+
+AI Developer / ML Engineer
+Pivotra
+1,600 to 3,200 USD NET per month
+Remote
+
+Pivotra focuses on innovative AI/ML solutions. Developing an internal AI platform for intelligent agents.
+
+Responsibilities:
+• Design and build multi-agent systems
+• Integrate LLMs with internal tools and services
+• Develop backend services and APIs for agent workflows
+• Implement RAG pipelines and tool/function calling
+• Build CLI-based agent workflows and automation tools
+• Build computer vision pipelines: object detection, multi-object tracking, person re-identification
+• Develop multi-camera multi-person tracking across camera networks
+• Work with real-time video streams and GPU inference optimization
+
+Requirements:
+• Node.js ecosystem (Express.js)
+• Python
+• Experience with LLM APIs and prompt engineering
+• Experience with RAG, tool calling, or agent frameworks
+• Familiarity with Docker, Linux, and Git
+• PyTorch and OpenCV
+• Object detection and multi-object tracking (YOLO, ByteTrack / BoT-SORT or similar)
+• Person re-identification and vector search (Milvus / FAISS)
+• Video processing: ffmpeg / GStreamer, RTSP, hardware decoding
+
+Optional:
+• NLP, ML experience
+• Open-source LLM deployment or inference optimization
+• Vision-language models (VLM)
+• TensorRT / ONNX Runtime
+
+Comments
+
+Member discussion for this news item or vacancy.
+
+Checking sign-in status...
+
+← Back to Jobs
+
+Search
+
+Related open jobs
+
+More active roles with a matching professional focus.
+
+Senior AI/ML Engineer
+
+Steppecom JSCAstana / Remote1,600,000 to 2,400,000 KZT NET per month
+
+Leading telecommunications company in Kazakhstan. AI solutions for Steppecom's Digital Office.
+
+Open job
+
+ML Engineer (Face Biometrics / Computer Vision / AI Security)
+
+IrislineAlmaty / Office1,000,000 to 2,000,000 KZT NET per month
+
+Irisline is an international AI company focused on biometric solutions for international markets. The company develops production-grade solutions in Face Biometrics, Digital Identity, KYC, AML, Fraud Prevention, and Identity Verification.
+
+Open job
+
+AI Engineer Instructor
+
+NOVURemote1,200,000 to 1,600,000 KZT NET per project
+
+NOVU is an IT academy that has been training specialists in technology and digitalization since 2013, with over 5,000 graduates. The course covers topics such as RAG and vector storage, MCP and AI agents, LLM and model fine-tuning, data and document handling, Evals, and CI/CD.
+
+Open job
+
+Lead AI / RAG Engineer: Self-Hosted Knowledge Platform
+
+Corvel AIRemote65 to 90 USD Gross per hour
+
+Corvel AI is an AI engineering consultancy building production-grade LLM, RAG, agent, and document-intelligence systems.
+
+Open job

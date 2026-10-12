@@ -1,0 +1,76 @@
+Senior AI Engineer | Remote Work With Northvale
+
+Skip To Main Content
+
+Back to Search
+
+Senior AI Engineer
+
+Remote in Georgia, & 4 others
+
+AI Solution Engineering
+
+apply
+
+FacebookLinkedInSend via email
+
+Looking for something else?
+
+Find a vacancy that works for you. Send us your CV to receive a personalized offer.
+Find me a job
+
+Location-specific conditions & benefits*
+
+Choose an option
+
+We are looking for a skilled, innovation-driven Senior AI Engineer to join our team and spearhead the development of cutting-edge Generative AI solutions.
+
+If you're passionate about artificial intelligence and adept at building systems that deliver measurable business impact, this opportunity is ideal for you. You will work with a dynamic group of professionals to create and deploy AI-driven technologies that tackle real-world challenges — all within a highly collaborative, supportive, and forward-focused environment.
+
+As a senior member of our team, you won't just write code; you will architect intelligent systems, consult directly with clients, mentor hungry talent, and turn the latest AI research into production-grade reality.
+
+If you love Python, Natural Language Processing (NLP), and staying on the cutting edge of Generative AI, we want to hear from you!
+
+Responsibilities
+
+- Architect and implement scalable AI applications, including chatbots, search platforms, and autonomous agent workflows
+
+- Collaborate directly with business stakeholders to understand their challenges and recommend smart, LLM-driven solutions
+
+- Create data pipelines, design smart prompt strategies, and build testing frameworks to ensure our AI models are safe, accurate, and cost-effective
+
+- Establish coding standards, perform code reviews, and mentor junior developers in AI best practices
+
+- Run quick experiments, build prototypes to test new models, and stay current with emerging AI research and tools
+
+Requirements
+
+- 3+ years of experience as a Senior Software Engineer delivering production-grade AI, Machine Learning, or LLM-based solutions
+
+- Strong proficiency in Python (especially web frameworks like FastAPI) and a solid grasp of NLP concepts (semantic similarity, tokenization, text classification)
+
+- Hands-on experience with modern AI patterns, particularly RAG (Retrieval-Augmented Generation) and AI Agents
+
+- Familiarity with major LLM APIs (OpenAI, Anthropic, Bedrock) and framework tools (like LangGraph or LlamaIndex)
+
+- Experience deploying AI applications at scale, managing cloud costs, and evaluating model quality (using retrieval metrics or LLM-based evaluation)
+
+- Ability to quickly spin up user interfaces using Streamlit, Gradio, or similar tools
+
+- Ability to explain complex technical ideas clearly to both developer teams and non-technical clients
+
+- Strong English communication skills (B2 level or higher)
+
+Nice to have
+
+- Development experience with TypeScript
+
+- Experience incorporating AI into the SDLC (using tools like GitHub Copilot or Cursor to write, test, and review code)
+
+- Cloud expertise with AWS or Azure (specifically Azure OpenAI or AWS Bedrock)
+
+- Experience using Databricks (MLflow, Agent Bricks, etc.) for data or model workflows
+
+- Knowledge of advanced search/retrieval systems (vector databases, semantic search, rerankers)
+
+- Familiarity with emerging open-source protocols (like Model Context Protocol — MCP) or LLM monitoring tools (like LangSmith or Arize Phoenix)

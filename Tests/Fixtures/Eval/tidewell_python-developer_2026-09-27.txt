@@ -1,0 +1,109 @@
+Python Developer
+Location: Metro Manila
+Workplace: Hybrid
+Employment: FullTime
+
+Tidewell is a technology-driven financial company building a banking and lending platform across Southeast Asia, starting in the Philippines.
+
+We combine global fintech expertise with deep local market knowledge to make financial services simple, accessible, and useful for millions of people across the region.
+
+7M+ app downloads. 2M+ monthly active users. 7,000+ partner stores. US$310M+ raised from leading global investors.
+
+Manila-based, globally distributed, and hybrid-first — our team spans 45+ countries.
+
+If you want to solve complex problems at scale and impact how millions of people access and manage money, come build with us.
+
+Southeast Asia's fintech moment starts here.
+
+
+ABOUT THE ROLE
+
+You'll join the Python Development team to design and build new backend services, expanding engineering capacity so Tidewell can launch strategically important new service lines.
+
+
+WHAT YOU'LL DO
+
+ - Design and build new backend services in a microservice, event-driven environment, with reliability as the primary constraint.
+
+ - Coordinate architecture and integrations with the Core and RBB teams to keep cross-team delivery consistent.
+
+ - Contribute to the delivery of a major new service line — for example collections or cross-matching graphs — as business priorities take shape.
+
+
+WHAT YOU'LL OWN
+
+ - Own key components in the existing architecture and take on new service domains as they come up.
+
+ - Design service architecture and choose communication patterns between services.
+
+ - Instrument services with metrics for monitoring and alerting, and cover them with unit tests.
+
+ - Identify and resolve technical debt and architectural bottlenecks.
+
+ - Build and maintain shared libraries and tooling for recurring tasks.
+
+ - Explore and adopt new instruments, and bring your own ideas to how we build.
+
+
+WHAT MAKES YOU A STRONG FIT
+
+ - 3+ years of production experience as a Python backend developer.
+
+ - Strong Python: typing, testing, packaging, asyncio, threading, multiprocessing.
+
+ - Production experience with microservice architecture.
+
+ - Familiarity with event-driven systems (e.g. Kafka).
+
+ - Experience with Docker and Kubernetes, preferably on AWS EKS.
+
+Nice to have
+
+ - Experience with AWS and Terraform, domain-driven design, a statically typed compiled language, work in finance, antifraud or risk, or graph databases and graph-based data models.
+
+
+WHAT WE OFFER
+
+Build what's next in Southeast Asian fintech.
+
+Ownership and flexibility
+
+ - Stock option plan — four-year vesting with a 25% cliff after the first year
+
+ - Hybrid-first, with fully remote work available for eligible roles and core collaboration hours from 12:00 to 19:00 Manila time (UTC+8)
+
+ - Company-provided tools and equipment
+
+ - Office in Bonifacio Global City, Manila — a modern, walkable district at the centre of the Philippines' growing tech scene
+
+Health and time off
+
+ - Medical insurance support for you and your family through co-funding or reimbursement, depending on your location and subject to policy limits
+
+ - Access to an internal mental health support specialist
+
+ - 22 vacation days, Philippine public holidays, and 15 sick days
+
+ - 105 days of paid maternity leave and up to 14 days of paid paternity leave for employees relocating to Manila
+
+Relocation and family support
+
+ - Relocation support for you, your family — including flights, two weeks of accommodation, visas, paperwork, and logistics
+
+ - Reimbursement of eligible pet relocation expenses
+
+ - US$2,500 per year for flights home
+
+ - Baby and family stipends for employees relocating to Manila: US$1,000 per month for each child under two and US$500 per month for each child aged two to 18
+
+Growth and team experience
+
+ - Opportunities to learn and share your expertise through internal expert meetups, external conferences, speaking opportunities, and industry publications
+
+ - Company-sponsored trips to Manila to meet and work with your team in person
+
+ - Regular team offsites, sports activities, and team events
+
+ - High-performing teams can earn a dedicated beach house week in Southeast Asia
+
+Considering a move to Manila? See what life with Tidewell looks like https://video.example.com/life-at-tidewell

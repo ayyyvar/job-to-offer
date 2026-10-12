@@ -1,0 +1,141 @@
+Вакансия Senior Machine Learning Engineer (ML Recall), работа в Searchwright, удалённо — getmatch — getmatch
+
+В приложении удобнее
+Установить
+
+Добавить в TelegramВойти
+
+Все вакансииData Scientist & Machine LearningRemoteSenior
+
+Senior Machine Learning Engineer (ML Recall)
+
+в Searchwright
+
+7 500 —‍ 10 000 $/‍мес до налогов
+
+📍 Весь мир
+
+Удалённо
+
+Специализация
+
+Data Scientist & Machine Learning
+
+Уровень
+
+Senior
+
+Английский
+
+B1 — Intermediate
+
+Требуемый опыт
+
+3+ лет
+
+Откликнуться
+
+Поделиться
+
+Технологии/инструменты
+
+NLP
+
+Python
+
+PyTorch
+
+SQL
+
+Spark SQL
+
+MySQL
+
+PySpark
+
+About Us
+
+Searchwright is the next-generation platform for search and discovery in e-commerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house, utilizing transformers and generative LLMs, and we use its core and personalization capabilities to power everything from search itself to recommendations to shopping agents. Engineering is by far our largest department, and we’ve built our proprietary engine to be the best on the market, having never lost an A/B test to a competitive technology. We’re passionate about maintaining this and work on the bleeding edge of AI to do so.
+
+Out of necessity, our engine is built for extreme scale and powers over 1 billion queries every day across 150 languages and roughly 100 countries. It is used by some of the biggest e-commerce companies in the world like Sephora, Under Armour, and Petco.
+
+We’re a passionate team who love solving problems and want to make our customers’ and coworkers’ lives better. We value empathy, openness, curiosity, continuous improvement, and are excited by metrics that matter. We believe that empowering everyone in a company to do what they do best can lead to great things.
+
+Searchwright is a U.S.-based company that has been in the market since 2019. It was founded by Eli Fairburn and Dan Mercer who still lead the company today.
+
+Role Overview
+
+Machine Learning Recall team builds and optimizes ML/DL models to improve customer experience by providing the best results in terms of relevancy (looks effective) and marginality (be effective). We're looking for a Senior MLE who will help us with that.
+
+In the second part of 2025, we plan to focus our attention on:
+
+- Recall: we don't want to lose good results.
+- Visual solutions: we would like to deliver end-to-end visual solutions for our customer, including (but not limited to) image search, shop the look, visual recommendations, etc.
+- Technical platform: we have many different technologies/models inside a team, and we would like to allow other teams to use them widely and integrate in their pipelines.
+
+Challenges you will tackle
+
+- Build and deploy robust ML systems for search (including text/image & multimodal approaches, etc).
+- Tune LLMs to improve our system in different aspects, not limited to what we already have.
+- Improve business KPIs by using new techniques/models and validating hypotheses.
+- Collaborate with other technical teams to exchange experiences to improve the overall system.
+- Be responsible for what you and your team do.
+
+Requirements
+
+- 3+ years of professional experience in applied machine learning.
+- Excellent NLP knowledge (especially transformer-based approaches).
+- Comprehensive knowledge of classical machine learning.
+- Extensive Python knowledge.
+- Experience with any DL framework (we’re using torch).
+- Experience with any SQL dialect (we’re using SparkSQL, MySQL and a couple more dialects).
+- You have delivered production ML systems.
+- Proficiency with big data stack for end-to-end ML product development (we’re using PySpark for most of our pipelines).
+- You are able to translate intuition into data-driven hypotheses that result in engineering solutions that bring significant business value.
+- Proactivity: you can't close your eyes to problems, but are ready to solve them.
+- You are friendly and willing to help your teammates & others.
+
+Nice to have:
+
+- Experience designing, conducting, and analyzing A/B tests.
+- Experience with Rust (or C/C++).
+- Experience with a public cloud like AWS, Azure, or GCP.
+- Strong knowledge of data structures, algorithms and their trade-offs.
+- Empathy.
+- Ability to explain difficult concepts.
+- You love to work on performance optimization, such as increasing result quality and improving code performance.
+
+Benefits
+
+- Unlimited vacation time - we strongly encourage all of our employees to take at least 3 weeks per year.
+- Fully remote team - choose where you live.
+- Work from home stipend! We want you to have the resources you need to set up your home office.
+- Apple laptops provided for new employees.
+- Training and development budget for every employee, refreshed each year.
+- Maternity & Paternity leave for qualified employees.
+- Work with smart people who will help you grow and make a meaningful impact.
+- Base salary: $80k–$120k USD, depending on knowledge, skills, experience, and interview results.
+- Stock options - offered in addition to the base salary.
+- Regular team offsites to connect and collaborate.
+
+Diversity, Equity, and Inclusion at Searchwright
+
+At Searchwright we are committed to cultivating a work environment that is diverse, equitable, and inclusive. As an equal opportunity employer, we welcome individuals of all backgrounds and provide equal opportunities to all applicants regardless of their education, diversity of opinion, race, color, religion, gender, gender expression, sexual orientation, national origin, genetics, disability, age, veteran status, or affiliation in any other protected group.
+
+Studies have shown that women and people of color may be less likely to apply for jobs unless they meet every one of the qualifications listed. Our primary interest is in finding the best candidate for the job. We encourage you to apply even if you don’t meet all of our listed qualifications.
+
+Откликнуться
+
+О компании Searchwright
+
+Сфера
+
+Продуктовая компания
+
+Размер
+
+201 - 500
+
+Searchwright делает платформу product discovery (поиск, рекомендации и многое другое) as a service для e-commerce. Среди клиентов Sephora, Petco, home24, Birkenstock. Недавно подняли очередной раунд.
+
+Откликнуться

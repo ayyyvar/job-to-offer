@@ -1,0 +1,43 @@
+Bytecastle hiring AI Automation Engineer in Erywań, Armenia | LinkedIn
+
+Are you GAME to JOIN US and be our new AI Automation Engineer?
+
+Bytecastle is on a search for a new player to join our AI Center Of Excellence team.
+
+Responsibilities
+
+- Design and implement production-grade AI agents and robust automation services
+- Create robust data pipelines for extraction and LLM-driven transformation
+- Integrate with external tools and APIs, including web parsers, email, chat systems, and streaming data
+- Expose agent workflows as well-documented APIs or event-driven services
+- Focus on building reliable systems with built-in caching, retries, observability, and performance optimization
+- Contribute to the development of internal SDKs and frameworks to accelerate AI agent development across the team
+- Partner with cross-functional teams to translate use cases into reliable, maintainable solutions
+
+Requirements
+
+- Bachelor's degree in Computer Science, Engineering, or a related field (Master’s degree preferred)
+- 5+ years of professional Python experience, with a focus on modern async and typed code
+- Proven track record building scalable backend APIs with modern web frameworks (e.g., FastAPI, Django)
+- Hands-on experience with LLM agent design patterns like ReAct and tool-calling, preferably with frameworks like LangChain
+- Practical experience with event-driven architectures (e.g., Kafka, RabbitMQ)
+- Experience with orchestration frameworks (e.g., Dagster, Airflow)
+- Proficiency with relational databases (e.g., PostgreSQL) and non-relational databases (e.g., MongoDB, Redis, PgVector)
+- Strong knowledge of CI/CD practices, preferably with Azure DevOps
+- Commitment to writing strong unit and integration tests
+- Ability to work independently and thrive in a fast-paced, evolving project environment
+
+Do you like to learn hard, work hard and play hard?
+
+Do you imagine better things, technologies, future?
+
+If you answered “Yes” to at least two of these questions then we might be a great fit for you.
+
+- Poziom w hierarchii
+Kadra średniego szczebla
+- Forma zatrudnienia
+Pełny etat
+- Funkcja
+Technologie informatyczne
+- Branże
+Usługi i doradztwo informatyczne

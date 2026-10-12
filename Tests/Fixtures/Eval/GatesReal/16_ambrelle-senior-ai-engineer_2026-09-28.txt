@@ -1,0 +1,171 @@
+Senior AI Engineer at Ambrelle – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+Senior AI Engineer
+
+Ambrelle
+
+Copy link Copied
+
+$$$$
+
+About the Product
+
+We are developing a platform of AI analyst coworkers that deliver industry insights. The agents operate in secure, sandboxed environments and can use tools, communicate across channels, and complete complex tasks with human oversight.
+
+About the Role
+
+You will join a small engineering team building and operating the platform’s agentic AI capabilities. This is a hands-on role covering AI agents, system architecture, production reliability, feature design and secure deployment.
+
+Tech Stack
+
+- TypeScript, Node.js, and Bun
+
+- LLM APIs, agent SDKs, and MCP
+
+- SQL and SQLite
+
+- GCP, including Cloud Run, Cloud Build, and Artifact Registry
+
+- Terraform and CI/CD
+
+- Event-driven messaging and asynchronous processing
+
+- Structured logging, monitoring, and tracing
+
+Key Responsibilities
+
+- Design and build production AI agents that can plan, use tools, maintain context, and complete complex tasks.
+
+- Design scalable systems for agent orchestration, messaging, task execution, permissions, and persistent state.
+
+- Integrate LLM providers, external APIs, databases, and communication channels.
+
+- Build secure, sandboxed environments for executing agent workloads.
+
+- Develop evaluation, monitoring, and debugging tools for agent quality and reliability.
+
+- Deploy and operate AI services on GCP.
+
+- Own technical decisions and establish strong engineering, testing, and security practices.
+
+Required Skills
+
+- 7+ years of software engineering experience.
+
+- Hands-on experience delivering production AI or agentic systems used by real users.
+
+- Strong system design experience, particularly with distributed and event-driven systems.
+
+- Strong backend development skills in TypeScript, Python, Go, Java, Rust, or a similar language.
+
+- Experience with LLM APIs, tool calling, structured outputs, context management, and agent workflows.
+
+- Experience with SQL databases, asynchronous processing, retries, idempotency, and failure handling.
+
+- Production experience with GCP, Docker, CI/CD, and infrastructure as code.
+
+- Strong understanding of application security, permissions, secrets, and workload isolation.
+
+- Experience with observability, incident investigation, and production operations.
+
+- Ability to work independently and communicate clearly in a fast-moving environment.
+
+Nice to Have
+
+- Experience with agent frameworks such as LangGraph, LangChain, CrewAI, OpenAI Agents SDK, Claude Agent SDK, or similar.
+
+- Experience with Terraform, Kubernetes, vector search, RAG, or multi-agent systems.
+
+- Experience with financial research or analyst workflows.
+
+Who We Are
+
+Adélie Cognition builds solutions for a private investment firms and offices powered by latest AI models.
+
+Required domain experience
+
+Fintech 2 years
+
+Required languages
+
+English C1 - Advanced
+
+Ukrainian Native
+
+Published 22 September
+
+83 views
+
+·
+
+26 applications
+
+Response activity: Very high
+
+Last responded 2 days ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- from 5 years of experience
+
+Considering with 4 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English C1 - Advanced
+
+- Ukrainian Native
+
+- ML / AI
+
+- Employment: Fulltime
+
+- Domain: Fintech
+
+- Startup
+
+Apply for the job
+
+Response activity: Very high
+
+Last responded 2 days ago
+
+📊 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

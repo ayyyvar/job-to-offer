@@ -1,0 +1,84 @@
+Fortivo hiring Python Solutions Architect (GenAI) in Yerevan, Yerevan, Armenia | LinkedIn
+
+About The Role:
+Fortivo is a global AI and cloud consulting company helping enterprises turn artificial intelligence and data into production-ready business solutions. We specialize in designing, building, and scaling end-to-end AI/ML systems, data platforms, and cloud-native architectures, with strong expertise in AWS, MLOps, and enterprise-grade AI delivery.
+
+We are an official Anthropic partner, working with cutting-edge foundation models to help organizations safely and effectively adopt advanced AI capabilities.
+
+Our consulting teams operate across industries such as finance, healthcare, retail, and technology, delivering solutions with measurable business impact through hands-on engineering and advisory.
+
+As a Solutions Architect, you will drive the development of GenAI-powered solutions, including AI agents, RAG systems, and Python services. You will provide technical leadership, own solution architecture, mentor engineers, and guide projects from discovery to production.
+
+What You’ll Bring:
+Mindset
+
+- Full-stack mindset, comfortable across AI, backend development, and cloud infrastructure
+- Already using AI tools in your daily workflow (Claude Code, Copilot, or similar)
+- Proactive and self-directed; you own outcomes end-to-end and spot problems before they're handed to you
+- B2+ English, comfortable collaborating across distributed, multicultural teams
+
+Presales & Client Engagement
+
+- Owns the client technical relationship; leading discovery, decomposing ambiguous requirements into technical components, presenting architecture, and pushing back on scope when it doesn't match timeline or budget
+- Produces scoped, phased delivery plans with clear deliverables, dependencies, and risks
+- Experience with cost estimation and cloud architecture cost optimization
+
+Python, AI & Cloud
+
+- 7+ years building and running production systems not only demos and POCs
+- Strong understanding of AI/ML concepts and experience integrating AI/ML components into solutions
+- Strong Python proficiency: OOP, design patterns, clean architecture, and performance optimization
+- Experience building RESTful APIs with FastAPI, Django REST, or Flask
+- Experience making and defending architectural trade-off decisions: microservices vs monolith, sync vs event-driven, SQL vs NoSQL
+- Strong testing practices: pytest, mocking, and integration tests for AI systems
+- Experience with Docker and Kubernetes
+- Hands-on experience building production LLM-based applications and agentic workflows
+- Experience with LLM APIs (OpenAI, Anthropic, or AWS Bedrock)
+- Experience building and optimizing RAG systems
+- Understanding of LLM evaluation techniques and quality assurance approaches
+- Experience deploying and maintaining AI/ML models in production environments
+- Hands-on experience with AWS (SageMaker, Bedrock, Lambda, ECS, S3, SQS, ECR, or similar); GCP considered
+- Experience with React/Vue
+- AWS and Claude Code Certifications
+
+Nice to Have
+
+- Experience with Streamlit or Gradio for AI prototyping
+- Modern Python tooling (ruff, uv, pyproject.toml, pyright)
+- CI/CD pipeline experience (GitHub Actions, GitLab CI)
+- Experience in an additional language (Go, Node.js, or Rust)
+- Front-end experience
+
+What You’ll Do:
+
+- Write clean, production-grade Python across AI integrations, backend services, and RESTful APIs
+- Implement and optimize RAG systems for production use cases
+- Design and build LLM-based and agentic AI solutions that address real client business challenges
+- Own the technical direction of client engagements from discovery through delivery
+- Support presales: discovery calls, technical proposals, scoping, and client-facing demos
+- Lead architecture reviews, produce technical design documents, and contribute to standards across the Python practice
+- Mentor engineers, lead code reviews, and share knowledge across the team
+- Build and maintain strong relationships with key client stakeholders as a trusted technical advisor
+
+What We Offer:
+
+- Opportunity to work with cutting-edge AI and cloud solutions
+- Internal training programs (Leadership, Public Speaking, and more) with full support for AWS and other professional certifications
+- Career growth: a clear path toward SA or beyond; we actively develop our engineers
+- Access to the latest AI tools and premium subscriptions
+- Long-term B2B collaboration
+- Remote with flexible hours
+- Private medical insurance or a budget for your medical needs
+- Paid sick leave, vacation, and public holidays
+- Equipment and all the tech you need for comfortable, productive work
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.
+
+- Seniority level
+Not Applicable
+- Employment type
+Full-time
+- Job function
+Sales, Consulting, and Engineering
+- Industries
+Business Consulting and Services, IT Services and IT Consulting, and Professional Training and Coaching

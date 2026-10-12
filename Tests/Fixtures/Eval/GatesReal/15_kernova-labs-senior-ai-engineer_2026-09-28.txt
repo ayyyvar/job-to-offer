@@ -1,0 +1,159 @@
+Senior AI Engineer at Kernova Labs – Djinni
+
+Error
+
+Open in Djinni mobile app
+
+- All jobs
+- Data Science
+- ML / AI
+
+Senior AI Engineer
+
+Kernova Labs 🔥
+
+Copy link Copied
+
+$$$$
+
+Role Overview
+
+We are looking for a Senior AI Engineer to own the Python AI service inside a learning-platform programme and act as the technical voice in front of the client.
+
+About one-third to one-half of the role focuses on LLM and agent engineering. The rest covers backend development, data modelling, architecture, and the DevOps needed to keep everything shipping.
+
+Project Description
+
+The client is a US remote online-learning provider. Their learning-content platform is a .NET application; our team builds the Python AI service that sits alongside it, handling retrieval over the platform's content and, increasingly, agent workflows on top of it. The retrieval and recommendation layer is already delivered; the next phase is LLM engineering and agents, with custom model training a possibility later rather than a certainty.
+
+All models used in the system are open-source and deployed on the client's own infrastructure, so this is a self-hosted inference. Agent work uses frameworks in the Google ADK / LangChain family. The .NET side is being taken over by other developers on the team, but you will still need to read and occasionally change it, which in practice means working through a coding agent in a language you may not write natively.
+
+Two things about the environment are worth saying plainly. Requirements move constantly, so the role includes running the conversations that pin them down — meetings, diagrams, written specifications, and the patience to re-explain. And the infrastructure is branched: pipelines run in GitLab CI/CD, environments are separated, and configuration and keys live in repositories the team does not own, so working DevOps ability is a practical requirement.
+
+Key Responsibilities
+
+- Own the Python AI service end to end — retrieval, LLM orchestration, and the agent workflows built on top of it.
+- Design and build agent workflows using a Google ADK.
+- Work with open-source models deployed on the client's own infrastructure, including selection, prompting, and performance tuning.
+- Own the service's data model, database design, and backend architecture.
+- Run requirement sessions directly with client stakeholders and produce the diagrams and written specifications that settle them.
+- Own policy-governed, auditable AI pipelines: human-review gating, content lineage, tenant/role policy enforcement.
+- Integrate the AI service with the client's .NET learning-content platform, reading and changing that code where needed.
+- Maintain and extend CI/CD pipelines in GitLab across separated development environments.
+- Trace configuration, keys and pipeline definitions across repositories the team does not own, and unblock delivery when they break.
+- Propose an approach and defend it, rather than waiting for the requirement to arrive fully formed.
+- Hand .NET-side work over to the developers taking it on, with documentation they can act on.
+- Prepare the service for custom model training and evaluation if that work lands with this team.
+- Owning prompt/model versioning and an evaluation harness gating changes.
+
+Required Qualifications
+
+- Senior-level commercial Python experience, with ownership of a production service.
+- Ability to read and modify .NET / C# code.
+- Hands-on LLM engineering in production — retrieval-augmented generation, context design, prompt and output handling.
+- Experience building agent workflows with a framework such as Google ADK, LangChain, or LangGraph.
+- Backend and database design experience, including making the architectural calls rather than following them.
+- Working DevOps ability — CI/CD pipelines, containers, and multi-environment configuration.
+- Willingness and ability to work in a codebase written in a language you do not primarily use.
+- Strong client-facing communication: running requirement sessions, producing diagrams, and holding a position under pressure.
+- English at a level that supports direct client meetings without an intermediary (at least B2 level).
+- Comfort with requirements that change between meetings.
+
+Preferred Qualifications
+
+- Experience with document based db like MongoDB, or similar
+- Experience with OpenSearch/vector search.
+- Experience with Kubernetes.
+- Experience deploying and operating self-hosted open-source models.
+- MLOps experience — training pipelines, fine-tuning, model monitoring and evaluation.
+- Experience with learning-management or content-management platforms.
+- Experience delivering alongside a partner vendor's team, including a business analyst outside your own organisation.
+- Daily working experience with coding agents in a large, unfamiliar codebase.
+
+Required skills experience
+
+Claude 2 years
+
+Google ADK 1.5 years
+
+C# 2 years
+
+Python 2 years
+
+Required languages
+
+English B2 - Upper Intermediate
+
+Published 10 September · Updated 24 September
+
+161 views
+
+·
+
+50 applications
+
+Response activity: Low
+
+Last responded 2 weeks ago
+
+See stats of candidates who applied for this job 👀
+
+See applicant insights
+
+Apply for the job
+
+Job application
+
+Message & contact details
+
+Message
+
+Email
+
+Your name
+
+You need LinkedIn or CV to apply for the job.
+
+Incorrect LinkedIn URL.
+
+Send application
+
+- Only from 5 years of experience
+
+- Full Remote
+- Countries of Europe or Ukraine
+Countries where we consider candidates
+
+- - English B2 - Upper Intermediate
+
+- ML / AI
+
+Claude 2 years
+
+Google ADK 1.5 years
+
+C# 2 years
+
+Python 2 years
+
+- Employment: Fulltime
+
+- Domain: Education
+
+- Outsource
+
+Apply for the job
+
+Response activity: Low
+
+Last responded 2 weeks ago
+
+📊 $4000-6000 Average salary range of similar jobs in analytics →
+
+Loading...
+
+We use cookies to improve your experience.
+
+Learn more
+
+Okay

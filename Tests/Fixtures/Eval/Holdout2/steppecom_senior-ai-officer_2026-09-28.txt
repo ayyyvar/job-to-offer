@@ -1,0 +1,70 @@
+Senior AI Officer at Steppecom JSC | DSML Kazakhstan
+
+DSMLKZ
+
+Select language
+
+14 Sep 2026, 18:11 UTC+5
+
+Steppecom JSC
+
+Astana, office
+
+Full-time
+
+ML
+
+Senior AI Officer at Steppecom JSC
+
+0SaveShare
+Applications: 13193
+
+Preparing DSML Apply...
+
+Senior AI Officer
+Steppecom JSC
+1,000,000 to 2,000,000 KZT NET per month
+Astana, office
+
+Steppecom JSC is a leading telecommunications company in Kazakhstan. Developing a corporate AI-agent platform with RAG assistants for internal documents and business processes.
+
+Responsibilities:
+• Formulate AI strategy and roadmap for the business direction
+• Identify the most promising applications of AI
+• Independently launch initial prototypes and AI pilots
+• Quickly test hypotheses and demonstrate measurable results
+• Create AI agents, RAG solutions, and AI automation
+• Form and prioritize a portfolio of AI initiatives
+• Collaborate with FDE and AI team to bring successful pilots to production and scaling
+• Reimagine business processes considering AI capabilities
+• Work with business leaders to advocate for AI initiatives
+• Stay updated on AI technology developments and apply new approaches in real business cases.
+
+Requirements:
+• 7+ years of professional experience in AI/ML technologies, product development, or digital transformation
+• Practical experience in launching AI/ML or technology products
+• Strong understanding of LLM, Generative AI, AI Agents, and RAG
+• Ability to independently assemble a working AI prototype
+• Product mindset and focus on quick results
+• Strategic thinking and ability to form AI roadmap
+• Ability to connect technologies with specific business effects
+• Experience working with executives and top management
+• High independence and responsibility for results
+• Practical experience with OpenAI, Claude, Gemini, Llama, Qwen, or similar LLM
+• Experience with LLM API, Prompt Engineering, Tool/Function Calling
+• Experience creating AI agents using LangChain, LangGraph, LlamaIndex, or similar
+• Practical understanding of RAG, embeddings, vector databases
+• Use of AI coding tools: Codex, Cursor, Claude Code, or similar
+• Proficiency in Python, REST API, SQL for prototype development
+• Experience with n8n, Make, or other automation tools
+• Understanding of LLM operation principles, model costs, and corporate data security issues.
+
+Comments
+
+Member discussion for this news item or vacancy.
+
+Checking sign-in status...
+
+← Back to Jobs
+
+Search
