@@ -10,7 +10,7 @@ Any public Greenhouse, Lever, or Ashby job URL works. Any other public job posti
 
 ## Requirements for the reviewer's device
 
-- iPhone 15 Pro or later with Apple Intelligence turned on. The app parses postings with Apple's on-device model; it does not run on devices without Apple Intelligence. The app still opens and shows the setup status in Settings.
+- iPhone 15 Pro or later with Apple Intelligence turned on. The app parses postings with Apple's on-device model; it does not run on devices without Apple Intelligence. The app still opens and shows the setup status in Profile → gear icon (Settings).
 - English device language and English Siri language.
 - English job postings. Other languages are not supported in V1.
 
@@ -25,12 +25,12 @@ The app makes one fetch for each URL the user shares or pastes:
 - the shared URL itself, to read the posting; or
 - for a Greenhouse, Lever, or Ashby URL, the matching public job API for that same posting.
 
-The app does not crawl sites, does not scrape job boards, and does not fetch other pages.
+One more request is user-initiated: "Search company boards" in the Inbox reads the public Greenhouse, Lever, or Ashby job lists of the companies the user added. The app does not crawl sites and does not fetch anything in the background.
 
 ## Steps to test
 
 1. Open job-to-offer.
-2. Optional: go to Settings → Profile and add regions, languages, and a resume (paste text or import a file). The app works without a profile; gates then show "unverified" where a profile is needed.
+2. Optional: open the Profile tab and add regions, languages, and a resume (paste text or import a file). The app works without a profile; gates then show "unverified" where a profile is needed.
 3. In Safari, open the sample URL above and tap Share → job-to-offer ("Add to job-to-offer"). Or copy the URL and paste it in the Inbox.
 4. In the Inbox, tap Parse.
 5. Open the job. Read the verdict, the eligibility, language, and location checks, and the quoted sentence behind any FAIL or FLAG.
