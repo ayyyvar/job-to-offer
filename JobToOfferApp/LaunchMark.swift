@@ -94,17 +94,19 @@ struct LaunchOverlay: View {
         }
         .accessibilityElement()
         .accessibilityLabel("job to offer")
+        .contentShape(.rect)
+        .onTapGesture { withAnimation(.easeOut(duration: 0.2)) { shown = false } } // tap skips the intro
         .task {
             if reduceMotion { progress = 1 } else {
-                // ponytail: discrete steps drive the Canvas; a TimelineView is smoother if 90 steps ever look choppy.
-                let steps = 90
+                // ponytail: discrete steps drive the Canvas; a TimelineView is smoother if 60 steps ever look choppy.
+                let steps = 60
                 for k in 1...steps {
-                    try? await Task.sleep(for: .milliseconds(2400 / steps))
+                    try? await Task.sleep(for: .milliseconds(1200 / steps))
                     let t = CGFloat(k) / CGFloat(steps)
                     progress = t < 0.5 ? 2 * t * t : 1 - pow(-2 * t + 2, 2) / 2
                 }
             }
-            try? await Task.sleep(for: .milliseconds(700))
+            try? await Task.sleep(for: .milliseconds(300))
             withAnimation(.easeOut(duration: 0.3)) { shown = false }
         }
     }
